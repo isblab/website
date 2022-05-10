@@ -22,7 +22,7 @@ We're working on characterizing specific assemblies in close collaborations with
 </p>
 
 ## Join us!
-Interested in collaborating with us or joining us? Please contact us/check out the [Opportunities](Opportunities.html) page.
+Interested in collaborating with us or joining us? Please contact us/check out the [Opportunities](/Opportunities) page.
 
 ## Contact
 

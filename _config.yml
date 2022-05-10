@@ -28,5 +28,7 @@ collections:
                 output: true
         publications:
                 output: true
+        structures:
+                output: true
         alumni:
                 output: true
