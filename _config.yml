@@ -1,0 +1,32 @@
+
+title: "ISB Lab"
+name: "ISB Lab"
+description: "Web site for the Integrative Structural Biology Lab at NCBS."
+
+url: "https://isblab.ncbs.res.in"
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+        - .DS_Store
+
+collections:
+        members:
+                output: true
+        publications:
+                output: true
+        alumni:
+                output: true

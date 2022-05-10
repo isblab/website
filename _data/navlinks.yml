@@ -1,0 +1,27 @@
+- name: Home
+  link: "/"
+  group: Home
+
+- name: Research
+  link: "/research"
+  group: Research
+
+- name: Team
+  link: "/Team"
+  group: Team
+
+- name: Publications
+  link: "/publications"
+  group: publications
+
+- name: Software & Resources
+  link: "/Software"
+  group: Software
+
+- name: Opportunities
+  link: "/Opportunities"
+  group: Opportunities
+
+- name: Lab fun
+  link: "/Fun"
+  group: Fun
