@@ -6,7 +6,7 @@ group: join
 
 # Join us!
 
-We welcome highly motivated students who are excited to work in integrative structural biology.  We are an interdisciplinary team who combine protein structural modeling with cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with other labs on campus and elsewhere. Students work on a spectrum of projects from computational method development to modeling specific assemblies to cell biology/biochemistry experiments. <br><br>
+We welcome highly motivated students who are excited to work in integrative structural biology.  We combine protein structural modeling with cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with other labs on campus and elsewhere. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies to cell biology/biochemistry experiments. <br><br>
 
 The lab is an interdisciplinary environment and has had students from biology (biochemistry, Biotech, microbiology), medicine, physics, chemistry, computer science, and engineering backgrounds. Folks who'd like to cross-train (e.g., biologists who are curious about programming, or computer scientists who'd like to develop tools for biology) are most welcome. <br><br>
 
