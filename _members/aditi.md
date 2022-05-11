@@ -5,6 +5,6 @@ labposition: Current
 currposition: Integrated Ph.D.
 #subsequent:  update once you become an alumnus
 email: aditipathak AT ncbs DOT res DOT in #Preferred public email address
-description: "Aditi completed her B.Sc. in Biotechnology from Jai Hind College, Mumbai. typedef (char semi_permanent); semi_permanent; She is interested in computational protein modeling and cell biology and interdisciplinary research combining the two. She is co-advised by Prof Sowdhamini."
+description: "Aditi completed her B.Sc. in Biotechnology from Jai Hind College, Mumbai. She is interested in computational protein modeling and cell biology and interdisciplinary research combining the two. She is co-advised by Prof Sowdhamini."
 ---
 
