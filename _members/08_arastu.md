@@ -5,6 +5,6 @@ labposition: Alumni
 currposition: Summer Intern 2021
 #subsequent: 
 #email: #preferred public email address
-description: "IISER Mohali"
+description: "BS-MS, IISER Mohali"
 ---
 

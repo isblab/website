@@ -36,7 +36,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
 
-- [Statistical Inference in Biology](http://moodle.ncbs.res.in/course/view.php?id=107) co-taught with Dr Shaon Chakrabarti at NCBS.  <br>
+- [Statistical Inference in Biology](http://moodle.ncbs.res.in/course/view.php?id=107) (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.  <br>
 
 - Crash course in [Python](https://github.com/isblab/pycrash) taught during the Statistical Inference course.  <br>
 

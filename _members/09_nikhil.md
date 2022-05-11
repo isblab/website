@@ -5,6 +5,6 @@ labposition: Alumni
 currposition: Intern 2020
 #subsequent: 
 #email:  #Preferred public email address
-description: "Eka.care"
+description: "Senior Data Scientist, Eka.care"
 ---
 
