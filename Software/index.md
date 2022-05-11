@@ -7,7 +7,6 @@ group: Software
 ## ISB Lab Software and Resources
 <br>
 
-<span style="color:purple;">
 ### Software
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
@@ -32,8 +31,8 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 - [**Scoring functions**](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials): PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.   
 
 - [**Other utilities**](https://github.com/isblab/dockingScripts): Contains the only open-source (to the best of our knowledge) script for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br>
-</span>
-<span style="color:magenta;">
+
+
 ### Courses and workshops
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
@@ -41,9 +40,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 - [Statistical Inference in Biology](http://moodle.ncbs.res.in/course/view.php?id=107) co-taught with Dr Shaon Chakrabarti at NCBS.  <br>
 
 - Crash course in [Python](https://github.com/isblab/pycrash) taught during the Statistical Inference course.  <br>
-</span>
 
-<span style="color:grey;">
 ### Learning Material
 
 **Python Resources**
@@ -55,4 +52,4 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
   - Witten et. al. [Introduction to Statistical Learning](https://www.statlearning.com/)
   - Bishop, Christopher M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
   - Hastie, Tibshirani and Friedman. [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
-</span>
+
