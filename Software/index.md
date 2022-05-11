@@ -7,7 +7,7 @@ group: Software
 ## ISB Lab Software and Resources
 <br>
 
-<span style="Color:purple">
+<span style="color:purple;">
 ### Software
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
@@ -33,7 +33,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 - [**Other utilities**](https://github.com/isblab/dockingScripts): Contains the only open-source (to the best of our knowledge) script for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br>
 </span>
-<span style="color:magenta">
+<span style="color:magenta;">
 ### Courses and workshops
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
@@ -43,7 +43,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 - Crash course in [Python](https://github.com/isblab/pycrash) taught during the Statistical Inference course.  <br>
 </span>
 
-<span style="color:grey">
+<span style="color:grey;">
 ### Learning Material
 
 **Python Resources**
