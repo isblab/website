@@ -6,7 +6,7 @@ group: Software
 
 ## ISB Lab Software and Resources
 
-<h2 color="blue">Software</h2>
+### Software
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
 
