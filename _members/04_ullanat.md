@@ -1,6 +1,6 @@
 ---
 name: Varun Ullanat
-image: /static/img/members/ullanat.jpeg #200 x 200 pixels, 72 dpi
+image: /static/img/members/varun.jpeg #150 x 150 pixels, 72 dpi
 labposition: Current
 currposition: Graduate Trainee
 #subsequent:  update once you become an alumnus
