@@ -1,11 +1,11 @@
 ---
-name: Varun Ullanat
-image: /static/img/members/ullanat.jpeg #365 x 365 pixels, 72 dpi
-labposition: Graduate Trainee (2021-Present)
-currposition: Current
-#subsequent:  update once you become an alumnus
-email: varappu DOT ram @ gmail DOT com #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID
-website: https://website.com/
-description: "Just did it. So Fast!!!"
+Name: Varun Ullanat
+Image: /static/img/members/ullanat.jpeg #365 x 365 pixels, 72 dpi
+Labposition: Graduate Trainee (2021-Present)
+Currposition: Current
+#Subsequent:  update once you become an alumnus
+Email: varappu DOT ram @ gmail DOT com #Preferred public email address
+Scholar: XXXXXXXXXXXX #Google Scholar User ID
+Website: https://website.com/
+Description: "Just did it. So Fast!!!"
 ---
