@@ -4,37 +4,54 @@ layout: default
 group: Software
 ---
 
-# ISB Lab Software and Resources
+## ISB Lab Software and Resources
+<br>
 
-## Software
+### Software
 
-- ISB Lab github [https://github.com/isblab]
-
-- Integrative modelling Platform (IMP)[https://integrativemodeling.org/]
-
-- StOP: Stochastic Optimization of Parameters for Integrative Modeling [https://github.com/isblab/stop]
-
-- Prism: Annotating precision for integrative structure models [https://github.com/isblab/prism]
-
-- Sampcon: Analyzing integrative models [https://github.com/salilab/imp-sampcon]
-
-- DOCK/PIERR: Scoring functions for models of protein-protein complexes [https://github.com/salilab/imp-sampcon]
-
-- Docking scripts : Script for scoring models of protein-protein complexes, calculating interface RMSD, utilities for modifying PDBs, adding chain names etc. [https://github.com/isblab/dockingScripts]
+Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br><br>
 
 
-## Courses
+#### IMP-related 
 
-- IMP Workshop [https://integrativemodeling.org/talks.html]
-- Statistical Inference in Biology (SIB) [http://moodle.ncbs.res.in/course/view.php?id=107]
+Many of the packages we develop are integrated with the Integrative modeling Platform (IMP)[https://integrativemodeling.org/], which we use to model protein assemblies. <br><br>
 
 
-##  Programming Resources (check SIB course page)
-- Python Crash Course [https://nbviewer.org/gist/rpmuller/5920182]
+- (**StOP**)[https://github.com/isblab/stop] : Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP. 
+	-  Check this tutorial for optimizing Monte Carlo (move sizes/restraint weights)[https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md].
+	-  And this one for optimizing (replica exchange temperatures)[https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md]. <br><br>
 
-- Python Resources 
-  - [https://www.kaggle.com/learn/python]
-  - [https://swcarpentry.github.io/python-novice-inflammation/index.html]
-  - [http://swcarpentry.github.io/python-novice-gapminder/]
+
+- (**PrISM**)[https://github.com/isblab/prism] : Package to annotate high- and low-precision regions in integrative structure models. Works on models from IMP as well as models produced by other software (in PDB format).  <br><br>
+
+- (**Sampcon**)[https://github.com/salilab/imp-sampcon] : Pipeline for analysing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision. <br><br>
+
+
+#### Protein-protein docking-related 
+
+- (**Scoring functions**)[https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials]: PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.   
+
+- (**Other useful PDB parsing and docking scripts**)[https://github.com/isblab/dockingScripts]: Contains the only open-source (to the best of our knowledge) script for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br><br>
+
+
+### Courses and workshops
+
+- IMP (Workshops)[https://integrativemodeling.org/talks.html]  <br><br>
+
+- Statistical Inference in Biology (SIB; internal link)[http://moodle.ncbs.res.in/course/view.php?id=107] co-taught yearly with Dr Shaon Chakrabarti at NCBS.  <br><br>
+
+- Crash course in Python for (Biologists)[https://github.com/isblab/pycrash].  <br><br>
+
+### Other resources 
+
+-**Python Resources** 
+  - Crash course in Python for (scientists)[https://nbviewer.org/gist/rpmuller/5920182]
+  - Kaggle crash course [https://www.kaggle.com/learn/python]
+  - Software Carpentry courses (here)[https://swcarpentry.github.io/python-novice-inflammation/index.html] and (here)[http://swcarpentry.github.io/python-novice-gapminder/]
+ 
+-**Machine learning texts**
+  - Witten et. al. Introduction to Statistical Learning. (link)[https://www.statlearning.com/]
+  - Bishop, Christopher M. Pattern Recognition and Machine Learning.  (link)[https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/] 
+  - Hastie, Tibshirani and Friedman, Elements of Statistical Learning. (link)[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf]
 
 
