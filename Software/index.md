@@ -6,12 +6,12 @@ group: Software
 
 ## ISB Lab Software and Resources
 
-### 1. Software
+<h2 color="blue">Software</h2>
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
 
 
-#### a. IMP-related
+#### IMP-related
 
 Many of the packages we develop are integrated with the Integrative modeling Platform [IMP](https://integrativemodeling.org/), which we use to model protein assemblies. <br>
 
@@ -25,14 +25,14 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 - [**Sampcon**](https://github.com/salilab/imp-sampcon) : Pipeline for analysing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision. <br>
 
 
-#### b. Protein-protein docking-related
+#### Protein-protein docking-related
 
 - [**Scoring functions**](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials): PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.   
 
 - [**Other utilities**](https://github.com/isblab/dockingScripts): Contains the only open-source (to the best of our knowledge) script for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br>
 
 
-### 2. Courses and workshops
+### Courses and workshops
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
 
@@ -40,7 +40,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 - Crash course in [Python](https://github.com/isblab/pycrash) taught during the Statistical Inference course.  <br>
 
-### 3. Learning Material
+### Learning Material
 
 **Python Resources**
   - Python crash course for [scientists](https://nbviewer.org/gist/rpmuller/5920182)
