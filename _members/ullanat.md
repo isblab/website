@@ -6,5 +6,5 @@ Currposition: Graduate Trainee
 #Subsequent:  update once you become an alumnus
 Email: varappu DOT ram AT gmail DOT com #Preferred public email address
 Website: https://website.com/
-Description: "Just did it. So Fast!!!"
+Description: "Varun has a Bachelors in Biotech engineering. He is working on inference-based method development projects in integrative modeling."
 ---
