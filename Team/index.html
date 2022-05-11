@@ -8,7 +8,7 @@ group: team
 
 {% for member in site.members %}
 
-{% if member.labposition contains "alumni" %}
+{% if member.labposition contains "Alumni" %}
 {% continue %}
 {% endif %}
 
@@ -38,7 +38,7 @@ group: team
 <h4>Alumni: hall of fame </h4>
 
 {% for member in site.members %}
-{% unless member.labposition contains "alumni" %}
+{% unless member.labposition contains "Alumni" %}
 {% continue %}
 {% endunless %}
 
