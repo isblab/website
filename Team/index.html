@@ -8,7 +8,7 @@ group: team
 
 {% for member in site.members %}
 
-{% if member.labposition contains "Alumni" %}
+{% if member.labposition contains "alumni" %}
 {% continue %}
 {% endif %}
 
@@ -25,7 +25,6 @@ group: team
                <!--  {% if member.website %}
                   <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
                 {% endif %}
-
                 -->
 
             </div>
@@ -39,7 +38,7 @@ group: team
 <h4>Alumni: hall of fame </h4>
 
 {% for member in site.members %}
-{% unless member.labposition contains "Alumni" %}
+{% unless member.labposition contains "alumni" %}
 {% continue %}
 {% endunless %}
 
