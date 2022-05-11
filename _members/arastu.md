@@ -4,7 +4,7 @@ name: arastu pandey
 labposition: Alumni - summer intern (2021)
 currposition: IISER Mohali
 #subsequent: 
-email: in #preferred public email address
-#description: ""
+#email: #preferred public email address
+description: ""
 ---
 
