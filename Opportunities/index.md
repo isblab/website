@@ -1,7 +1,7 @@
 ---
 title: Opportunities
 layout: default
-group: default
+group: Opportunities
 ---
 
 # Join us!
