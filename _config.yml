@@ -32,3 +32,5 @@ collections:
                 output: true
         alumni:
                 output: true
+        funpics:
+                output: true
