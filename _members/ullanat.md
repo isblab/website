@@ -5,5 +5,5 @@ labposition: Current
 currposition: Graduate Trainee 2021-Present
 #subsequent:  update once you become an alumnus
 email: varappu DOT ram AT gmail DOT com #Preferred public email address
-description: "Varun has a Bachelors in Biotech engineering. He is working on inference-based method development projects in integrative modeling."
+description: "Varun completed his B.Tech in Biotechnology from somewhere, Bengaluru. has a Bachelors in Biotech engineering. He is working on inference-based method development projects in integrative modeling."
 ---
