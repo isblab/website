@@ -2,9 +2,9 @@
 name: arastu pandey
 #image:  #365 x 365 pixels, 72 dpi
 labposition: Alumni 
-currposition: IISER Mohali
+currposition: Summer Intern 2021
 #subsequent: 
 #email: #preferred public email address
-description: "Summer Intern"
+description: "IISER Mohali"
 ---
 
