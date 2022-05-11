@@ -24,7 +24,7 @@ For most of these positions, students must be willing to do computer programming
 
 1. *Masters thesis student (structural biology, computation)*: Must be willing to commit a minimum of one year in the lab and have prior programming experience.
 
-2. *PhD student*:  If you are interested in doing a PhD in the lab, please get in touch. PhD students usually come in via the NCBS admissions process. Students with national fellowships (CSIR-NET, GATE, and others) can also register for a PhD in the lab.
+2. *PhD student*:  If you are interested in doing a PhD in the lab, please get in touch. PhD students usually come in via the NCBS admissions process. Students with national fellowships (CSIR-NET, GATE, and others) can also register for a PhD in the lab.<br><br>
 
 ## JRF, Project Assistant, and intern positions
 
