@@ -1,5 +1,5 @@
 ---
-name: arastu pandey
+name: Arastu Pandey
 #image:  #365 x 365 pixels, 72 dpi
 labposition: Alumni 
 currposition: Summer Intern 2021
