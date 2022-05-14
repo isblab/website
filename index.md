@@ -7,7 +7,7 @@ group: home
 {: .display-4}
 Welcome to the Integrative Structural Biology Lab!
 
-![ISB lab logo](static/img/logo/isblabLogo.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
+![ISB lab logo](static/img/logos/isblabLogo.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
 
 <br>
 
