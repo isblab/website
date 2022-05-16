@@ -22,16 +22,16 @@ For most of these positions, students must be willing to do computer programming
 
  Currently, we have the following open positions. Please email your CV and a short (2-3 paragraphs) research proposal on the projects you are interested in working on.
 
-- *PhD student*:  If you are interested in doing a PhD in the lab, please get in touch. There are several routes to becoming a PhD student in the lab. <br>
+- *PhD student*:  If you are interested in doing a PhD in the lab, please get in touch. There are several routes to becoming a PhD student in the lab. 
 
    * PhD students usually come in via the <a href='https://www.ncbs.res.in/academic/admissions'>NCBS admissions</a> process. <br> 
    * If you have a Physics/Engineering/CS background and are interested in Biology, be sure to check out the new TIFR Interdisciplinary PhD program (link coming up). <br> 
    * Students with national fellowships (CSIR-NET, GATE, and others) can also register for a PhD in the lab. <br><br>
 
-- *Masters thesis student* (structural biology, computation): Must be willing to commit a minimum of one year in the lab and have prior programming experience.
+- *Masters thesis student* (structural biology, computation): Must be willing to commit a minimum of one year in the lab and have prior programming experience.<br><br>
 
 ## JRF, Project Assistant, and intern positions
 
-Summer internship positions (2022) are currently filled. <br><br>
+Summer internship positions (2022) are currently filled. <br>
 
 We also do not have short-term project assistant/JRF/intern positions right now. <br><br>
