@@ -9,7 +9,7 @@ structures:
 website: 
 dataset:
   - 
-news:
+links:
   - name: 
     url: 
 ---
