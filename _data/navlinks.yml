@@ -3,7 +3,7 @@
   group: Home
 
 - name: Research
-  link: "/research"
+  link: "/Research"
   group: Research
 
 - name: Team
@@ -11,8 +11,8 @@
   group: Team
 
 - name: Publications
-  link: "/publications"
-  group: publications
+  link: "/Publications"
+  group: Publications
 
 - name: Software & Resources
   link: "/Software"

@@ -1,7 +1,7 @@
 ---
 title: ISB Lab
 layout: home
-group: home
+group: Home
 ---
 
 {: .display-4}
