@@ -4,31 +4,14 @@ authors: "S. Viswanath and **A. Sali**"
 journal: "PNAS"
 pub_date: "2019"
 image: 
-pmid: 
-pmcid: 
-biorxiv:
-biorxiv_version:
-pdf: 
-pdbs:
+pdf: "/static/img/pdfs/2019_Viswanath.pdf" 
+structures:
   - 
-paired_maps_and_models:
-  - pdb: 
-    emdb: 
-paired_maps_and_models_and_data:
-  - pdb: 
-    emdb: 
-    empiar: 
-data:
+website:
   - 
-zenodo:
-  - code: 
-    description: 
-github:
-  - description: 
-    url: "https://github.com/salilab/optimal_representation"
+dataset:
+  - 
 links:
-  - name: 
-    url: 
   - name: 
     url: 
   - name: 

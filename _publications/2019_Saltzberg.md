@@ -4,31 +4,14 @@ authors: "D. Saltzberg, C.H. Greenberg, **S. Viswanath**, I.E. Chemmama, B. Webb
 journal: "Methods in Molecular Biology"
 pub_date: "2019"
 image: 
-pmid: 
-pmcid: 
-biorxiv:
-biorxiv_version:
-pdf: 
-pdbs:
+pdf: "/static/img/pdfs/2019_Saltzberg.pdf" 
+structures:
   - 
-paired_maps_and_models:
-  - pdb: 
-    emdb: 
-paired_maps_and_models_and_data:
-  - pdb: 
-    emdb: 
-    empiar: 
-data:
+website:
   - 
-zenodo:
-  - code: 
-    description: 
-github:
-  - description: 
-    url: 
+dataset:
+  - 
 links:
-  - name: 
-    url: 
   - name: 
     url: 
   - name: 
