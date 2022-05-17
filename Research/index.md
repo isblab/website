@@ -17,43 +17,47 @@ This approach has several advantages. First, the models are more complete than t
 
 ### Difference with other approaches <br>
 <p class="text-justify">
-In contrast to other approaches to structure determination, our specific focus is on determining **domain-level organisation** of large assemblies, based on medium-resolution (~5-40 A) experimental data. Our models are usually coarse-grained, i.e., represented at worse than atomic resolution, therefore the focus is more on identifying overall domain-level organisation instead of the finer atomic details. Second, the input information can be noisy, ambiguous, sparse, and incoherent (i.e., based on a heterogeneous sample). Therefore, more than one model can fit the data and the integrative modeling approach produces an ensemble of models consistent with the data.  
+In contrast to other approaches to structure determination, our specific focus is on determining domain-level organisation of large assemblies, based on medium-resolution (~5-40 A) experimental data. Our models are usually coarse-grained, i.e., represented at worse than atomic resolution, therefore the focus is more on identifying overall domain-level organisation instead of the finer atomic details. Second, the input information can be noisy, ambiguous, sparse, and incoherent (i.e., based on a heterogeneous sample). Therefore, more than one model can fit the data and the integrative modeling approach produces an ensemble of models consistent with the data.  
 </p>
 
 ## Assemblies characterized <br> 
 <p class="text-justify">
-Opportunities exist in our group to work on several such assemblies. Three broad areas include (a) assemblies involved in regulating gene expression, including chromatin remodelers (b) assemblies at cell-cell junctions, and (c) cellular machineries involved in cytoskeleton organization and cell division such as centriolar and centrosomal protein complexes. We collaborate closely with other cell and structural biologists to validate predictions from our models and generate data for the modeling.
+Opportunities exist in our group to work on several such assemblies. Three broad areas include (a) assemblies involved in regulating gene expression, including chromatin remodelers (b) assemblies at cell-cell junctions, and (c) cellular machineries involved in cytoskeletal organization and cell division such as centriolar and centrosomal protein complexes. We collaborate closely with other cell and structural biologists to validate predictions from our models and generate data for the modeling.
 </p>
 
-Pic here for broad areas. 
+![Key areas](/static/img/researchpics/key_areas.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
+<p class="text-center">*Three broad areas we work on*</p>
 
 
 ### NuRD complex
 <p class="text-justify">
-We recently determined the structures of sub-complexes of the Nucleosome Remodeling and Deacetylase (NuRD) complex, a chromatin-modifying assembly that regulates gene expression and DNA damage repair. It is conserved across plant and animal species and expressed in most metazoan tissues. However, its structure is hard to characterize experimentally. Using Bayesian integrative structure determination, we combined information from published SEC-MALLS, DIA-MS, XLMS, negative stain EM, X-ray crystallography, and NMR spectroscopy, secondary structure and homology predictions. The integrative structures were corroborated by independent cryo-EM maps, biochemical assays, and known cancer-associated mutations.
+We recently determined the structures of sub-complexes of the Nucleosome Remodeling and Deacetylase, [**NuRD complex**](https://www.biorxiv.org/content/10.1101/2021.11.25.469965v2), a chromatin-modifying assembly that regulates gene expression and is conserved across plant and animal species. Using Bayesian integrative structure determination, we combined information from SEC-MALLS, DIA-MS, XLMS, negative stain EM, X-ray crystallography, and NMR spectroscopy, secondary structure, and homology predictions. The integrative structures were further validated by independent cryo-EM maps, biochemical assays, and known cancer-associated mutations. Based on the structures, we proposed a model showing how the two enzymatic modules in the assembly maybe connected by MBD.  
 </p>
 
-NuRD pic
+![NuRD two-states](/static/img/researchpics/two_states_nurd.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
+<p class="text-center">*Two-state model of MBD3 binding in NuRD*</p>
 
 
 ##  Methods for integrative modeling  
 <p class="text-justify">
-Our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. For this purpose, we are inspired by algorithms from the fields of computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
+Simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing modeling methods. Accordingly, our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. For this purpose, we are inspired by algorithms from the fields of computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
 </p>
 
-### 1. StOP:
+### StOP
 
 <p class="text-justify">
 We developed a method to optimize the sampling-related parameters for modeling assemblies in [**IMP**](https://integrativemodeling.org). Stochastic Optimization of Parameters, i.e. [**StOP**](https://www.mdpi.com/2075-1729/11/11/1183) automates the tuning of MCMC parameters such as rigid body and bead move sizes, restraint weights, and replica exchange temperatures. 
 </p>
 
-Stop pic 
+![STOP](/static/img/researchpics/stop.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
+<p class="text-center">*Schematic of StOP*</p>
 
-### 2. PrISM:
+### PrISM
 
 <p class="text-justify">
 [**PrISM**](https://www.biorxiv.org/content/10.1101/2021.06.22.449385v4) is our recently developed method to identify high and low precision regions in an ensemble of integrative models of large macromolecular assemblies. This is part of our effort to develop protocols for validating integrative models deposited in the [**wwPDB (worldwide Protein Data Bank)**](https://www.wwpdb.org/).
 </p>
 
-Prism pic 
+![PrISM](/static/img/researchpics/prism.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
+<p class="text-center">*Precision for integrative structural models*</p>
 
