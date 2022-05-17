@@ -19,14 +19,16 @@ group: Publications
 	</div>
 </div>
 
-<div class="row" style="padding-top: 20px; margin-top: -20px">
+
 
 		{% if publication.image %}
+		 <div class="row" style="padding-top: 20px; margin-top: -20px">
 			<div class="col-sm-4">
 			<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
     	</div>
 			<div class="col-sm-6">
 		{% else  %}
+		 <div class="row" style="padding-top: 0px; margin-top: 0px">
 			<div class="col-sm-8">
   	{% endif %}
 
@@ -46,7 +48,7 @@ group: Publications
 
 	 <!--Github - optional-->
 	 {% if publication.website%}
-   <a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)" target="_blank">Website/Github</a>
+   <a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)" target="_blank">Website </a>
 	 {% endif %}
 
 		<!--dataset records - optional-->
