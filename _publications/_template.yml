@@ -1,0 +1,38 @@
+#Style guide for ISB Lab website.
+
+#Style Guide: Publications
+##All sections
+  #Indent with two spaces
+  #Use double quotes for all string entries
+
+#Authors
+#Bold lab member names using the following format: **Last FM**.
+#Use one pair of double asterisks for multiple lab members that appear sequentially: **Young ID, Diaz RE, Liu LL**.
+#Use &#42; to add an asterisk denoting co-first/corresponding author. Otherwise, bolding of names using **Surname FM** will break.
+#For readability of code, start a new line at 140 characters.
+
+#Images and PDFs
+#All images and PDFs should be named using the following convention: firstauthorsurname_YYYY
+
+#Do NOT include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
+
+#Example Publication
+---
+title:" Using Integrative Modeling Platform to compute, validate, and archive a model of a protein complex structure"
+authors: "D. Saltzberg, **S. Viswanath**, I. Echeverria, I.E. Chemmama, B. Webb, A. Sali"
+journal: "Protein Science"
+pub_date: "2021"
+image:
+pdf: "/static/img/pdfs/2021_Saltzberg.pdf"
+structures:
+  -
+website:
+  -
+dataset:
+  -
+links:
+  - name:
+    url:
+  - name:
+    url:
+---

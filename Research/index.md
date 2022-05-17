@@ -40,7 +40,7 @@ We recently determined the structures of sub-complexes of the Nucleosome Remodel
 
 ##  Methods for integrative modeling  
 <p class="text-justify">
-Simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing modeling methods. Accordingly, our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. For this purpose, we are inspired by algorithms from the fields of computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
+Simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing new modeling methods. Accordingly, our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. We use algorithms from computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
 </p>
 
 ### StOP
