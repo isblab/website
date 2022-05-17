@@ -59,6 +59,7 @@ group: Publications
 		{% if publication.links %}
 			{% for link in publication.links %}
 				 <a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}} </a>
+				 &emsp;
 			{% endfor %}
 		{% endif %}
 
