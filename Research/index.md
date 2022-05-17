@@ -34,7 +34,7 @@ Opportunities exist in our group to work on several such assemblies. Three broad
 We recently determined the structures of sub-complexes of the Nucleosome Remodeling and Deacetylase, [**NuRD complex**](https://www.biorxiv.org/content/10.1101/2021.11.25.469965v2), a chromatin-modifying assembly that regulates gene expression and is conserved across plant and animal species. Using Bayesian integrative structure determination, we combined information from SEC-MALLS, DIA-MS, XLMS, negative stain EM, X-ray crystallography, and NMR spectroscopy, secondary structure, and homology predictions. The integrative structures were further validated by independent cryo-EM maps, biochemical assays, and known cancer-associated mutations. Based on the structures, we proposed a model showing how the two enzymatic modules in the assembly maybe connected by MBD.  
 </p>
 
-![NuRD two-states](/static/img/researchpics/two_states_nurd.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
+![NuRD two-states](/static/img/researchpics/two_states_nurd.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
 <p class="text-center">*Two-state model of MBD3 binding in NuRD*</p>
 
 
@@ -49,7 +49,7 @@ Simulation and analysis of large macromolecular assemblies leads us to interesti
 We developed a method to optimize the sampling-related parameters for modeling assemblies in [**IMP**](https://integrativemodeling.org). Stochastic Optimization of Parameters, i.e. [**StOP**](https://www.mdpi.com/2075-1729/11/11/1183) automates the tuning of MCMC parameters such as rigid body and bead move sizes, restraint weights, and replica exchange temperatures. 
 </p>
 
-![STOP](/static/img/researchpics/stop.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
+![STOP](/static/img/researchpics/stop.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
 <p class="text-center">*Schematic of StOP*</p>
 
 ### PrISM
@@ -58,6 +58,6 @@ We developed a method to optimize the sampling-related parameters for modeling a
 [**PrISM**](https://www.biorxiv.org/content/10.1101/2021.06.22.449385v4) is our recently developed method to identify high and low precision regions in an ensemble of integrative models of large macromolecular assemblies. This is part of our effort to develop protocols for validating integrative models deposited in the [**wwPDB (worldwide Protein Data Bank)**](https://www.wwpdb.org/).
 </p>
 
-![PrISM](/static/img/researchpics/prism.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
+![PrISM](/static/img/researchpics/prism.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
 <p class="text-center">*Precision for integrative structural models*</p>
 
