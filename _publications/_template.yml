@@ -28,8 +28,11 @@ journal: "Protein Science"
 pub_date: "2021"
 image:
 pdf: "/static/img/pdfs/2021_Saltzberg.pdf"
-structures:
-  - 
+pdb_structures:
+  -
+  -
+emdb_structures:
+  -
   -
 website:
 dataset:
