@@ -1,5 +1,5 @@
 ---
-title: "Annotating precision for integrative structural models using deep learning"
+title: "PrISM: precision for integrative structural models"
 authors: "**V. Ullanat, N. Kasukurthi, S. Viswanath**"
 journal: biorxiv
 pub_date: "2022"
