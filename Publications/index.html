@@ -21,30 +21,31 @@ group: Publications
 
 		{% if publication.image %}
 		 <div class="row" style="padding-top: 20px; margin-top: -20px">
-			<div class="col-sm-6">
+			<div class="col-sm-6 md-5 lg-5">
 			<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
     	</div>
-			<div class="col-sm-6">
+			<div class="col-sm-6 md-5 lg-5">
 		{% else  %}
 		 <div class="row" style="padding-top: 0px; margin-top: 0px">
-			<div class="col-sm-12">
+			<div class="col-sm-12 md-10 lg-10">
   	{% endif %}
+
 	<!--PDF -->
 	 <a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>&emsp;
 
 	 <!--PDBs and EMDBs - optional-->
 	 {% if publication.pdb_structures %}
 		 {% for code in publication.pdb_structures %}
-		 <a href="{{code}}" title =  "PDB structure" target="_blank">PDB </a>
-		 {% endfor %}
+		 <a href="{{code}}" title =  "PDB structure" target="_blank">PDB entry </a>
 		 &emsp;
+		 {% endfor %}
 	 {% endif %}
 
 	 {% if publication.emdb_structures %}
 		 {% for code in publication.emdb_structures %}
-		 <a href="{{code}}" title =  "EMDB" target="_blank">EMDB </a>
+		 <a href="{{code}}" title =  "EMDB" target="_blank">EMDB entry </a>
+		  &emsp;
 		 {% endfor %}
-		 &emsp;
 	 {% endif %}
 
 	 <!--Github - optional-->
