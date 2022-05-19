@@ -23,13 +23,13 @@ group: Publications
 
 		{% if publication.image %}
 		 <div class="row" style="padding-top: 20px; margin-top: -20px">
-			<div class="col-sm-4">
+			<div class="col-sm-6">
 			<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
     	</div>
 			<div class="col-sm-6">
 		{% else  %}
 		 <div class="row" style="padding-top: 0px; margin-top: 0px">
-			<div class="col-sm-6">
+			<div class="col-sm-12">
   	{% endif %}
 	<!--PDF -->
 	 <a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>&emsp;
