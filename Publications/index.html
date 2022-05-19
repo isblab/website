@@ -29,7 +29,7 @@ group: Publications
 			<div class="col-sm-6">
 		{% else  %}
 		 <div class="row" style="padding-top: 0px; margin-top: 0px">
-			<div class="col-sm-8">
+			<div class="col-sm-6">
   	{% endif %}
 	<!--PDF -->
 	 <a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>&emsp;
@@ -37,7 +37,7 @@ group: Publications
 	 <!--PDBs and EMDBs - optional-->
 	 {% if publication.structures %}
 		 {% for code in publication.structures %}
-		 <a href="{{code}}" title =  "PDB/EMDB entry" target="_blank">PDB/EMDB entry </a>{% unless forloop.last %}, {% endunless %}
+		 <a href="{{code}}" title =  "PDB/EMDB entry" target="_blank">PDB/EMDB entry </a>{% unless forloop.last %} {% endunless %}
 		 {% endfor %}
 		 &emsp;
 	 {% endif %}
