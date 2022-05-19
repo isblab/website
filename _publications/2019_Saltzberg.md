@@ -1,19 +1,11 @@
 ---
-title:"Modeling biological complexes using Integrative Modeling Platform, Biomolecular Simulations Series"
+title: "Modeling biological complexes using Integrative Modeling Platform, Biomolecular Simulations Series"
 authors: "D. Saltzberg, C.H. Greenberg, **S. Viswanath**, I.E. Chemmama, B. Webb, R. Pellarin, I. Echeverria, A. Sali"
 journal: "Methods in Molecular Biology"
-pub_date: "2019"
-image: 
+pub_date: "2019" 
 pdf: "/static/img/pdfs/2019_Saltzberg.pdf" 
-structures:
-  - 
-website:
-  - 
-dataset:
-  - 
+website: https://github.com/salilab/actin_tutorial
 links:
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Tutorial
+    url: https://integrativemodeling.org/tutorials/actin/modeling.html
 ---

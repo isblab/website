@@ -1,19 +1,15 @@
 ---
-title:"A Framework for Stochastic Optimization of Parameters for Integrative Modeling of Macromolecular Assemblies"
-authors: " S. Pasani, **S. Vishwanath**"
+title: "A Framework for Stochastic Optimization of Parameters for Integrative Modeling of Macromolecular Assemblies"
+authors: " **S. Pasani, S. Viswanath**"
 journal: "Life"
 pub_date: "2021"
-image: 
+image: /static/img/pubpics/stop.png
 pdf: "/static/img/pdfs/2021_Pasani.pdf" 
-structures:
-  - 
-website:
-  - 
-dataset:
-  - 
+website: https://github.com/isblab/stop
+dataset: https://zenodo.org/record/5521444#.YoO6RPNBw-Q
 links:
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Tutorial (Basic)
+    url: https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md
+  - name: Tutorial (Rex)
+    url: https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md
 ---

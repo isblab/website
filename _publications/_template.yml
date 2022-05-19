@@ -14,22 +14,25 @@
 #Images and PDFs
 #All images and PDFs should be named using the following convention: firstauthorsurname_YYYY
 
+#PDFs should contain full text + suppmat in one file.
+
 #Do NOT include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
 
 #Example Publication
+
+# Need space after each  colon.
 ---
-title:" Using Integrative Modeling Platform to compute, validate, and archive a model of a protein complex structure"
+title: "Using Integrative Modeling Platform to compute, validate, and archive a model of a protein complex structure"
 authors: "D. Saltzberg, **S. Viswanath**, I. Echeverria, I.E. Chemmama, B. Webb, A. Sali"
 journal: "Protein Science"
 pub_date: "2021"
 image:
 pdf: "/static/img/pdfs/2021_Saltzberg.pdf"
 structures:
+  - 
   -
 website:
-  -
 dataset:
-  -
 links:
   - name:
     url:
