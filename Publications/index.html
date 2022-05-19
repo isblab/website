@@ -6,7 +6,9 @@ group: Publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-{% for publication in site.publications reversed | sort: "pub_date" %}
+{% assign pubs = site.publications | sort: "pub_date" %}
+
+{% for publication in site.pubs reversed %}
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
 	<div>
