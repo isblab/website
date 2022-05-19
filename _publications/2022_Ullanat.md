@@ -1,5 +1,5 @@
 ---
-title:"Annotating precision for integrative structural models using deep learning"
+title: "Annotating precision for integrative structural models using deep learning"
 authors: "**V. Ullanat, N. Kasukurthi, S. Viswanath**"
 journal: biorxiv
 pub_date: "2022"
