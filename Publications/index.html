@@ -19,8 +19,6 @@ group: Publications
 	</div>
 </div>
 
-
-
 		{% if publication.image %}
 		 <div class="row" style="padding-top: 20px; margin-top: -20px">
 			<div class="col-sm-6">
@@ -37,14 +35,14 @@ group: Publications
 	 <!--PDBs and EMDBs - optional-->
 	 {% if publication.pdb_structures %}
 		 {% for code in publication.pdb_structures %}
-		 <a href="{{code}}" title =  "PDB structure" target="_blank">PDB </a>{% unless forloop.last %} {% endunless %}
+		 <a href="{{code}}" title =  "PDB structure" target="_blank">PDB </a>
 		 {% endfor %}
 		 &emsp;
 	 {% endif %}
 
 	 {% if publication.emdb_structures %}
 		 {% for code in publication.emdb_structures %}
-		 <a href="{{code}}" title =  "EMDB" target="_blank">EMDB </a>{% unless forloop.last %} {% endunless %}
+		 <a href="{{code}}" title =  "EMDB" target="_blank">EMDB </a>
 		 {% endfor %}
 		 &emsp;
 	 {% endif %}
