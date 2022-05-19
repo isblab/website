@@ -5,7 +5,7 @@ journal: biorxiv
 pub_date: "2022"
 image: "/static/img/pubpics/nurd.png"
 pdf: "/static/img/pdfs/2022_Arvindekar.pdf" 
-#structures:
+#pdb_structures:
 #  - 
 website: https://github.com/isblab/nurd
 # dataset:

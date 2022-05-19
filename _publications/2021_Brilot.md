@@ -4,7 +4,7 @@ authors: "A. Brilot, A.S. Lyon, A. Zelter, **S. Viswanath**, A. Maxwell, R. John
 journal: "eLife"
 pub_date: "2021"
 pdf: "/static/img/pdfs/2021_Brilot.pdf" 
-structures:
+pdb_structures:
   - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000077
   - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000078
   - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000079
