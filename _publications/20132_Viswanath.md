@@ -3,15 +3,11 @@ title: "Improving ranking of models for protein complexes with side chain modeli
 authors: "**S. Viswanath**, D.V.S. Ravikant, R. Elber"
 journal: Proteins
 pub_date: "2013"
-image:
 pdf: "/static/img/pdfs/20132_Viswanath.pdf" 
-#pdb_structures:
-#  - 
-website: 
-# dataset:
-#links:
-#  - name: 
-#    url: 
-#  - name: 
-#    url: 
+website: https://clsbweb.oden.utexas.edu/dock_details.html
+links:
+  - name: Github
+    url: https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials
+  - name: Server 
+    url: https://clsbweb.oden.utexas.edu/dock.html
 ---
