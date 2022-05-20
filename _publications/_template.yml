@@ -16,6 +16,8 @@
 
 #PDFs should contain full text + suppmat in one file.
 
+# Zenodo should resolve to all versions. 
+
 #Do NOT include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
 
 #Example Publication
