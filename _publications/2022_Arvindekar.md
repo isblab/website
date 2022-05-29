@@ -9,9 +9,9 @@ pdf: "/static/img/pdfs/2022_Arvindekar.pdf"
 #  - 
 website: https://github.com/isblab/nurd
 # dataset:
-#links:
-#  - name: 
-#    url: 
-#  - name: 
-#    url: 
+links:
+  - name: Mackay Lab
+    url: https://mackaymatthewslab.org/
+  - name: Landsberg Lab
+    url: https://mlandsber7.wixsite.com/mmd-lab
 ---
