@@ -1,6 +1,6 @@
 ---
 name: Shreyas Arvindekar
-image: /static/img/team/shreyas.png #250 x 250 pixels, 72 dpi
+image: /static/img/team/shreyas.jpg #250 x 250 pixels, 72 dpi
 labposition: Current
 currposition: Integrated Ph.D. 2019
 email: shreyasarvindekar AT ncbs DOT res DOT in #Preferred public email address

@@ -35,7 +35,3 @@ GKVK, Bellary Road, Bangalore, India 560065 <br>
 **Phone**: +91-080-6717-6152 <br><br>
 **Email**: shruthiv AT THE RATE OF ncbs DOT res DOT in <br><br>
 **Twitter**: @shruthiLab <br><br>
-
-
-<span style="color:red;font-weight:bold;font-size:1.6em"> News  </span> <br>
-<span style="color:purple"> Congratulations to Shreyas on being awarded a Protein Society Travel Award for the Protein Society Conference 2022! </span>

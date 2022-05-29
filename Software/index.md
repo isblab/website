@@ -38,17 +38,5 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 - [Statistical Inference in Biology](http://moodle.ncbs.res.in/course/view.php?id=107) (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.  <br>
 
-- Crash course in [Python](https://github.com/isblab/pycrash) taught during the Statistical Inference course.  <br>
-
-### Learning Material
-
-**Python Resources**
-  - Python crash course for [scientists](https://nbviewer.org/gist/rpmuller/5920182)
-  - Kaggle crash [course](https://www.kaggle.com/learn/python)
-  - Software Carpentry courses [here](https://swcarpentry.github.io/python-novice-inflammation/index.html) and [here](http://swcarpentry.github.io/python-novice-gapminder/)
-
-**Machine learning texts**
-  - Witten et. al. [Introduction to Statistical Learning](https://www.statlearning.com/)
-  - Bishop, Christopher M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-  - Hastie, Tibshirani and Friedman. [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
+- Crash course in [Python](https://github.com/isblab/pycrash) taught during the Statistical Inference course.  <br> 
 
