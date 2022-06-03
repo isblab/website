@@ -32,6 +32,11 @@ group: Publications
 			<div class="col-sm-10 md-12 lg-12">
   	{% endif %}
 
+		<!--DOI -->
+		{% if publication.doi %}
+		 <a href="{{publication.doi}}" title =  "DOI for {{publication.title}} (opens in new tab)" target="_blank">DOI </a>&emsp;
+		 {% endif %}
+
 	<!--PDF -->
 	 <a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>&emsp;
 

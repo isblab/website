@@ -4,6 +4,7 @@ authors: "**S. Arvindekar**, M. J. Jackman, J.K.K. Low, M.J. Landsberg, J.P. Mac
 journal: biorxiv
 pub_date: "2022"
 image: "/static/img/pubpics/nurd.png"
+doi: https://doi.org/10.1101/2021.11.25.469965
 pdf: "/static/img/pdfs/2022_Arvindekar.pdf" 
 #pdb_structures:
 #  - 
