@@ -29,7 +29,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 - [**Scoring functions**](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials): PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.   
 
-- [**Other utilities**](https://github.com/isblab/dockingScripts): Contains the only open-source (to the best of our knowledge) script for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br>
+- [**Other utilities**](https://github.com/isblab/dockingScripts): Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br>
 
 
 ### Courses and workshops

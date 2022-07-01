@@ -1,7 +1,7 @@
 ---
 title: "Molecular architecture of nucleosome remodeling and deacetylase sub-complexes by integrative structure determination"
 authors: "**S. Arvindekar**, M. J. Jackman, J.K.K. Low, M.J. Landsberg, J.P. Mackay, **S.Viswanath**"
-journal: biorxiv
+journal: Protein Science (in press)
 pub_date: "2022"
 image: "/static/img/pubpics/nurd.png"
 doi: https://doi.org/10.1101/2021.11.25.469965

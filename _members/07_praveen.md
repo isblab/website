@@ -5,5 +5,5 @@ labposition: Alumni
 currposition: Graduate Trainee 2021-22
 #Subsequent:  update once you become an alumnus
 #email: roy DOT praveen18495 AT gmail DOT com #Preferred public email address
-description: ""
+description: "Data Scientist, Next Big Innovation"
 ---

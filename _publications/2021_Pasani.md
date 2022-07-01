@@ -1,7 +1,7 @@
 ---
 title: "A Framework for Stochastic Optimization of Parameters for Integrative Modeling of Macromolecular Assemblies"
 authors: " **S. Pasani, S. Viswanath**"
-journal: "Life"
+journal: "Life (Spl. Issue on Computational Modeling of Kinetics in Biological Systems)"
 pub_date: "2021"
 image: /static/img/pubpics/stop.png
 doi: https://doi.org/10.3390/life11111183
