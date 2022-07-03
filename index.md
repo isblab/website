@@ -18,8 +18,12 @@ Broadly, we seek to understand how proteins are organized in cells. We do this b
 </p>
 
 <p class="text-justify">
-We're working on characterizing specific assemblies in close collaborations with (experimental) cell and structural biologists. We also develop modeling methods, aiming to produce algorithms and software that we and others can use.
+We're working on characterizing specific assemblies in close collaborations with (experimental) cell and structural biologists. 
 </p>
+
+<p class="text-justify">
+Our other focus is in developing rigorous methods and software for computational modeling of protein organization. We're inspired by algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory. We aim to produce algorithms and software that we and others can use.
+</p> 
 
 ## Join us!
 Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.
