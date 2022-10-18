@@ -40,7 +40,7 @@ We recently determined the structures of sub-complexes of the Nucleosome Remodel
 
 ##  Methods for integrative modeling  
 <p class="text-justify">
-Simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing new modeling methods. Accordingly, our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. We use algorithms from computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
+Of late, AI-based methods have enabled amazing advances in structural biology and it is an exciting, fast-paced field! For us, simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing new modeling methods. Accordingly, our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. We use algorithms from computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
 </p>
 
 ### StOP
@@ -55,7 +55,7 @@ We developed a method to optimize the sampling-related parameters for modeling a
 ### PrISM
 
 <p class="text-justify">
-[**PrISM**](https://www.biorxiv.org/content/10.1101/2021.06.22.449385v4) is our recently developed method to identify high and low precision regions in an ensemble of integrative models of large macromolecular assemblies. This is part of our effort to develop protocols for validating integrative models deposited in the [**wwPDB (worldwide Protein Data Bank)**](https://www.wwpdb.org/).
+[**PrISM**](https://www.biorxiv.org/content/10.1101/2021.06.22.449385v4) is our recently developed method to identify high and low precision regions in an ensemble of integrative models of large macromolecular assemblies. PrISM is now used in the pipeline for validating integrative models deposited in the [**wwPDB (worldwide Protein Data Bank)**](https://www.wwpdb.org/), making us a part of the PDBDev Model Validation Group! 
 </p>
 
 ![PrISM](/static/img/researchpics/prism.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
