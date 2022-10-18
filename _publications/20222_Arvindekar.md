@@ -4,16 +4,16 @@ authors: "**S. Arvindekar**, M. J. Jackman, J.K.K. Low, M.J. Landsberg, J.P. Mac
 journal: Protein Science 
 pub_date: "2022"
 image: "/static/img/pubpics/nurd.png"
-doi: https://doi.org/10.1101/2021.11.25.469965
+doi: https://onlinelibrary.wiley.com/doi/10.1002/pro.4387
 pdf: "https://onlinelibrary.wiley.com/share/author/UPJI6TF7KRKWA9ZHR7XT?target=10.1002/pro.4387" 
+website: https://github.com/isblab/nurd
+dataset: https://doi.org/10.5281/zenodo.6674232
 pdb_structures:
   - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000152
   - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000154
   - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000155
 emdb_structures : 
   - https://www.ebi.ac.uk/emdb/EMD-27557
-website: https://github.com/isblab/nurd
-dataset: https://doi.org/10.5281/zenodo.6674232
 links:
   - name: Cover image on Protein Science!
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4444
