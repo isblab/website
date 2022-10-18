@@ -37,10 +37,8 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
 ## Masters thesis, JRF, Project Assistant, Intern positions
 
 Must be willing to commit a minimum of six months in the lab. These short-term positions are for computational work only. Candidates with prior programming experience will be preferred.
-
-<br><br>
+<br>
 Note that currently the funded positions are filled. You will need your own fellowship or other funding if you wish to work in the lab. 
-<br><br>
-
+<br>
 To apply, please email your CV **and** a short statement of interest. 
  <br><br>
