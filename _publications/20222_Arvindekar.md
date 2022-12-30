@@ -17,7 +17,7 @@ emdb_structures :
 links:
   - name: Cover image on Protein Science!
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4444
-  - name: NCBS Twitter 
+  - name: NCBS Blurb
     url: https://twitter.com/NCBS_Bangalore/status/1575419699617153024?s=20&t=_1QiTq9OPfbPaxheR70FOw 
   - name: Mackay Lab
     url: https://mackaymatthewslab.org/
