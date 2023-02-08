@@ -32,7 +32,7 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
    * PhD students usually come in via the <a href='https://www.ncbs.res.in/academic/admissions'>NCBS admissions</a> process. <br>
    * If you have a Physics/Engineering/CS background and are interested in doing Biology research, check out the new <a href='https://pol.ncbs.res.in'> TIFR-PoL Interdisciplinary PhD program</a>. <br>
    * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to email directly. <br><br>
-   * We have an open position <a href='https://www.ncbs.res.in/jobportal/offline/52023/70746'>.<br><br>
+   * We have an open position <a href='https://www.ncbs.res.in/jobportal/offline/52023/70746'>link</a>.<br><br>
 
 
 ## Masters thesis, JRF, Project Assistant, Intern positions
