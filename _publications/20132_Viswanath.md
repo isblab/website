@@ -8,6 +8,5 @@ website: https://clsbweb.oden.utexas.edu/dock_details.html
 links:
   - name: Github
     url: https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials
-  - name: Server 
-    url: https://clsbweb.oden.utexas.edu/dock.html
+    
 ---

@@ -8,7 +8,9 @@ website: https://salilab.org/optrep
 dataset: https://github.com/salilab/optimal_representation
 links:
   - name: Wiki
-    url: https://github.com/salilab/optrep/wiki   
+    url: https://github.com/salilab/optimal_representation   
   - name: F1000prime
     url: https://facultyopinions.com/article/734699510?bd=1 
+  - name: module
+    url: https://github.com/salilab/optrep
 ---
