@@ -12,5 +12,7 @@ links:
     url: https://github.com/salilab/optrep/wiki   
   - name: F1000prime
     url: https://facultyopinions.com/article/734699510?bd=1 
+  - name: module
+    url: https://github.com/salilab/optrep
 
 ---
