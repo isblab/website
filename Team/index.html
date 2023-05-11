@@ -41,8 +41,32 @@ group: Team
 <h4> Alumni Hall of Fame </h4>
 Former members: What they did and where they are now.
 
+<h5> Trainees </h5>
+
 {% for member in site.members %}
-{% unless member.labposition contains "Alumni" %}
+{% unless member.labposition contains "Trainee" %}
+{% continue %}
+{% endunless %}
+
+        <hr>
+
+          <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+            <div class="col-sm-4">
+                <strong>{{member.name}}</strong> <br>
+                {{member.currposition | markdownify | remove: '<p>' | remove: '</p>' }} <br>
+
+            </div>
+            <div class="col-sm-8">
+                <p class="text-justify">{{member.description | markdownify}}</p>
+            </div>
+        </div>
+{% endfor %}
+<hr>
+
+<h5> Short-term trainees </h5>
+
+{% for member in site.members %}
+{% unless member.labposition contains "Short-term" %}
 {% continue %}
 {% endunless %}
 

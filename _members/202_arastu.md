@@ -1,7 +1,7 @@
 ---
 name: Arastu Pandey
 #image:  #365 x 365 pixels, 72 dpi
-labposition: Alumni 
+labposition: Short-term trainee 
 currposition: Summer Intern 2021
 #subsequent: 
 #email: #preferred public email address

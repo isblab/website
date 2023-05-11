@@ -33,14 +33,15 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
    * If you have a Physics/Engineering/CS background and are interested in doing Biology research, check out the new <a href='https://pol.ncbs.res.in'> TIFR-PoL Interdisciplinary PhD program</a>. <br>
    * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to email directly. <br><br>
    
-
+## Postdoc positions
+We have one open position on deep learning and computational modeling of macromolecular assemblies. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
 
 ## Masters thesis, JRF, Project Assistant, Intern positions
 
-Must be willing to commit a minimum of eight months in the lab. These short-term positions are for computational work only. Candidates with prior programming experience will be preferred.
+Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab.
 <br>
 Note that currently the funded positions are filled. You will need your own fellowship or other funding if you wish to work in the lab. 
 <br>
 To apply, please email your CV **and** a short statement of interest. 
  <br>
-We have an open position <a href='https://www.ncbs.res.in/jobportal/offline/52023/70746'>link</a>.<br><br>
+No openings currently.<br><br>

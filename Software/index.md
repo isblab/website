@@ -15,7 +15,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 Many of the packages we develop are integrated with the Integrative modeling Platform [IMP](https://integrativemodeling.org/), which we use to model protein assemblies. <br>
 
-- [**PrISM**](https://github.com/isblab/prism) : Package to annotate high- and low-precision regions in integrative structure models. Works on models from IMP as well as integrative models produced by other software [in PDB format]. Now used by wwPDB to validate integrative models! <br><br>
+- [**PrISM**](https://github.com/isblab/prism) : Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models! <br><br>
 
 - [**StOP**](https://github.com/isblab/stop) : Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.
 	-  Check this tutorial for optimizing Monte Carlo [move sizes/restraint weights](https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md).
