@@ -8,7 +8,7 @@ group: Team
 
 {% for member in site.members %}
 
-{% if member.labposition contains "Alumni" %}
+{% unless member.labposition contains "Current" %}
 {% continue %}
 {% endif %}
 
