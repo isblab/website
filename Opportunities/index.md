@@ -9,7 +9,7 @@ group: Opportunities
 <p class="text-justify">
 We welcome highly motivated students who are excited to work in integrative structural biology. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies to performing cell biology/biochemistry experiments. <br><br>
 
-One focus of ours is to combine protein structural modeling with cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with labs on campus and elsewhere. Students focus on modeling specific assemblies and they may choose to do some of these experiments themselves, in the labs of collaborators. <br><br>
+One focus of ours is to combine protein structural modeling with data from cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with labs on campus and elsewhere. Students focus on modeling specific assemblies and deducing the functions of these assemblies in light of their structure.<br><br>
 
 In keeping with the recent exciting advances in structural biology, another focus of ours is to develop computational methods for inferring protein organisation in the cell using statistical inference, and specifically, machine learning and deep learning. We're actively looking for deep-learning enthusiasts to join us! <br><br>
 
@@ -21,7 +21,7 @@ The lab is an interdisciplinary environment and has had students from biology (b
 </p>
 
 <p class="text-justify">
-Students who join the lab must be interested to do computer programming and are required to have a significant computational component to their thesis. Prior programming background is helpful, but an analytical bent of mind, curiosity, and initiative are more important. There are opportunities for PhD students on campus to do both computational modeling and cell biology/structural biology experiments. <br><br>
+Students who join the lab must be interested to do computer programming. They usually end up developing novel computational methods in addition to modeling specific biological systems. Prior programming background is helpful, but an analytical bent of mind, curiosity, and initiative are more important.<br><br>
 
 </p>
 
@@ -34,14 +34,10 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
    * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to email directly. <br><br>
    
 ## Postdoc positions
-We have one open position on deep learning and computational modeling of macromolecular assemblies. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
+We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
 
 ## Masters thesis, JRF, Project Assistant, Intern positions
 
 Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab.
 <br>
-Note that currently the funded positions are filled. You will need your own fellowship or other funding if you wish to work in the lab. 
-<br>
-To apply, please email your CV **and** a short statement of interest. 
- <br>
 No openings currently.<br><br>

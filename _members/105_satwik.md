@@ -4,5 +4,5 @@ name: Satwik Pasani
 labposition: Trainee
 currposition: Graduate Trainee & Intern 2020-23
 #email: roy DOT praveen18495 AT gmail DOT com #Preferred public email address
-description: " PhD, Cold Spring Harbor Labs."
+description: " PhD, Cold Spring Harbor Labs"
 ---

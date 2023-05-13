@@ -6,7 +6,7 @@ group: Team
 
 <h1>ISB Lab Members</h1>
 
-{% for member in site.members %}
+{% for member in site.members reversed %}
 
 {% unless member.labposition contains "Current" %}
 {% continue %}
@@ -41,9 +41,11 @@ group: Team
 <h4> Alumni Hall of Fame </h4>
 Former members: What they did and where they are now.
 
-<h5> Trainees </h5>
+<br>
 
-{% for member in site.members %}
+<h5> Trainees (6 months +) </h5>
+
+{% for member in site.members reversed %}
 {% unless member.labposition contains "Trainee" %}
 {% continue %}
 {% endunless %}
@@ -65,7 +67,7 @@ Former members: What they did and where they are now.
 
 <h5> Short-term trainees </h5>
 
-{% for member in site.members %}
+{% for member in site.members reversed %}
 {% unless member.labposition contains "Short-term" %}
 {% continue %}
 {% endunless %}
