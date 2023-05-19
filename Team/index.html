@@ -4,9 +4,10 @@ layout: team
 group: Team
 ---
 
-<h1>ISB Lab Members</h1>
+<h1>ISB Lab Members</h1> <br>
+<h4> Stuck </h4>
 
-{% for member in site.members reversed %}
+{% for member in site.members %}
 
 {% unless member.labposition contains "Current" %}
 {% continue %}
@@ -35,10 +36,10 @@ group: Team
                 <p class="text-justify">{{member.description | markdownify}}</p>
             </div>
         </div>
-{% endfor %}
+{% endfor %}<br><br>
 
 <hr>
-<h4> Alumni Hall of Fame </h4>
+<h4> Escaped </h4>
 Former members: What they did and where they are now.<br><br>
 
 

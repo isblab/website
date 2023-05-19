@@ -40,4 +40,4 @@ We have one open position. To apply, please email your CV and a statement of int
 
 Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab.
 <br>
-No openings currently.<br><br>
+We are not hiring for these positions in 2023 and are unable to reply to individual emails.<br><br>
