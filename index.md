@@ -32,11 +32,11 @@ Interested in collaborating with us or joining us? Please get in touch. Also che
 
 ## Upcoming events 
 <h5> Macromolecular assemblies: structure, function and evolution </h5>
-<a href = "https://sites.google.com/acads.iiserpune.ac.in/masfe/home/workshop"> IISER Pune,  Aug 2023 </a>
+<a href = "https://sites.google.com/acads.iiserpune.ac.in/masfe/home/workshop"> IISER Pune,  Aug 2023 </a> <br>
 1-day IMP workshop organized by the lab as part of conference. 
 
 <h5>Cryo-EM and integrative modeling workshop</h5>
-IISc Bangalore, Sep 2023
+IISc Bangalore, Sep 2023 <br>
 Details coming soon! 
 
 <h5>EMBO Workshop on Computational Structural Biology</h5>
