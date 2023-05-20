@@ -41,6 +41,7 @@ Details coming soon!
 <a href = "https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/#vf-tabs__section-overview"> Heidelberg, Dec 2023 </a>
 
 <br>
+
 ## Join us!
 Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.
 <br>
