@@ -33,13 +33,10 @@ Our other focus is in developing rigorous methods and software for computational
 <a href = "https://sites.google.com/acads.iiserpune.ac.in/masfe/home/workshop"> IISER Pune,  Aug 2023 </a> <br>
 1-day IMP workshop organized by the lab as part of conference. 
 
-<br>
-
 <h5>Cryo-EM and integrative modeling workshop</h5>
 IISc Bangalore, Sep 2023 <br>
 Details coming soon! 
 
-<br>
 <h5>EMBO Workshop on Computational Structural Biology</h5>
 <a href = "https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/#vf-tabs__section-overview"> Heidelberg, Dec 2023 </a>
 
