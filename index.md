@@ -30,7 +30,7 @@ Our other focus is in developing rigorous methods and software for computational
 
 ## Upcoming events 
 <h5> Macromolecular assemblies: structure, function and evolution </h5>
-<a href = "https://sites.google.com/acads.iiserpune.ac.in/masfe/program/workshop?authuser=0 "> IISER Pune,  Aug 2023 </a> <br>
+<a href = "https://www.iiserpune.ac.in/events/3574/macromolecular-assemblies-structure-function-and-evolution"> IISER Pune,  Aug 2023 </a> <br>
 1-day IMP workshop organized by the lab as part of conference. 
 
 <h5>Cryo-EM and integrative modeling workshop</h5>
