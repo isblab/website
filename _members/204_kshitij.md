@@ -4,6 +4,6 @@ name: Kshitij Roodkee
 labposition: Short-term trainee
 currposition: Summer Intern 2022 
 #Subsequent:  update once you become an alumnus
-description: "B.Tech NIT Hamirpur"
+description: "B.Tech, NIT Hamirpur"
 ---
 
