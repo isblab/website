@@ -14,4 +14,6 @@ links:
     url: https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md
   - name: Tutorial (Rex)
     url: https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md
+  - name: Supplementary
+    url: /static/img/pdfs/2021_Pasani_SI.pdf
 ---

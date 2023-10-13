@@ -14,4 +14,6 @@ dataset: https://doi.org/10.5281/zenodo.6787966
 links:
   - name: Model Archive deposition
     url: https://doi.org/10.5452/ma-w81qa
+  - name: Supplementary
+    url: /static/img/pdfs/2022_Tiwari_SI.pdf
 ---
