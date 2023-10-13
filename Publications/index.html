@@ -41,7 +41,8 @@ group: Publications
 	 <a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>&emsp;
 
 	<!--Supplementary -->
-	 <a href="{{publication.supplementary}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">Supplementary </a>&emsp;
+	{% if publication.supplementary %}
+	 	 <a href="{{publication.supplementary}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">Supplementary </a>&emsp;
 
 	 <!--PDBs and EMDBs - optional-->
 	 {% if publication.pdb_structures %}
