@@ -6,7 +6,7 @@ pub_date: "2022"
 image: "/static/img/pubpics/nurd.png"
 doi: https://onlinelibrary.wiley.com/doi/10.1002/pro.4387
 pdf: "https://onlinelibrary.wiley.com/share/author/UPJI6TF7KRKWA9ZHR7XT?target=10.1002/pro.4387" 
-Supplementary: ""
+Supplementary: "/static/img/pdfs/2022_Arvindekar_SI.pdf"
 website: https://github.com/isblab/nurd
 dataset: https://doi.org/10.5281/zenodo.6674232
 pdb_structures:
@@ -24,6 +24,5 @@ links:
     url: https://mackaymatthewslab.org/
   - name: Landsberg Lab
     url: https://mlandsber7.wixsite.com/mmd-lab
-  - name: Supplementary
-    url: /static/img/pdfs/2022_Arvindekar_SI.pdf
+
 ---
