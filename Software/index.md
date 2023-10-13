@@ -34,9 +34,8 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 ### Courses and workshops
 
 - IMP Tutorial at MASFE IISER Pune 2023.
-links:
- - [Github] (https://github.com/isblab/IMP_Tutorial)
- - [Talks] (https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5)
+[Github] (https://github.com/isblab/IMP_Tutorial)
+[Talks] (https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5)
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
 
