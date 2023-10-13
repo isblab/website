@@ -1,11 +1,12 @@
 ---
 title: "Identification of potential modulators of IFITM3 by in-silico modeling and virtual screening"
-authors: "V. Tiwari and **S.Viswanath**"
+authors: "V. Tiwari and **S. Viswanath**"
 journal: Scientific Reports 
 pub_date: "2022"
 image: "/static/img/pubpics/ifitm3.png"
 doi: https://doi.org/10.1038/s41598-022-20259-8
 pdf: "/static/img/pdfs/2022_Tiwari.pdf" 
+Supplementary: "/static/img/pdfs/2022_Tiwari_SI.pdf"
 #pdb_structures:
 #  - 
 # website: https://github.com/isblab/nurd

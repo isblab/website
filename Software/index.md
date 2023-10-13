@@ -33,6 +33,10 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 ### Courses and workshops
 
+- IMP Tutorial at MASFE IISER Pune 2023. [Github] (https://github.com/isblab/IMP_Tutorial) 
+
+- [Talks] (https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5) <br>
+
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
 
 - [Statistical Inference in Biology](http://moodle.ncbs.res.in/course/view.php?id=107) (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.  <br>

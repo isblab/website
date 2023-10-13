@@ -1,6 +1,6 @@
 ---
 title: "The molecular architecture of the desmosomal outer dense plaque by integrative structural modeling"
-authors: " **S. Pasani, K.Menon, S. Viswanath**"
+authors: " **S. Pasani, K. Menon, S. Viswanath**"
 journal: "Biorxiv"
 pub_date: "2023"
 image: /static/img/pubpics/desmosome.png

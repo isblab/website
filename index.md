@@ -14,7 +14,7 @@ Welcome to the Integrative Structural Biology Lab!
 We are an interdisciplinary computational structural biology group in [NCBS-TIFR](https://www.ncbs.res.in/), Bangalore.
 
 <p class="text-justify">
-Broadly, we seek to understand how proteins are organized in cells. We do this by characterizing structures of proteins in multiple scales, ranging from binary complexes to macromolecular assemblies and nanoscale architectures. These structures are key to understanding the mechanistic details of cellular processes in normal and disease states. They provide answers to questions such as: how do these molecular machines function? How did they evolve? How are they assembled and regulated in the cell? What do they tell us about basic architectural design principles in biology?
+Broadly, we seek to understand how proteins are organized in cells. We do this by characterizing structures of proteins at multiple scales, ranging from binary complexes to macromolecular assemblies and nanoscale architectures. These structures are key to understanding the mechanistic details of cellular processes in normal and disease states. They provide answers to questions such as: how do these molecular machines function? How did they evolve? How are they assembled and regulated in the cell? What do they tell us about basic architectural design principles in biology?
 </p>
 
 <p class="text-justify">
@@ -29,16 +29,8 @@ Our other focus is in developing rigorous methods and software for computational
 <br>
 
 ## Upcoming events 
-<h5> Macromolecular assemblies: structure, function and evolution </h5>
-<a href = "https://www.iiserpune.ac.in/events/3574/macromolecular-assemblies-structure-function-and-evolution"> IISER Pune,  Aug 2023 </a> <br>
-1-day IMP workshop organized by the lab as part of conference. 
-
-<h5>Cryo-EM and integrative modeling workshop</h5>
-IISc Bangalore, Sep 2023 <br>
-Details coming soon! 
-
 <h5>EMBO Workshop on Computational Structural Biology</h5>
-<a href = "https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/#vf-tabs__section-overview"> Heidelberg, Dec 2023 </a>
+<a href = "https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/ "> Heidelberg, Dec 2023 </a>
 
 <br>
 

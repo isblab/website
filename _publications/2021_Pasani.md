@@ -6,6 +6,7 @@ pub_date: "2021"
 image: /static/img/pubpics/stop.png
 doi: https://doi.org/10.3390/life11111183
 pdf: "/static/img/pdfs/2021_Pasani.pdf" 
+Supplementary: "/static/img/pdfs/2021_Pasani_SI.pdf" 
 website: https://github.com/isblab/stop
 dataset: https://zenodo.org/record/5521444#.YoO6RPNBw-Q
 links:
