@@ -43,7 +43,7 @@ group: Publications
 	<!--Supplementary -->
 	{% if publication.supplementary %}
 	 	 <a href="{{publication.supplementary}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">Supplementary </a>&emsp;
-
+                 {% endif %} 
 	 <!--PDBs and EMDBs - optional-->
 	 {% if publication.pdb_structures %}
 		 {% for code in publication.pdb_structures %}
