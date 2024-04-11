@@ -14,17 +14,18 @@ group: Publications
 <hr>
 
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
-		<div>
-			<h5 style="font-size: 18px;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
-			<h6 style="font-size: 14px;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-			{% if publication.journal %}
-				<i>{{ publication.journal }},</i>
-				{{publication.pub_date | split: "-" | first }}
-			{% endif %}
-		</div>
-		{% if publication.image %}
-			<img class="img-fluid" src="{{publication.image}}" alt="Key Figure" style="width: 200px; max-height: 200px; float: right;">
-		{% endif %}
+    <div>
+        <h5 style="font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+        <h5 style="font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+        <h6 style="font-size: 14px;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+        {% if publication.journal %}
+            <i>{{ publication.journal }},</i>
+            {{publication.pub_date | split: "-" | first }}
+        {% endif %}
+    </div>
+    {% if publication.image %}
+        <img class="img-fluid" src="{{publication.image}}" alt="Key Figure" style="width: 200px; max-height: 200px; float: right;">
+    {% endif %}
 </div>
 
 <div class="row" style="padding-top: 20px; margin-top: -20px;">
