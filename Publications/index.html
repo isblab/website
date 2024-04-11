@@ -15,8 +15,7 @@ group: Publications
 
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div>
-        <h5 style="font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
-        <h5 style="font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+        <h5 style="font-size: 18px; overflow: hidden; text-overflow: ellipsis; max-width: 60%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
         <h6 style="font-size: 14px;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
         {% if publication.journal %}
             <i>{{ publication.journal }},</i>
