@@ -18,19 +18,23 @@ Broadly, we seek to understand how proteins are organized in cells. We do this b
 </p>
 
 <p class="text-justify">
-We're working on characterizing specific assemblies in close collaborations with (experimental) cell and structural biologists. 
+Our main focus is in developing rigorous methods and software for computational modeling of protein organization. We’re inspired by algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory. We aim to produce algorithms and software that we and others can use.
+
 </p>
 
 <p class="text-justify">
-Our other focus is in developing rigorous methods and software for computational modeling of protein organization. We're inspired by algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory. We aim to produce algorithms and software that we and others can use.
+We are also characterizing the structures of specific assemblies in close collaborations with (experimental) cell and structural biologists.
 </p> 
 
 
 <br>
 
 ## Upcoming events 
-<h5>EMBO Workshop on Computational Structural Biology</h5>
-<a href = "https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/ "> Heidelberg, Dec 2023 </a>
+<h5>Symposium on Big Data Algorithms for Biology</h5>
+<a href = "https://www.bdbio.in/"> IISc Bangalore, May-June 2024 </a>
+
+<h5>Cryo electron microscopy and 3D image processing (CEM3DIP) </h5>
+<a href = "https://meetings.embo.org/event/24-cryo-em"> Bangalore, June-July 2024 </a>
 
 <br>
 

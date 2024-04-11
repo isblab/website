@@ -9,9 +9,9 @@ group: Opportunities
 <p class="text-justify">
 We welcome highly motivated students who are excited to work in integrative structural biology. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies to performing cell biology/biochemistry experiments. <br><br>
 
-One focus of ours is to combine protein structural modeling with data from cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with labs on campus and elsewhere. Students focus on modeling specific assemblies and deducing the functions of these assemblies in light of their structure.<br><br>
+The main focus of our group is to develop computational methods for inferring protein organization in the cell. We’re inspired by algorithms from statistical inference and optimization, including machine learning and deep learning,  computer vision, and graph theory.  We’re actively looking for deep-learning enthusiasts to join us! <br><br>
 
-In keeping with the recent exciting advances in structural biology, another focus of ours is to develop computational methods for inferring protein organisation in the cell using statistical inference, and specifically, machine learning and deep learning. We're actively looking for deep-learning enthusiasts to join us! <br><br>
+Another focus is to combine protein structural modeling with data from cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with experimental labs on campus and elsewhere. Students focus on modeling specific assemblies and deducing the functions of these assemblies in light of their structure. <br><br>
 
 </p>
 
@@ -21,7 +21,7 @@ The lab is an interdisciplinary environment and has had students from biology (b
 </p>
 
 <p class="text-justify">
-Students who join the lab must be interested to do computer programming. They usually end up developing novel computational methods in addition to modeling specific biological systems. Prior programming background is helpful, but an analytical bent of mind, curiosity, and initiative are more important.<br><br>
+Students who join the lab must be interested to do computer programming. They usually develop novel computational methods in addition to modeling specific biological systems. Prior programming background is helpful, but an analytical bent of mind, curiosity, and initiative are more important.<br><br>
 
 </p>
 
@@ -37,7 +37,7 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
 We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
 
 ## Masters thesis, JRF, Project Assistant, Intern positions
-
+We have one <a href='https://www.ncbs.res.in/jobportal/email/22024/85496'> open position</a> for integrative modeling of the *Mycobacterium tuberculosis* interactome.
 Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab.
 <br>
-We are not hiring for these positions in 2023 and are unable to reply to individual emails.<br><br>
+**Summer interns**: Positions for 2024 are filled and we are unable to reply to individual emails.<br><br>

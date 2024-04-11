@@ -43,14 +43,14 @@ We recently determined the structures of sub-complexes of the Nucleosome Remodel
 Of late, AI-based methods have enabled amazing advances in structural biology and it is an exciting, fast-paced field! For us, simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing new modeling methods. Accordingly, our other focus is in developing rigorous methods and software for computational modeling of protein organization. These methods make structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. We use algorithms from computational statistics, statistical physics, machine learning and statistical inference, optimization, computer vision, and graph theory.
 </p>
 
-### StOP
+### NestOR
 
 <p class="text-justify">
-We developed a method to optimize the sampling-related parameters for modeling assemblies in [**IMP**](https://integrativemodeling.org). Stochastic Optimization of Parameters, i.e. [**StOP**](https://www.mdpi.com/2075-1729/11/11/1183) automates the tuning of MCMC parameters such as rigid body and bead move sizes, restraint weights, and replica exchange temperatures. 
+We developed a method to optimize the representation for modeling assemblies in [**IMP**](https://integrativemodeling.org). Nested sampling for Optimizing Representation, i.e. [**NestOR**](https://academic.oup.com/bioinformatics/article/40/3/btae106/7613065#443396933) uses Bayesian model selection to identifyt the optimal coarse-grained representation for a given integrative modeling setup.
 </p>
 
-![STOP](/static/img/researchpics/stop.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
-<p class="text-center">*Schematic of StOP*</p>
+![NestOR](/static/img/researchpics/nestor.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
+<p class="text-center">*Nested sampling-based optimal representation for the integrative models*</p>
 
 ### PrISM
 

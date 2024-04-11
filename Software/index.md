@@ -15,6 +15,8 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 Many of the packages we develop are integrated with the Integrative modeling Platform [IMP](https://integrativemodeling.org/), which we use to model protein assemblies. <br>
 
+- [**NestOR**](https://github.com/isblab/nestor) : Nested sampling-based optimization of representation for integrative structural modeling. <br><br> 
+
 - [**PrISM**](https://github.com/isblab/prism) : Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models! <br><br>
 
 - [**StOP**](https://github.com/isblab/stop) : Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.
@@ -33,7 +35,7 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 ### Courses and workshops
 
-- IMP Tutorial at MASFE IISER Pune 2023. [Github](https://github.com/isblab/IMP_Tutorial) [Talks](https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5) <br>
+- IMP Tutorial at [MASFE](https://sites.google.com/acads.iiserpune.ac.in/masfe/home) IISER Pune 2023. [Github](https://github.com/isblab/IMP_Tutorial) [Talks](https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5) <br>
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
 
