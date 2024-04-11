@@ -4,31 +4,54 @@ layout: publications
 group: Publications
 ---
 <!-- Title -->
+<head>
+<title>Publications</title>
+<style>
+    .container-fluid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    .publication {
+        width: 80%;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 20px;
+        display: flex;
+    }
+    .publication h5, .publication h6 {
+        margin: 0;
+    }
+    .publication .left-column {
+        flex: 1;
+    }
+    .publication .right-column {
+        flex: 1;
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-start;
+    }
+    .publication img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
+</head>
+<body>
+
 <h1>Publications</h1>
-<!-- Container for publications -->
+
 <div class="container-fluid">
-
-{% assign pubs = site.publications | sort: "pub_date" %}
-
-{% for publication in pubs reversed %}
-<hr>
-
-<div class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div>
-        <h5 style="font-size: 18px; overflow: hidden; text-overflow: ellipsis; max-width: 60%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
-        <h6 style="font-size: 14px;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-        {% if publication.journal %}
-            <i>{{ publication.journal }},</i>
-            {{publication.pub_date | split: "-" | first }}
-        {% endif %}
-    </div>
-    {% if publication.image %}
-        <img class="img-fluid" src="{{publication.image}}" alt="Key Figure" style="width: 200px; max-height: 200px; float: right;">
-    {% endif %}
-</div>
-
-<div class="row" style="padding-top: 20px; margin-top: -20px;">
-		{% if publication.doi %}
+    {% for publication in pubs reversed %}
+    <div class="publication">
+        <div class="left-column">
+            <h5 style="font-size: 18px; overflow: hidden; text-overflow: ellipsis; max-width: 100%;">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+            <h6 style="font-size: 14px;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+            {% if publication.journal %}
+                <p><i>{{ publication.journal }}, {{publication.pub_date | split: "-" | first }}</i></p>
+            {% endif %}
+            {% if publication.doi %}
 			<!-- DOI -->
 			<a href="{{publication.doi}}" title="DOI for {{publication.title}} (opens in new tab)" target="_blank" style="font-size: 14px;">DOI</a>&emsp;
 		{% endif %}
@@ -71,9 +94,16 @@ group: Publications
 				<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank" style="font-size: 14px;">{{link.name}}</a>&emsp;
 			{% endfor %}
 		{% endif %}
+        </div>
+        <div class="right-column">
+            {% if publication.image %}
+                <img src="{{publication.image}}" alt="Key Figure" style="max-width: 200px; max-height: 200px;">
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
 </div>
-<!-- End of publication -->
-<br>
-{% endfor %}
-</div>
+
+</body>
+</html>
 
