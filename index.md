@@ -18,18 +18,18 @@ Broadly, we seek to understand how proteins are organized in cells. We do this b
 </p>
 
 <p class="text-justify">
-Our main focus is in developing rigorous methods and software for computational modeling of protein organization. We’re inspired by algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory. We aim to produce algorithms and software that we and others can use.
+One focus of our group is to develop rigorous methods and software for computational modeling of protein organization. We’re inspired by algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory. We aim to produce algorithms and software that we and others can use.
 
 </p>
 
 <p class="text-justify">
-We are also characterizing the structures of specific assemblies in close collaborations with (experimental) cell and structural biologists.
-</p> 
+Another focus lies in characterizing the structures and functions of specific assemblies in close collaborations with (experimental) cell and structural biologists.
+</p>
 
 
 <br>
 
-## Upcoming events 
+## Upcoming events
 <h5>Symposium on Big Data Algorithms for Biology</h5>
 <a href = "https://www.bdbio.in/"> IISc Bangalore, May-June 2024 </a>
 

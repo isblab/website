@@ -9,7 +9,7 @@ group: Opportunities
 <p class="text-justify">
 We welcome highly motivated students who are excited to work in integrative structural biology. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies to performing cell biology/biochemistry experiments. <br><br>
 
-The main focus of our group is to develop computational methods for inferring protein organization in the cell. We’re inspired by algorithms from statistical inference and optimization, including machine learning and deep learning,  computer vision, and graph theory.  We’re actively looking for deep-learning enthusiasts to join us! <br><br>
+One focus of the group is to develop computational methods for inferring protein organization in the cell. We’re inspired by algorithms from statistical inference and optimization, including machine learning and deep learning,  computer vision, and graph theory.  We’re actively looking for deep-learning enthusiasts to join us! <br><br>
 
 Another focus is to combine protein structural modeling with data from cell biology and biophysics/biochemistry experiments (mass spectrometry/cryo-electron microscopy/tomography) in close collaborations with experimental labs on campus and elsewhere. Students focus on modeling specific assemblies and deducing the functions of these assemblies in light of their structure. <br><br>
 
@@ -32,7 +32,7 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
    * PhD students usually come in via the <a href='https://www.ncbs.res.in/academic/admissions'>NCBS admissions</a> process. <br>
    * If you have a Physics/Engineering/CS background and are interested in doing Biology research, check out the new <a href='https://pol.ncbs.res.in'> TIFR-PoL Interdisciplinary PhD program</a>. <br>
    * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to email directly. <br><br>
-   
+
 ## Postdoc positions
 We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
 
