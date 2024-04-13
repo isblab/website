@@ -16,27 +16,27 @@ Check out software developed by our group and other open-source freebies at [ISB
 Many of the packages we develop are integrated with the Integrative modeling Platform [IMP](https://integrativemodeling.org/), which we use to model protein assemblies. <br>
 
 [**NestOR**](https://github.com/isblab/nestor) : Nested sampling-based optimization of representation for integrative structural modeling. <br>
-[![GitHub](/static/img/logos/github_logo.svg){:width="100px" height="30px"}](https://github.com/isblab/nestor) <br> <br>
+[/static/img/logos/code_logo.png](https://github.com/isblab/nestor) <br> <br>
 
 [**PrISM**](https://github.com/isblab/prism) : Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models! <br>
-[![GitHub](/static/img/logos/github_logo.svg){:width="100px" height="30px"}](https://github.com/isblab/prism) <br> <br>
+[/static/img/logos/code_logo.png](https://github.com/isblab/prism) <br> <br>
 
 
 [**StOP**](https://github.com/isblab/stop) : Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.
 	-  Check this tutorial for optimizing Monte Carlo [move sizes/restraint weights](https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md).
 	-  And this one for optimizing [replica exchange temperatures](https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md). <br>
-[![GitHub](/static/img/logos/github_logo.svg){:width="100px" height="30px"}](https://github.com/isblab/stop) <br> <br>
+[/static/img/logos/code_logo.png](https://github.com/isblab/stop) <br> <br>
 
 
 [**Sampcon**](https://github.com/salilab/imp-sampcon) : Pipeline for analysing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision. <br>
-[![GitHub](/static/img/logos/github_logo.svg){:width="100px" height="30px"}](https://github.com/salilab/imp-sampcon) <br> <br>
+[/static/img/logos/code_logo.png](https://github.com/salilab/imp-sampcon) <br> <br>
 
 
 #### Protein-protein docking-related software
 
 [**Scoring functions**](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials): PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.  <br><br>
 
-[**Other utilities**](https://github.com/isblab/dockingScripts): Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br><br> 
+[**Other utilities**](https://github.com/isblab/dockingScripts): Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br><br>
 
 
 ### Courses and workshops
