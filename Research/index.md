@@ -33,7 +33,7 @@ Opportunities exist in our group to work on several such assemblies. Example are
 
 </p>
 
-### NuRD complex
+## The Nucleosome Remodeling and Deacetylase complex
 <p class="text-justify">
 We recently determined the structures of sub-complexes of the Nucleosome Remodeling and Deacetylase, [**NuRD complex**](https://www.biorxiv.org/content/10.1101/2021.11.25.469965v2), a chromatin-modifying assembly that regulates gene expression and is conserved across plant and animal species. Using Bayesian integrative structure determination, we combined information from SEC-MALLS, DIA-MS, XLMS, negative stain EM, X-ray crystallography, and NMR spectroscopy, secondary structure, and homology predictions. The integrative structures were further validated by independent cryo-EM maps, biochemical assays, and known cancer-associated mutations. Based on the structures, we proposed a model showing how the two enzymatic modules in the assembly maybe connected by MBD.  
 </p>
@@ -41,7 +41,7 @@ We recently determined the structures of sub-complexes of the Nucleosome Remodel
 ![NuRD two-states](/static/img/researchpics/two_states_nurd.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=40%"}
 <p class="text-center">*Two-state model of MBD3 binding in NuRD*</p>
 
-### NestOR
+## Optimizing multi-scale coarse-grained model representations
 
 <p class="text-justify">
 
@@ -53,7 +53,7 @@ We recently developed a method to optimize the multi-scale coarse-grained repres
 
 <p class="text-center">*Bayesian model selection-based optimal representation for the integrative models*</p>
 
-### PrISM
+## Annotating precision for integrative models 
 
 <p class="text-justify">
 [**PrISM**](https://doi.org/10.1093/bioinformatics/btac400) is our recently developed method to identify high and low precision regions in an ensemble of integrative models of large macromolecular assemblies.
