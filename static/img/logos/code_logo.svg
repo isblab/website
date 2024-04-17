@@ -3,42 +3,38 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 96 20" style="enable-background:new 0 0 96 20;" xml:space="preserve">
 <style type="text/css">
-	.st0{clip-path:url(#SVGID_00000090295180109700997110000018017779807174102205_);}
+	.st0{clip-path:url(#SVGID_00000078021676977204665900000010748460160825608595_);}
 	.st1{fill:#555555;}
 	.st2{fill:#A4A61D;}
-	.st3{fill:url(#SVGID_00000158743886794931610540000010804821830734954430_);}
-	.st4{enable-background:new    ;}
-	.st5{fill:#010101;}
-	.st6{font-family:'Verdana';}
-	.st7{font-size:11px;}
-	.st8{fill:#FFFFFF;}
-	.st9{font-family:'ArialMT';}
-	.st10{font-size:12px;}
+	.st3{fill:url(#SVGID_00000049918322509633481060000003098744714568644782_);}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'ArialMT';}
+	.st6{font-size:12px;}
 </style>
 <g>
-	<defs>
-		<path id="SVGID_1_" d="M3,0h90c1.7,0,3,1.3,3,3v14c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z"/>
-	</defs>
-	<clipPath id="SVGID_00000181057699687599703840000000228625705539461527_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g style="clip-path:url(#SVGID_00000181057699687599703840000000228625705539461527_);">
-		<rect y="0" class="st1" width="61" height="20"/>
-		<rect x="61" y="0" class="st2" width="35" height="20"/>
-		
-			<linearGradient id="SVGID_00000044170566441647189990000013863904033014260362_" gradientUnits="userSpaceOnUse" x1="-245.9062" y1="410.3398" x2="-245.9062" y2="409.3398" gradientTransform="matrix(96 0 0 -20 23655 8206.7969)">
-			<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
-			<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
-		</linearGradient>
-		<rect y="0" style="fill:url(#SVGID_00000044170566441647189990000013863904033014260362_);" width="96" height="20"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M3,0h90c1.7,0,3,1.3,3,3v14c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z"/>
+		</defs>
+		<clipPath id="SVGID_00000022523901910085271050000008682101899058230168_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000022523901910085271050000008682101899058230168_);">
+			<rect y="0" class="st1" width="61" height="20"/>
+			<rect x="61" y="0" class="st2" width="35" height="20"/>
+			
+				<linearGradient id="SVGID_00000066503152276508223720000010363989003879146143_" gradientUnits="userSpaceOnUse" x1="-492.3125" y1="41.1" x2="-492.3125" y2="42.1" gradientTransform="matrix(96 0 0 20 47310 -821.9998)">
+				<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+				<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+			</linearGradient>
+			<rect y="0" style="fill:url(#SVGID_00000066503152276508223720000010363989003879146143_);" width="96" height="20"/>
+		</g>
 	</g>
 </g>
 <g text-rendering="geometricPrecision">
-	<g class="st4">
-		<text transform="matrix(1 0 0 1 64.5879 15.0002)" class="st5 st6 st7">Code</text>
-	</g>
-	<text transform="matrix(1 0 0 1 64.4633 14.4965)" class="st8 st6 st7">Code</text>
-	<text transform="matrix(1 0 0 1 11.1907 14.9515)" class="st9 st10">GitHub</text>
-	<text transform="matrix(1 0 0 1 10.9028 14.4966)" class="st8 st9 st10">GitHub</text>
+	<text transform="matrix(1 0 0 1 11.4153 13.9841)" class="st4 st5 st6">GitHub</text>
+</g>
+<g text-rendering="geometricPrecision">
+	<text transform="matrix(1 0 0 1 64.2179 13.985)" class="st4 st5 st6">Code</text>
 </g>
 </svg>
