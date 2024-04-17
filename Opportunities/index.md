@@ -7,7 +7,7 @@ group: Opportunities
 # Join us!
 
 <p class="text-justify">
-We welcome highly motivated students who are excited to work in integrative structural biology. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies to performing cell biology/biochemistry experiments. <br><br>
+We welcome highly motivated students who are excited to work in integrative structural biology. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies. <br><br>
 
 One focus of the group is to develop computational methods for inferring protein organization in the cell. We’re inspired by algorithms from statistical inference and optimization, including machine learning and deep learning,  computer vision, and graph theory.  We’re actively looking for deep-learning enthusiasts to join us! <br><br>
 
