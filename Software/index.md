@@ -16,7 +16,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 Many of the packages we develop are integrated with the Integrative modeling Platform [IMP](https://integrativemodeling.org/), which we use to model protein assemblies. <br>
 
 [**NestOR**](https://github.com/isblab/nestor) : Nested sampling-based optimization of representation for integrative structural modeling. <br>
-[![GitHub](/static/img/logos/code_logo.svg){:width="60px" height="20px"}](https://github.com/isblab/nestor) <br> <br>
+[![GitHub](/static/img/logos/code_logo.svg){:width="100px" height="60px"}](https://github.com/isblab/nestor) <br> <br>
 
 [**PrISM**](https://github.com/isblab/prism) : Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models! <br>
 [![GitHub](/static/img/logos/code_logo.svg){:width="60px" height="20px"}](https://github.com/isblab/prism) <br> <br>
