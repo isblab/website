@@ -6,6 +6,7 @@ group: Software
 
 ## ISB Lab Software and Resources
 <br><br>
+
 ### Software
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
@@ -34,13 +35,15 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 #### Protein-protein docking-related software
 
-[**Scoring functions**](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials): PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.  <br><br>
+[**Scoring functions**](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials): PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.  <br>
+[![GitHub](/static/img/logos/code_logo.svg){:width="100px" height="60px"}](https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials) <br> <br>
 
-[**Other utilities**](https://github.com/isblab/dockingScripts): Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br><br>
-
+[**Other utilities**](https://github.com/isblab/dockingScripts): Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.  <br>
+[![GitHub](/static/img/logos/code_logo.svg){:width="100px" height="60px"}](https://github.com/isblab/dockingScripts)
 
 ### Courses and workshops
-<br><br> 
+<br>
+
 #### Integrative modeling tutorials and workshops
 
 - IMP Tutorial at [MASFE](https://sites.google.com/acads.iiserpune.ac.in/masfe/home) IISER Pune 2023. [Github](https://github.com/isblab/IMP_Tutorial) [Talks](https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5) <br>
