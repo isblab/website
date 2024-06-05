@@ -5,5 +5,5 @@ journal: "arXiv"
 pub_date: "2024"
 image: /static/img/pubpics/bookchapter.png
 doi: https://doi.org/10.48550/arXiv.2401.17894
-pdf: https://arxiv.org/pdf/2401.17894v3.pdf
+pdf: https://arxiv.org/pdf/2401.17894v4
 ---
