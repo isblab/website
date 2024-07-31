@@ -1,6 +1,6 @@
 ---
 title: "Recent methods from statistical inference and machine learning to improve integrative modeling of macromolecular assemblies"
-authors: " **S. Arvindekar\*, K. Majila\*, S. Viswanath**"
+authors: " **S. Arvindekar\\*, K. Majila\\*, S. Viswanath**"
 journal: "arXiv"
 pub_date: "2024"
 image: /static/img/pubpics/bookchapter.png
