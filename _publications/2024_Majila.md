@@ -1,6 +1,6 @@
 ---
 title: "Frontiers in integrative structural biology: modeling disordered proteins and utilizing in situ data"
-authors: " **K. Majila*, S. Arvindekar*, M. Jindal, S. Viswanath**"
+authors: " **K. Majila\*, S. Arvindekar\*, M. Jindal, S. Viswanath**"
 journal: "arXiv"
 pub_date: "2024"
 image: /static/img/pubpics/qrb.png

@@ -49,7 +49,9 @@ We recently developed a method to optimize the multi-scale coarse-grained repres
 
 </p>
 
-![NestOR](/static/img/researchpics/nestor.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=20%"}
+<div style="text-align: center;">
+    <img src="/static/img/researchpics/nestor.png" alt="NestOR" style="display: block; margin-left: auto; margin-right: auto; max-height: 40%; max-width: 30%;">
+</div>
 
 <p class="text-center">*Bayesian model selection-based optimal representation for the integrative models*</p>
 
