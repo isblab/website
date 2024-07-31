@@ -4,8 +4,9 @@ layout: home
 group: Home
 ---
 
-{: .display-4}
-Welcome to the Integrative Structural Biology Lab!
+<div style="text-align: center;">
+  <h1 class="display-4">Welcome to the Integrative Structural Biology Lab!</h1>
+</div>
 
 ![ISB lab logo](static/img/logos/isblabLogo.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
 
@@ -29,18 +30,14 @@ Another focus lies in characterizing the structures and functions of specific as
 
 <br>
 
-## Upcoming events
-<h5>Symposium on Big Data Algorithms for Biology</h5>
-<a href = "https://www.bdbio.in/"> IISc Bangalore, May-June 2024 </a>
+<!-- ## Upcoming events -->
 
-<h5>Cryo electron microscopy and 3D image processing (CEM3DIP) </h5>
-<a href = "https://meetings.embo.org/event/24-cryo-em"> Bangalore, June-July 2024 </a>
-
-<br>
 
 ## Join us!
-Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.
+<!-- Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page. -->
+No open positions currently.
 <br>
+
 ## Contact
 
 We are at Lab 15, ELC 1st floor in NCBS.

@@ -42,11 +42,12 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 [![GitHub](/static/img/logos/code_logo.svg){:width="100px" height="60px"}](https://github.com/isblab/dockingScripts)
 
 ### Courses and workshops
-<br>
 
 #### Integrative modeling tutorials and workshops
 
-- IMP Tutorial at [MASFE](https://sites.google.com/acads.iiserpune.ac.in/masfe/home) IISER Pune 2023. [Github](https://github.com/isblab/IMP_Tutorial) [Talks](https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5) <br>
+- IMP Tutorial at [EMBOCEM3DIP](https://meetings.embo.org/event/24-cryo-em) IISc Bangalore 2024. [Github](https://github.com/isblab/IMP_Tutorial) [Talks](https://drive.google.com/drive/folders/13dUNwgPMZE0mAeyGEdUwgnGz5ybfxs1Z) <br>
+
+- IMP Tutorial at [MASFE](https://sites.google.com/acads.iiserpune.ac.in/masfe/home) IISER Pune 2023. [Github](https://github.com/isblab/IMP_Tutorial/tree/masfe2023) [Talks](https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5) <br>
 
 - [IMP Workshops](https://integrativemodeling.org/talks.html)  <br>
 

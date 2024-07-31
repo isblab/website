@@ -49,7 +49,7 @@ We recently developed a method to optimize the multi-scale coarse-grained repres
 
 </p>
 
-![NestOR](/static/img/researchpics/nestor.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"}
+![NestOR](/static/img/researchpics/nestor.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=20%"}
 
 <p class="text-center">*Bayesian model selection-based optimal representation for the integrative models*</p>
 
@@ -61,5 +61,5 @@ We recently developed a method to optimize the multi-scale coarse-grained repres
 PrISM is now used in the pipeline for validating integrative models deposited in the [**wwPDB (worldwide Protein Data Bank)**](https://www.wwpdb.org/), making us a part of the PDBDev Model Validation Group!
 </p>
 
-![PrISM](/static/img/researchpics/prism.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"}
+![PrISM](/static/img/researchpics/prism.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=20%"}
 <p class="text-center">*Precision for integrative structural models*</p>
