@@ -34,8 +34,7 @@ Another focus lies in characterizing the structures and functions of specific as
 
 
 ## Join us!
-<!-- Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page. -->
-No open positions currently.
+Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.
 <br>
 
 ## Contact

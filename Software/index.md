@@ -43,6 +43,8 @@ Many of the packages we develop are integrated with the Integrative modeling Pla
 
 ### Courses and workshops
 
+<br>
+
 #### Integrative modeling tutorials and workshops
 
 - IMP Tutorial at [EMBOCEM3DIP](https://meetings.embo.org/event/24-cryo-em) IISc Bangalore 2024. [Github](https://github.com/isblab/IMP_Tutorial) [Talks](https://drive.google.com/drive/folders/13dUNwgPMZE0mAeyGEdUwgnGz5ybfxs1Z) <br>
