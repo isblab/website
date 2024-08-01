@@ -24,19 +24,19 @@ group: Software
         </tr>
         <tr class="row-light">
             <td>NestOR</td>
-            <td><img src="static/img/software/nestor.png" alt="NestOR graphical abstract" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/nestor.png" style="max-width: 100px; height: auto;"></td>
             <td>Nested sampling-based optimization of representation for integrative structural modeling.</td>
             <td><a href="https://github.com/isblab/nestor" class="link">GitHub</a></td>
         </tr>
         <tr class="row-dark">
             <td>PrISM</td>
-            <td><img src="static/img/software/prism.png" alt="PrISM graphical abstract" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/prism.png" style="max-width: 100px; height: auto;"></td>
             <td>Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models!</td>
             <td><a href="https://github.com/isblab/prism" class="link">GitHub</a></td>
         </tr>
         <tr class="row-light">
             <td>StOP</td>
-            <td><img src="static/img/software/stop.png" alt="StOP graphical abstract" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/stop.png" style="max-width: 100px; height: auto;"></td>
             <td>Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.<br>
                 - Check this <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md" class="link">tutorial</a> for optimizing Monte Carlo move sizes/restraint weights.<br>
                 - And this <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md" class="link">tutorial</a> for optimizing replica exchange temperatures.
@@ -45,7 +45,7 @@ group: Software
         </tr>
         <tr class="row-dark">
             <td>Sampcon</td>
-            <td><img src="static/img/software/sampcon.png" alt="Sampcon graphical abstract" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/sampcon.png" style="max-width: 100px; height: auto;"></td>
             <td>Pipeline for analyzing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision.</td>
             <td><a href="https://github.com/salilab/imp-sampcon" class="link">GitHub</a></td>
         </tr>
