@@ -11,32 +11,32 @@ group: Software
 <table>
     <thead>
         <tr>
-            <th style="text-align: center;">Name</th>
-            <th style="text-align: center;">Graphical abstract</th>
-            <th style="text-align: center;">Description</th>
-            <th style="text-align: center;">Link</th>
+            <th style="text-align: center; width: 25%;">Name</th>
+            <th style="text-align: center; width: 25%;"></th>
+            <th style="text-align: center; width: 35%;">Description</th>
+            <th style="text-align: center; width: 15%;">Link</th>
         </tr>
     </thead>
     <tbody>
-        <!-- IMP-related software section -->
+        <!-- Integrative modeling software section -->
         <tr class="heading-row">
-            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0;">IMP-related software</td>
+            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0; padding: 15px;">Integrative modeling software</td>
         </tr>
         <tr class="row-light">
             <td>NestOR</td>
-            <td><img src="/static/img/software/nestor.png" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/nestor.png" class="logo"></td>
             <td>Nested sampling-based optimization of representation for integrative structural modeling.</td>
             <td><a href="https://github.com/isblab/nestor" class="link">GitHub</a></td>
         </tr>
         <tr class="row-dark">
             <td>PrISM</td>
-            <td><img src="/static/img/software/prism.png" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/prism.png" class="logo"></td>
             <td>Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models!</td>
             <td><a href="https://github.com/isblab/prism" class="link">GitHub</a></td>
         </tr>
         <tr class="row-light">
             <td>StOP</td>
-            <td><img src="/static/img/software/stop.png" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/stop.png" class="logo"></td>
             <td>Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.<br>
                 - Check this <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md" class="link">tutorial</a> for optimizing Monte Carlo move sizes/restraint weights.<br>
                 - And this <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md" class="link">tutorial</a> for optimizing replica exchange temperatures.
@@ -45,13 +45,13 @@ group: Software
         </tr>
         <tr class="row-dark">
             <td>Sampcon</td>
-            <td><img src="/static/img/software/sampcon.png" style="max-width: 100px; height: auto;"></td>
+            <td><img src="/static/img/software/sampcon.png" class="logo"></td>
             <td>Pipeline for analyzing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision.</td>
             <td><a href="https://github.com/salilab/imp-sampcon" class="link">GitHub</a></td>
         </tr>
         <!-- Protein-protein docking-related software section -->
         <tr class="heading-row">
-            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0;">Protein-protein docking-related software</td>
+            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0; padding: 15px;">Protein-protein docking-related software</td>
         </tr>
         <tr class="row-light">
             <td>Scoring functions</td>
@@ -80,19 +80,33 @@ group: Software
         background-color: #f0f0f0; /* Light grey for headings */
     }
     .link {
-        color: #0066cc; /* Link color */
-        text-decoration: none; /* Remove underline from links */
+        color: #0066cc; 
     }
     .logo {
+        max-width: 150px;
+        height: auto;
         vertical-align: middle;
+    }
+    table {
+        width: 100%; 
+        border-collapse: collapse; 
+    }
+    th, td {
+        padding: 12px; 
+        border: 1px solid #ddd;
+    }
+    th {
+        background-color: #f0f0f0;
+    }
+    /* Bold text in the Name column */
+    td:first-child {
+        font-weight: bold;
     }
 </style>
 
-
-
 <br><br>
 
-<h2>Courses and Workshops</h2>
+<h2>Courses and Workshops</h2><br>
 
 <h3>Integrative Modeling Tutorials and Workshops</h3>
 <ul>
@@ -120,3 +134,4 @@ group: Software
         Crash course in <a href="https://github.com/isblab/pycrash" class="link">Python</a> taught during the Statistical Inference course.
     </li>
 </ul>
+
