@@ -11,10 +11,10 @@ group: Software
 <table>
     <thead>
         <tr>
-            <th style="text-align: center; width: 25%;">Name</th>
-            <th style="text-align: center; width: 25%;"></th>
-            <th style="text-align: center; width: 35%;">Description</th>
-            <th style="text-align: center; width: 15%;">Link</th>
+            <th style="text-align: center; width: 20%;">Name</th>
+            <th style="text-align: center; width: 30%;"></th>
+            <th style="text-align: center; width: 40%;">Description</th>
+            <th style="text-align: center; width: 10%;">Link</th>
         </tr>
     </thead>
     <tbody>
@@ -23,47 +23,47 @@ group: Software
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0; padding: 15px;">Integrative modeling software</td>
         </tr>
         <tr class="row-light">
-            <td>NestOR</td>
-            <td><img src="/static/img/software/nestor.png" class="logo"></td>
-            <td>Nested sampling-based optimization of representation for integrative structural modeling.</td>
-            <td><a href="https://github.com/isblab/nestor" class="link">GitHub</a></td>
+            <td style="text-align: center;">NestOR</td>
+            <td style="text-align: center;"><img src="/static/img/software/nestor.png" class="logo"></td>
+            <td style="text-align: center;">Nested sampling-based optimization of representation for integrative structural modeling.</td>
+            <td style="text-align: center;"><a href="https://github.com/isblab/nestor" class="link">GitHub</a></td>
         </tr>
         <tr class="row-dark">
-            <td>PrISM</td>
-            <td><img src="/static/img/software/prism.png" class="logo"></td>
-            <td>Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models!</td>
-            <td><a href="https://github.com/isblab/prism" class="link">GitHub</a></td>
+            <td style="text-align: center;">PrISM</td>
+            <td style="text-align: center;"><img src="/static/img/software/prism.png" class="logo"></td>
+            <td style="text-align: center;">Package to annotate high- and low-precision regions in integrative structure models. Now used by wwPDB to validate integrative models!</td>
+            <td style="text-align: center;"><a href="https://github.com/isblab/prism" class="link">GitHub</a></td>
         </tr>
         <tr class="row-light">
-            <td>StOP</td>
-            <td><img src="/static/img/software/stop.png" class="logo"></td>
-            <td>Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.<br>
+            <td style="text-align: center;">StOP</td>
+            <td style="text-align: center;"><img src="/static/img/software/stop.png" class="logo"></td>
+            <td style="text-align: center;">Stochastic Optimization of Parameters (StOP) automates the tuning of MCMC parameters for stochastic sampling in IMP.<br>
                 - Check this <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md" class="link">tutorial</a> for optimizing Monte Carlo move sizes/restraint weights.<br>
                 - And this <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md" class="link">tutorial</a> for optimizing replica exchange temperatures.
             </td>
-            <td><a href="https://github.com/isblab/stop" class="link">GitHub</a></td>
+            <td style="text-align: center;"><a href="https://github.com/isblab/stop" class="link">GitHub</a></td>
         </tr>
         <tr class="row-dark">
-            <td>Sampcon</td>
-            <td><img src="/static/img/software/sampcon.png" class="logo"></td>
-            <td>Pipeline for analyzing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision.</td>
-            <td><a href="https://github.com/salilab/imp-sampcon" class="link">GitHub</a></td>
+            <td style="text-align: center;">Sampcon</td>
+            <td style="text-align: center;"><img src="/static/img/software/sampcon.png" class="logo"></td>
+            <td style="text-align: center;">Pipeline for analyzing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision.</td>
+            <td style="text-align: center;"><a href="https://github.com/salilab/imp-sampcon" class="link">GitHub</a></td>
         </tr>
         <!-- Protein-protein docking-related software section -->
         <tr class="heading-row">
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0; padding: 15px;">Protein-protein docking-related software</td>
         </tr>
         <tr class="row-light">
-            <td>Scoring functions</td>
+            <td style="text-align: center;">Scoring functions</td>
             <td></td>
-            <td>PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.</td>
-            <td><a href="https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials" class="link">GitHub</a></td>
+            <td style="text-align: center;">PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.</td>
+            <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials" class="link">GitHub</a></td>
         </tr>
         <tr class="row-dark">
-            <td>Other utilities</td>
+            <td style="text-align: center;">Other utilities</td>
             <td></td>
-            <td>Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.</td>
-            <td><a href="https://github.com/isblab/dockingScripts" class="link">GitHub</a></td>
+            <td style="text-align: center;">Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.</td>
+            <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts" class="link">GitHub</a></td>
         </tr>
     </tbody>
 </table>
@@ -83,7 +83,7 @@ group: Software
         color: #0066cc; 
     }
     .logo {
-        max-width: 150px;
+        max-width: 250px;
         height: auto;
         vertical-align: middle;
     }
@@ -96,7 +96,7 @@ group: Software
         border: 1px solid #ddd;
     }
     th {
-        background-color: #f0f0f0;
+        background-color: #ffffff;
     }
     /* Bold text in the Name column */
     td:first-child {

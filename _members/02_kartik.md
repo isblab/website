@@ -1,6 +1,6 @@
 ---
 name: Kartik Majila
-image: /static/img/team/kartik.jpg #265 x 265 pixels, 72 dpi
+image: /static/img/team/kartik.jpg #400 x 400 pixels, 72 dpi
 labposition: Current
 currposition: Ph.D. 2021
 email: kartikm AT ncbs DOT res DOT in #Preferred public email address
