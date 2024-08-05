@@ -4,7 +4,7 @@ layout: default
 group: Opportunities
 ---
 
-# Join us!
+## Join us!
 
 <p class="text-justify">
 We welcome highly motivated students who are excited to work in integrative structural biology. Students in the group work on a spectrum of projects from computational method development to modeling specific assemblies. <br><br>
@@ -25,7 +25,7 @@ Students who join the lab must be interested to do computer programming. They us
 
 </p>
 
-## PhD student positions
+### PhD student positions
 
 If you are interested in doing a PhD in the lab, please get in touch. There are several routes to becoming a PhD student in the lab.
 
@@ -33,10 +33,10 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
    * If you have a Physics/Engineering/CS background and are interested in doing Biology research, check out the new <a href='https://pol.ncbs.res.in'> TIFR-PoL Interdisciplinary PhD program</a>. <br>
    * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to email directly. <br><br>
 
-## Postdoc positions
+### Postdoc positions
 We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
 
-## Masters thesis, JRF, Project Assistant, Intern positions
+### Masters thesis, JRF, Project Assistant, Intern positions
 <!-- We have one <a href='https://www.ncbs.res.in/jobportal/email/22024/85496'> open position</a> for integrative modeling of the *Mycobacterium tuberculosis* interactome.
 Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab. -->
 No open positions currently.
