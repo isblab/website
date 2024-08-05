@@ -3,10 +3,10 @@ title: Software and Resources
 layout: default
 group: Software
 ---
-<h1>ISB Lab Software and Resources</h1>
+<h2>ISB Lab Software and Resources</h2>
 <div class="container-fluid">
 
-<h2>Software</h2>
+<h3>Software</h3>
 
 <table>
     <thead>
@@ -106,9 +106,9 @@ group: Software
 
 <br><br>
 
-<h2>Courses and Workshops</h2><br>
+<h3>Courses and Workshops</h3><br>
 
-<h3>Integrative Modeling Tutorials and Workshops</h3>
+<h4>Integrative Modeling Tutorials and Workshops</h4>
 <ul>
     <li>
         IMP Tutorial at <a href="https://meetings.embo.org/event/24-cryo-em" class="link">EMBOCEM3DIP</a> IISc Bangalore 2024. 
@@ -125,7 +125,7 @@ group: Software
     </li>
 </ul>
 
-<h3>Graduate Courses at NCBS</h3>
+<h4>Graduate Courses at NCBS</h4>
 <ul>
     <li>
         <a href="http://moodle.ncbs.res.in/course/view.php?id=107" class="link">Statistical Inference in Biology</a> (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.
