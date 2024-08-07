@@ -12,8 +12,8 @@ group: Publications
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
 	<div>
-		<h6>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h6>
-		<h7>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h7>
+		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
 		{% if publication.journal %}
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
