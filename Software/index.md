@@ -8,6 +8,8 @@ group: Software
 
 <h3>Software</h3>
 
+Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
+
 <table>
     <thead>
         <tr>
@@ -55,13 +57,13 @@ group: Software
         </tr>
         <tr class="row-light">
             <td style="text-align: center;">Scoring functions</td>
-            <td></td>
+            <td style="text-align: center;"><img src="/static/img/software/ppd.png" class="logo"></td>
             <td style="text-align: center;">PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.</td>
             <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials" class="link">GitHub</a></td>
         </tr>
         <tr class="row-dark">
             <td style="text-align: center;">Other utilities</td>
-            <td></td>
+            <td style="text-align: center;"><img src="/static/img/software/ppd.png" class="logo"></td>
             <td style="text-align: center;">Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.</td>
             <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts" class="link">GitHub</a></td>
         </tr>
@@ -71,13 +73,13 @@ group: Software
 <style>
     /* Add styles for alternating row colors */
     .row-light {
-        background-color: #CBC3E3; /* Light purple */
+        background-color: #f0f0f0; /* Light purple */
     }
     .row-dark {
         background-color: #ffffff; /* White */
     }
     .heading-row {
-        background-color: #f0f0f0; /* Light grey for headings */
+        background-color: #CBC3E3; /* Light grey for headings */
     }
     .link {
         color: #0066cc; 
@@ -128,7 +130,7 @@ group: Software
 <h4>Graduate Courses at NCBS</h4>
 <ul>
     <li>
-        <a href="http://moodle.ncbs.res.in/course/view.php?id=107" class="link">Statistical Inference in Biology</a> (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.
+        <a href="https://moodle.ncbs.res.in/enrol/index.php?id=165" class="link">Statistical Inference in Biology</a> (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.
     </li>
     <li>
         Crash course in <a href="https://github.com/isblab/pycrash" class="link">Python</a> taught during the Statistical Inference course.
