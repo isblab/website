@@ -22,7 +22,7 @@ Check out software developed by our group and other open-source freebies at [ISB
     <tbody>
         <!-- Integrative modeling software section -->
         <tr class="heading-row">
-            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0; padding: 15px;">Integrative modeling software</td>
+            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Integrative modeling software</td>
         </tr>
         <tr class="row-light">
             <td style="text-align: center;">NestOR</td>
@@ -53,7 +53,7 @@ Check out software developed by our group and other open-source freebies at [ISB
         </tr>
         <!-- Protein-protein docking-related software section -->
         <tr class="heading-row">
-            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #f0f0f0; padding: 15px;">Protein-protein docking-related software</td>
+            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Protein-protein docking-related software</td>
         </tr>
         <tr class="row-light">
             <td style="text-align: center;">Scoring functions</td>
@@ -73,13 +73,13 @@ Check out software developed by our group and other open-source freebies at [ISB
 <style>
     /* Add styles for alternating row colors */
     .row-light {
-        background-color: #f0f0f0; /* Light purple */
+        background-color: #f0f0f0; /* Light grey */
     }
     .row-dark {
         background-color: #ffffff; /* White */
     }
     .heading-row {
-        background-color: #CBC3E3; /* Light grey for headings */
+        background-color: #cbc3e3; /* Light purple for headings */
     }
     .link {
         color: #0066cc; 
