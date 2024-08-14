@@ -6,4 +6,12 @@ pub_date: "2024"
 image: /static/img/pubpics/wdr.png
 doi: https://doi.org/10.1073/pnas.2318601121
 pdf: https://www.pnas.org/doi/epub/10.1073/pnas.2318601121
+supplementary: https://www.pnas.org/doi/10.1073/pnas.2318601121#supplementary-materials
+website: https://github.com/isblab/wdr76_spin1_nucleosome
+dataset: https://zenodo.org/records/11044599
+pdb_structures:
+  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000382
+links:
+  - name: Washburn Lab
+    url: https://www.kumc.edu/mwashburn4.html
 ---
