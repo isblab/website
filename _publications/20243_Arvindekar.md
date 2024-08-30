@@ -1,6 +1,6 @@
 ---
 title: "An integrated structural model of the DNA damage-responsive H3K4me3 binding WDR76:SPIN1 complex with the nucleosome"
-authors: "X. Liua, Y. Zhanga, Z. Wena, Y. Hao, C. A.S. Banks, J. Cesare, S. Bhattacharyaa, **S. Arvindekar**, J. J. Lange, Yixuan Xie, B. A. Garciad, B. D. Slaughter, J. R. Unruh, **S. Viswanath**, L. Florens, J. L. Workman, and M. P. Washburn"
+authors: "X. Liu, Y. Zhang, Z. Wen, Y. Hao, C. A.S. Banks, J. Cesare, S. Bhattacharya, **S. Arvindekar**, J. J. Lange, Yixuan Xie, B. A. Garcia, B. D. Slaughter, J. R. Unruh, **S. Viswanath**, L. Florens, J. L. Workman, and M. P. Washburn"
 journal: "PNAS"
 pub_date: "2024"
 image: /static/img/pubpics/wdr.png
