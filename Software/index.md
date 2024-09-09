@@ -67,6 +67,17 @@ Check out software developed by our group and other open-source freebies at [ISB
             <td style="text-align: center;">Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.</td>
             <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts" class="link">GitHub</a></td>
         </tr>
+        <!-- Database -->
+        <tr class="heading-row">
+            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Database</td>
+        </tr>
+        <tr class="row-light">
+            <td style="text-align: center;">StrIDR</td>
+            <td style="text-align: center;"><img src="/static/img/software/stridr.png" class="logo"></td>
+            <td style="text-align: center;">StrIDR is a database of IDRs, confirmed via experimental or homology-based evidence, that are resolved in experimentally determined structures.</td>
+            <td style="text-align: center;"><a href="https://github.com/isblab/stridr" class="link">GitHub</a></td>
+            <td style="text-align: center;"><a href="https://isblab.ncbs.res.in/stridr" class="link">Database</a></td>
+        </tr>
     </tbody>
 </table>
 
