@@ -16,7 +16,7 @@ group: Publications
 		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
 		{% if publication.journal %}
 			<i>{{ publication.journal }},</i>
-			{{publication.pub_date | split: "-" | first }}
+			{{ publication.pub_date | date: "%B %d, %Y" }}
 		{% endif %}
 	</div>
 </div>
