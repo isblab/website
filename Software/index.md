@@ -50,7 +50,7 @@ Check out software developed by our group and other open-source freebies at [ISB
             <td style="text-align: center;"><a href="https://github.com/salilab/imp-sampcon" class="link">GitHub</a></td>
         </tr>
         <tr class="row-light">
-            <td style="text-align: center;">scoring functions for protein-protein docking and other utilities for parsing PDBs</td>
+            <td style="text-align: center;">Scoring functions for protein-protein docking and other utilities for parsing PDBs</td>
             <td style="text-align: center;"><img src="/static/img/software/ppd.png" class="logo"></td>
             <td style="text-align: center;">PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models. Interface RMSD calculation, utilities for modifying PDBs, adding chain names, and running Modeller.</td>
             <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials" class="link">GitHub</a></td>
