@@ -10,9 +10,9 @@ supplementary: "/static/img/pdfs/2022_Arvindekar_SI.pdf"
 website: https://github.com/isblab/nurd
 dataset: https://doi.org/10.5281/zenodo.6674232
 pdb_structures:
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000152
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000154
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000155
+  - https://pdb-dev.wwpdb.org/entry.html?9A2A
+  - https://pdb-dev.wwpdb.org/entry.html?9A2B
+  -https://pdb-dev.wwpdb.org/entry.html?9A2C
 emdb_structures : 
   - https://www.ebi.ac.uk/emdb/EMD-27557
 links:

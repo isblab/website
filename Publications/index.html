@@ -47,14 +47,14 @@ group: Publications
 	 <!--PDBs and EMDBs - optional-->
 	 {% if publication.pdb_structures %}
 		 {% for code in publication.pdb_structures %}
-		 <a href="{{code}}" title =  "PDB structure" target="_blank">PDB entry </a>
+		 <a href="{{code}}" title="PDB structure" target="_blank">PDB {{ code | split: '?' | last }} </a>&emsp;
 		 &emsp;
 		 {% endfor %}
 	 {% endif %}
 
 	 {% if publication.emdb_structures %}
 		 {% for code in publication.emdb_structures %}
-		 <a href="{{code}}" title =  "EMDB" target="_blank">EMDB entry </a>
+		 <a href="{{code}}" title="EMDB" target="_blank"> {{ code | split: '/' | last }} </a>&emsp;
 		  &emsp;
 		 {% endfor %}
 	 {% endif %}
