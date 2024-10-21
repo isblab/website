@@ -12,8 +12,8 @@ dataset: https://doi.org/10.5281/zenodo.6674232
 pdb_structures:
   - https://pdb-dev.wwpdb.org/entry.html?9A2A
   - https://pdb-dev.wwpdb.org/entry.html?9A2B
-  -https://pdb-dev.wwpdb.org/entry.html?9A2C
-emdb_structures : 
+  - https://pdb-dev.wwpdb.org/entry.html?9A2C
+emdb_structures: 
   - https://www.ebi.ac.uk/emdb/EMD-27557
 links:
   - name: Cover image on Protein Science!
