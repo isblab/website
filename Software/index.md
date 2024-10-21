@@ -49,25 +49,15 @@ Check out software developed by our group and other open-source freebies at [ISB
             <td style="text-align: center;">Pipeline for analyzing integrative models after MCMC sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision.</td>
             <td style="text-align: center;"><a href="https://github.com/salilab/imp-sampcon" class="link">GitHub</a></td>
         </tr>
-        <!-- Protein-protein docking-related software section -->
-        <tr class="heading-row">
-            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Protein-protein docking-related software</td>
-        </tr>
         <tr class="row-light">
-            <td style="text-align: center;">Scoring functions</td>
+            <td style="text-align: center;">scoring functions for protein-protein docking and other utilities for parsing PDBs</td>
             <td style="text-align: center;"><img src="/static/img/software/ppd.png" class="logo"></td>
-            <td style="text-align: center;">PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models of protein-protein complexes produced by docking programs.</td>
+            <td style="text-align: center;">PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models. Interface RMSD calculation, utilities for modifying PDBs, adding chain names, and running Modeller.</td>
             <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials" class="link">GitHub</a></td>
-        </tr>
-        <tr class="row-dark">
-            <td style="text-align: center;">Other utilities</td>
-            <td style="text-align: center;"><img src="/static/img/software/ppd.png" class="logo"></td>
-            <td style="text-align: center;">Contains scripts for calculating interface RMSD, and other utilities for modifying PDBs, adding chain names, running Modeller etc.</td>
-            <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts" class="link">GitHub</a></td>
         </tr>
         <!-- Database -->
         <tr class="heading-row">
-            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Database</td>
+            <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Intrinsically disordered regions (IDR)-related software</td>
         </tr>
         <tr class="row-light">
             <td style="text-align: center;">StrIDR</td>
