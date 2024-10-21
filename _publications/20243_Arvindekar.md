@@ -10,7 +10,7 @@ supplementary: "/static/img/pdfs/20243_Arvindekar_SI.pdf"
 website: https://github.com/isblab/wdr76_spin1_nucleosome
 dataset: https://zenodo.org/records/11044599
 pdb_structures:
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000382
+  - https://pdb-dev.wwpdb.org/entry.html?9A8I
 links:
   - name: Washburn Lab
     url: https://www.kumc.edu/mwashburn4.html

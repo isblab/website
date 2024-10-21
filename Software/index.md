@@ -6,8 +6,6 @@ group: Software
 <h2>ISB Lab Software and Resources</h2>
 <div class="container-fluid">
 
-<h3>Software</h3>
-
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
 
 <table>
