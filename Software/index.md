@@ -23,7 +23,7 @@ Check out software developed by our group and other open-source freebies at [ISB
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Integrative modeling software</td>
         </tr>
         <tr class="row-dark">
-            <td style="text-align: center;">EASAL</td>
+            <td style="text-align: center;">Wall-EASAL</td>
             <td style="text-align: center;"><img src="/static/img/software/easal.png" class="logo"></td>
             <td style="text-align: center;">Integrative docking with crosslinks.</td>
             <td style="text-align: center;">

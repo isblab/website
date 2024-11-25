@@ -1,6 +1,6 @@
 ---
 title: "A new discrete-geometry approach for integrative docking of proteins using chemical crosslinks"
-authors: "Y. Zhang, **M. Jindal**, **S. Viswanath**, M. Sitharam"
+authors: "Y. Zhang\\*, **M. Jindal\\***, **S. Viswanath\\#**, M. Sitharam\\#*"
 journal: biorxiv 
 pub_date: "2024-10-29"
 image: "/static/img/pubpics/easal.png"
@@ -13,5 +13,5 @@ links:
   - name: EASAL Software
     url: https://bitbucket.org/geoplexity/easal-dev/src/Crosslink 
   - name: Sitharam Lab
-    url: https://scholars.ufl.edu/sitharam
+    url: https://www.cise.ufl.edu/~sitharam/group.html
 ---
