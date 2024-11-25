@@ -5,9 +5,9 @@ journal: "eLife"
 pub_date: "2021-05-05"
 pdf: "/static/img/pdfs/2021_Brilot.pdf" 
 pdb_structures:
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000077
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000078
-  - https://pdb-dev.wwpdb.org/entry.html?PDBDEV_00000079
+  - https://pdb-dev.wwpdb.org/entry.html?9A15
+  - https://pdb-dev.wwpdb.org/entry.html?9A16
+  - https://pdb-dev.wwpdb.org/entry.html?9A17
 website: https://salilab.org/gtuscSpc110
 dataset: https://zenodo.org/record/4590125#.YoO9E_NBw-Q
 links:

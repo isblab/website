@@ -7,6 +7,8 @@ image: /static/img/pubpics/stridr.png
 doi: https://doi.org/10.1101/2024.08.22.609111
 pdf: https://www.biorxiv.org/content/10.1101/2024.08.22.609111v1
 supplementary: https://www.biorxiv.org/content/biorxiv/early/2024/08/26/2024.08.22.609111/DC1/embed/media-1.pdf?download=true
-website: https://github.com/isblab/stridr
-database: https://isblab.ncbs.res.in/stridr
+website: https://isblab.ncbs.res.in/stridr
+links:
+  - name: Github
+    url: https://github.com/isblab/stridr
 ---
