@@ -1,6 +1,6 @@
 ---
 title: "A new discrete-geometry approach for integrative docking of proteins using chemical crosslinks"
-authors: "Y. Zhang\\*, **M. Jindal\\***, **S. Viswanath\\#**, M. Sitharam\\#"
+authors: "Y. Zhang\\*, **M. Jindal\\***, **S. Viswanath<sup>#</sup>**, M. Sitharam<sup>#</sup>"
 journal: biorxiv 
 pub_date: "2024-10-29"
 image: "/static/img/pubpics/easal.png"
