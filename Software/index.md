@@ -28,7 +28,7 @@ Check out software developed by our group and other open-source freebies at [ISB
             <td style="text-align: center;">Integrative docking with crosslinks.</td>
             <td style="text-align: center;">
             <a href="https://github.com/isblab/Integrative_docking_benchmark" class="link">GitHub</a><br>
-            <a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="link">EASAL software</a>
+            <a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="link"> EASAL Software</a>
             </td>
         </tr>
         <tr class="row-light">
