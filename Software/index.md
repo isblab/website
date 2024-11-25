@@ -22,6 +22,15 @@ Check out software developed by our group and other open-source freebies at [ISB
         <tr class="heading-row">
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Integrative modeling software</td>
         </tr>
+        <tr class="row-dark">
+            <td style="text-align: center;">EASAL</td>
+            <td style="text-align: center;"><img src="/static/img/software/easal.png" class="logo"></td>
+            <td style="text-align: center;">Integrative docking with crosslinks.</td>
+            <td style="text-align: center;">
+            <a href="https://github.com/isblab/Integrative_docking_benchmark" class="link">GitHub</a><br>
+            <a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="link">EASAL software</a>
+            </td>
+        </tr>
         <tr class="row-light">
             <td style="text-align: center;">NestOR</td>
             <td style="text-align: center;"><img src="/static/img/software/nestor.png" class="logo"></td>

@@ -31,7 +31,7 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
 
    * PhD students usually come in via the <a href='https://www.ncbs.res.in/academic/admissions'>NCBS admissions</a> process. <br>
    * If you have a Physics/Engineering/CS background and are interested in doing Biology research, check out the new <a href='https://pol.ncbs.res.in'> TIFR-PoL Interdisciplinary PhD program</a>. <br>
-   * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to email directly. <br><br>
+   * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to apply for the <a href='https://www.ncbs.res.in/academic/midterm_admissions'> NCBS mid-term admissions </a> <br><br>
 
 ### Postdoc positions
 We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
@@ -41,4 +41,4 @@ We have one open position. To apply, please email your CV and a statement of int
 Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab. -->
 No open positions currently.
 <br><br> 
-**Summer interns**: Positions for 2024 are filled and we are unable to reply to individual emails.<br><br>
+**Interns**: Positions are currently filled and we are unable to reply to individual emails.<br><br>
