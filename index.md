@@ -27,14 +27,13 @@ One focus of our group is to develop rigorous methods and software for computati
 Another focus lies in characterizing the structures and functions of specific assemblies in close collaborations with (experimental) cell and structural biologists.
 </p>
 
-
 <br>
 
 <!-- ## Upcoming events -->
 ## News
 1. Shreyas was selected for a flash talk presentation at the EMBO workshop 2025. 
 2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the Annual Meeting 2025.
-
+<br>
 
 ## Join us!
 Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.

@@ -63,7 +63,7 @@ We noticed two recurrent modeling challenges across a range of studies. One was 
 We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373), a deep-learning method that predicts inter-protein contact maps and interface residues for an IDR and a partner protein, leveraging sequence embeddings from a protein language model. Several current methods, in contrast, provide partner-independent predictions, require the structure of either protein, and/or are limited by the MSA quality. Disobind performs better than AlphaFold-multimer and AlphaFold3. Combining the Disobind and AlphaFold-multimer predictions further improves the performance.
 </p>
 
-![Disobind](/static/img/researchpics/disobind.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"}
+![Disobind](/static/img/researchpics/disobind.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=15%; max-width=10%"}
 
 <p class="text-center">*A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences*</p>
 
