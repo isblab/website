@@ -19,8 +19,16 @@ Check out software developed by our group and other open-source freebies at [ISB
     </thead>
     <tbody>
         <!-- Integrative modeling software section -->
-        <tr class="heading-row">
+        <!-- <tr class="heading-row"> 
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Integrative modeling software</td>
+        </tr> -->
+        <tr class="row-light">
+            <td style="text-align: center;">Disobind</td>
+            <td style="text-align: center;"><img src="/static/img/software/disobind.png" class="logo"></td>
+            <td style="text-align: center;">A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences</td>
+            <td style="text-align: center;">
+            <a href="https://github.com/isblab/Disobind" class="link">GitHub</a><br>
+            </td>
         </tr>
         <tr class="row-dark">
             <td style="text-align: center;">Wall-EASAL</td>
@@ -65,9 +73,9 @@ Check out software developed by our group and other open-source freebies at [ISB
             <td style="text-align: center;"><a href="https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials" class="link">GitHub</a></td>
         </tr>
         <!-- Database -->
-        <tr class="heading-row">
+        <!-- <tr class="heading-row">
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Intrinsically disordered regions (IDR)-related software</td>
-        </tr>
+        </tr> -->
         <tr class="row-light">
             <td style="text-align: center;">StrIDR</td>
             <td style="text-align: center;"><img src="/static/img/software/stridr.png" class="logo"></td>

@@ -31,6 +31,9 @@ Another focus lies in characterizing the structures and functions of specific as
 <br>
 
 <!-- ## Upcoming events -->
+## News
+1. Shreyas was selected for a flash talk presentation at the EMBO workshop 2025. 
+2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the Annual Meeting 2025.
 
 
 ## Join us!
