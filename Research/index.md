@@ -69,6 +69,6 @@ We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373),
 
 #### We thank journals for highlighting our integrative modeling studies in their cover.
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 40%; max-width: 30%;" alt="NuRD cover">
-  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 10%; max-width: 10%;" alt="Desmosome cover">
+  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 60%; max-width: 50%;" alt="NuRD cover">
+  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 60%; max-width: 50%;" alt="Desmosome cover">
 </div>
