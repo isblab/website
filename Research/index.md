@@ -67,6 +67,6 @@ We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373),
 
 <p class="text-center">*A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences*</p>
 
-<!-- #### We thank journals for highlighting our integrative modeling studies in their cover.
+#### We thank journals for highlighting our integrative modeling studies in their cover.
 ![NuRD cover](/static/img/researchpics/nurdCover.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"}
-![Desmosome cover](/static/img/researchpics/desmosomeCover.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"} -->
+![Desmosome cover](/static/img/researchpics/desmosomeCover.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"}

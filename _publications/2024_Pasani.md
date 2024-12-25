@@ -22,4 +22,7 @@ links:
     url: https://www.modelarchive.org/doi/10.5452/ma-ic5zo
   - name: Movie
     url: "/static/img/pubpics/DesmosomeMovie.mp4"
+  - name: Cover image on Protein Science!
+    url: https://onlinelibrary.wiley.com/toc/1469896x/current
 ---
+
