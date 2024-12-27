@@ -33,7 +33,7 @@ Another focus lies in characterizing the structures and functions of specific as
 ## News
 1. Shreyas was selected for a flash talk presentation at the [EMBO workshop 2025](https://www.embl.org/about/info/course-and-conference-office/events/iss25-01/). 
 2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the [Annual Meeting 2025](https://www.biophysics.org/2025meeting/general-info).
-3.Our desmosome study was featured in the cover of Protein Science [Jan 2025 issue](https://onlinelibrary.wiley.com/toc/1469896x/current).
+3. Our desmosome study was featured in the cover of Protein Science [Jan 2025 issue](https://onlinelibrary.wiley.com/toc/1469896x/current).
 <br>
 
 ## Join us!
