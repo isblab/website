@@ -7,7 +7,7 @@ group: Research
 ## Integrative structures of protein assemblies
 
 <p class="text-justify">
-Structures of several large protein complexes and assemblies are difficult to obtain using a single experimental or computational method. Integrative structure determination fills this gap; various types of experimental data are combined along with principles from physics, statistical inference, and prior models to obtain the structure. The different sources of input information may span multiple scales; for example, X-ray data is at the atomic scale, while FRET distances are at the domain scale. However, these sources can be complementary; for example, EM maps may provide the shape of a complex while chemical crosslinks may provide the orientation of binding interfaces. We have used structural, biochemical, biophysical, cell biological, genetic, and in-silico bioinformatics information for deducing the structure of assemblies.
+Structures of several large protein complexes and assemblies are difficult to obtain using a single experimental or computational method. Integrative structure determination fills this gap; various types of experimental data are combined along with principles from physics, statistical inference, and prior models to obtain the structure. The different sources of input information may span multiple scales; for example, X-ray data is at the atomic scale, while FRET distances are at the domain scale. However, these sources can be complementary; for example, EM maps may provide the shape of a complex while chemical crosslinks may provide the orientation of binding interfaces. We have used structural, biochemical, biophysical, cell biological, genetic, and in-silico bioinformatics information for deducing the structure of assemblies. For more information, please read two recent reviews ([**1**](https://arxiv.org/abs/2407.00566),[**2**](https://arxiv.org/abs/2401.17894)) on integrative structural modeling from our group.
 </p>
 
 <p class="text-justify">
@@ -17,7 +17,7 @@ Of late, AI-based methods have enabled amazing advances in structural biology an
 ### Areas of integrative structure determination <br>
 
 <p class="text-justify">
-Opportunities exist in our group to work on several such assemblies. Example areas include assemblies involved in regulating gene expression, including chromatin remodelers, and mitochondrial assemblies. We collaborate closely with other cell and structural biologists to validate predictions from our models and generate data for the modeling. For more information, please read two recent reviews ([**1**](https://arxiv.org/abs/2407.00566),[**2**](https://arxiv.org/abs/2401.17894)) on integrative structural modeling from our group.
+Opportunities exist in our group to work on several such assemblies. Example areas include assemblies involved in regulating gene expression, including chromatin remodelers, and mitochondrial assemblies. We collaborate closely with other cell and structural biologists to validate predictions from our models and generate data for the modeling.
 
 </p>
 
@@ -50,6 +50,9 @@ We recently developed a method to optimize the multi-scale coarse-grained repres
 
 <p class="text-center">*Bayesian model selection-based optimal representation for the integrative models*</p>
 
+### Annotating precision for integrative models
+[**PrISM**](https://doi.org/10.1093/bioinformatics/btac400) is our recently developed method to identify high and low precision regions in an ensemble of integrative models of large macromolecular assemblies. It is now used in the pipeline for validating integrative models deposited in the [wwPDB (worldwide Protein Data Bank)](https://www.wwpdb.org/)! 
+
 ### Frontiers in integrative structural modeling
 <p class="text-justify">
 We noticed two recurrent modeling challenges across a range of studies. One was the need to develop methods for incorporating disordered regions in these assemblies and another was to better utilize information from cryo-electron tomography, a timely challenge as structural biology is moving towards in situ characterization. We are currently focusing our method development in these two areas.
@@ -67,8 +70,8 @@ We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373),
 
 <p class="text-center">*A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences*</p>
 
-#### We thank journals for highlighting our integrative modeling studies in their cover.
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 60%; max-width: 50%;" alt="NuRD cover">
-  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 60%; max-width: 50%;" alt="Desmosome cover">
+###### We thank following journals for highlighting our integrative modeling studies in their cover.
+<div style="display: flex; justify-content: space-between; gap: 10px; align-items: center;">
+  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 40%; max-width: 35%;" alt="NuRD cover">
+  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 40%; max-width: 35%;" alt="Desmosome cover">
 </div>
