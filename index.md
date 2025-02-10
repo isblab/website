@@ -31,9 +31,9 @@ Another focus lies in characterizing the structures and functions of specific as
 
 <!-- ## Upcoming events -->
 ## News
-1. Shreyas was selected for a flash talk presentation at the [EMBO workshop 2025](https://www.embl.org/about/info/course-and-conference-office/events/iss25-01/). 
-2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the [Annual Meeting 2025](https://www.biophysics.org/2025meeting/general-info).
-3. Our desmosome study was featured in the cover of Protein Science [Jan 2025 issue](https://onlinelibrary.wiley.com/toc/1469896x/current).
+1. Shreyas will be presenting a flash talk on his new method for unsupervised particle identification in cryo-electron tomograms at the [EMBO in situ structural biology workshop 2025](https://www.embl.org/about/info/course-and-conference-office/events/iss25-01/). He also received a travel award from EMBO for the meeting!
+2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the [Annual Meeting 2025](https://www.biophysics.org/2025meeting/general-info)!
+3. Our desmosome study was featured in the cover of the Protein Science [Jan 2025 issue](https://onlinelibrary.wiley.com/toc/1469896x/current)!
 <br>
 
 ## Join us!
