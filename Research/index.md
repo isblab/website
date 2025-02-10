@@ -66,12 +66,12 @@ We noticed two recurrent modeling challenges across a range of studies. One was 
 We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373), a deep-learning method that predicts inter-protein contact maps and interface residues for an IDR and a partner protein, leveraging sequence embeddings from a protein language model. Several current methods, in contrast, provide partner-independent predictions, require the structure of either protein, and/or are limited by the MSA quality. Disobind performs better than AlphaFold-multimer and AlphaFold3. Combining the Disobind and AlphaFold-multimer predictions further improves the performance.
 </p>
 
-![Disobind](/static/img/researchpics/disobind.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=2%; max-width=2%"}
+![Disobind](/static/img/researchpics/disobind.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=1%; max-width=1%"}
 
 <p class="text-center">*A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences*</p>
 
 ###### We thank the following journals for highlighting our integrative modeling studies in their cover.
-<div style="display: flex; justify-content: space-between; gap: 1000px; align-items: center;">
-  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 25%;" alt="NuRD cover">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 25%; margin-right: 100px;" alt="NuRD cover">
   <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 30%; max-width: 25%;" alt="Desmosome cover">
 </div>
