@@ -58,7 +58,7 @@ We recently developed a method to optimize the multi-scale coarse-grained repres
 We noticed two recurrent modeling challenges across a range of studies. One was the need to develop methods for incorporating disordered regions in these assemblies and another was to better utilize information from cryo-electron tomography, a timely challenge as structural biology is moving towards in situ characterization. We are currently focusing our method development in these two areas.
 </p>
 
-![Schematic](/static/img/researchpics/qrb.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=40%; max-width=30%"}
+![Schematic](/static/img/researchpics/qrb.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=2%; max-width=2%"}
 <p class="text-center">*Schematic describing integrative structure determination for the nucleosome remodeling and deacetylase complex (orange box) and the desmosomal outer dense plaque (green box) combining data from multiple sources. Low-resolution cryo-EM and cryo-ET maps (green) and intrinsically disordered regions (yellow) in both complexes are highlighted as emerging areas for method development.*</p>
 
 #### Disobind
@@ -72,6 +72,6 @@ We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373),
 
 ###### We thank the following journals for highlighting our integrative modeling studies in their cover.
 <div style="display: flex; justify-content: space-between; gap: 1000px; align-items: center;">
-  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 40%; max-width: 35%;" alt="NuRD cover">
-  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 40%; max-width: 35%;" alt="Desmosome cover">
+  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 25%;" alt="NuRD cover">
+  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 30%; max-width: 25%;" alt="Desmosome cover">
 </div>
