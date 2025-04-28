@@ -34,7 +34,8 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
    * Students with national fellowships (CSIR-NET, GATE, and others) are welcome to apply for the <a href='https://www.ncbs.res.in/academic/midterm_admissions'> NCBS mid-term admissions </a>. <br><br>
 
 ### Postdoc positions
-We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br>
+<!-- We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br> -->
+No open positions currently.
 
 ### Masters thesis, JRF, Project Assistant, Intern positions
 <!-- We have one <a href='https://www.ncbs.res.in/jobportal/email/22024/85496'> open position</a> for integrative modeling of the *Mycobacterium tuberculosis* interactome.
