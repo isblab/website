@@ -6,7 +6,7 @@ pub_date: "2025-04-29"
 image: "/static/img/pubpics/easal.png"
 doi: https://doi.org/10.1021/acs.jcim.4c02412
 pdf: https://pubs.acs.org/articlesonrequest/AOR-7FYJ3TREMN8FRUI2NWDY
-supplementary: "/static/img/pdfs/2025_Jindal_SI.pdf"
+supplementary: https://pubs.acs.org/doi/suppl/10.1021/acs.jcim.4c02412/suppl_file/ci4c02412_si_001.pdf
 website: https://github.com/isblab/Integrative_docking_benchmark
 dataset: https://doi.org/10.5281/zenodo.13959114
 links:
