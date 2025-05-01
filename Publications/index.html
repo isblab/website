@@ -6,81 +6,88 @@ group: Publications
 <h2>Publications</h2>
 <div class="container-fluid">
 
-{% assign pubs = site.publications | sort: "pub_date" %}
+	{% assign pubs = site.publications | sort: "pub_date" %}
 
-{% for publication in pubs reversed %}
-<hr>
-<div class="row" style="padding-top: 60px; margin-top: -60px;">
-	<div>
-		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
-		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-		{% if publication.journal %}
+	{% for publication in pubs reversed %}
+	<hr>
+	<div class="row" style="padding-top: 60px; margin-top: -60px;">
+		<div>
+			<h5>{{ publication.title | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
+			<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+			{% if publication.journal %}
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
-		{% endif %}
+			{% endif %}
+		</div>
 	</div>
-</div>
 
-		{% if publication.image %}
-		 <div class="row" style="padding-top: 20px; margin-top: -20px">
-			<div class="col-sm-4 md-6 lg-6">
-			<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="width=300px; max-height: 300px;">
-    	</div>
-			<div class="col-sm-6 md-6 lg-6">
-		{% else  %}
-		 <div class="row" style="padding-top: 0px; margin-top: 0px">
-			<div class="col-sm-10 md-12 lg-12">
-  	{% endif %}
+	{% if publication.image %}
+	<div class="row" style="padding-top: 20px; margin-top: -20px">
+		<div class="col-sm-4 md-6 lg-6">
+			<img class="img-fluid" src="{{publication.image}}" alt="Key Figure" style="width: 300px; max-height: 300px;">
+		</div>
+		<div class="col-sm-6 md-6 lg-6">
+			{% else %}
+			<div class="row" style="padding-top: 0px; margin-top: 0px">
+				<div class="col-sm-10 md-12 lg-12">
+					{% endif %}
 
-		<!--DOI -->
-		{% if publication.doi %}
-		 <a href="{{publication.doi}}" title =  "DOI for {{publication.title}} (opens in new tab)" target="_blank">DOI </a>&emsp;
-		 {% endif %}
+					<!--DOI -->
+					{% if publication.doi %}
+					<a href="{{publication.doi}}" title="DOI for {{publication.title}} (opens in new tab)"
+						target="_blank">DOI </a>&emsp;
+					{% endif %}
 
-	<!--PDF -->
-	 <a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>&emsp;
+					<!--PDF -->
+					{% if publication.pdf %}
+					<a href="{{publication.pdf}}" title="PDF for {{publication.title}} (opens in new tab)"
+						target="_blank">PDF </a>&emsp;
+					{% endif %}
 
-	<!--Supplementary -->
-	{% if publication.supplementary %}
-	 	 <a href="{{publication.supplementary}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank">Supplementary </a>&emsp;
-                 {% endif %} 
-	 <!--PDBs and EMDBs - optional-->
-	 {% if publication.pdb_structures %}
-		 {% for code in publication.pdb_structures %}
-		 <a href="{{code}}" title="PDB structure" target="_blank">PDB {{ code | split: '?' | last }} </a>&emsp;
-		 &emsp;
-		 {% endfor %}
-	 {% endif %}
+					<!--Supplementary -->
+					{% if publication.supplementary %}
+					<a href="{{publication.supplementary}}" title="PDF for {{publication.title}} (opens in new tab)"
+						target="_blank">Supplementary </a>&emsp;
+					{% endif %}
+					<!--PDBs and EMDBs - optional-->
+					{% if publication.pdb_structures %}
+					{% for code in publication.pdb_structures %}
+					<a href="{{code}}" title="PDB structure" target="_blank">PDB {{ code | split: '?' | last }}
+					</a>&emsp;
+					&emsp;
+					{% endfor %}
+					{% endif %}
 
-	 {% if publication.emdb_structures %}
-		 {% for code in publication.emdb_structures %}
-		 <a href="{{code}}" title="EMDB" target="_blank"> {{ code | split: '/' | last }} </a>&emsp;
-		  &emsp;
-		 {% endfor %}
-	 {% endif %}
+					{% if publication.emdb_structures %}
+					{% for code in publication.emdb_structures %}
+					<a href="{{code}}" title="EMDB" target="_blank"> {{ code | split: '/' | last }} </a>&emsp;
+					&emsp;
+					{% endfor %}
+					{% endif %}
 
-	 <!--Github - optional-->
-	 {% if publication.website%}
-   <a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)" target="_blank">Website </a>
-	 &emsp;
-	 {% endif %}
+					<!--Github - optional-->
+					{% if publication.website%}
+					<a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)"
+						target="_blank">Website </a>
+					&emsp;
+					{% endif %}
 
-		<!--dataset records - optional-->
-		{% if publication.dataset %}
-			<a href="{{publication.dataset}}" title =  "Zenodo " target="_blank">Dataset</a>
-			&emsp;
-		{% endif %}
+					<!--dataset records - optional-->
+					{% if publication.dataset %}
+					<a href="{{publication.dataset}}" title="Zenodo " target="_blank">Dataset</a>
+					&emsp;
+					{% endif %}
 
-		<!--additional links - optional-->
-		{% if publication.links %}
-			{% for link in publication.links %}
-				 <a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}} </a>
-				 &emsp;
+					<!--additional links - optional-->
+					{% if publication.links %}
+					{% for link in publication.links %}
+					<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}} </a>
+					&emsp;
+					{% endfor %}
+					{% endif %}
+
+				</div>
+			</div>
+			<br>
 			{% endfor %}
-		{% endif %}
-
-</div>
-</div>
-<br>
-{% endfor %}
-</div>
+		</div>
