@@ -122,13 +122,13 @@ body {
 }
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); */
 
 body {
-  font-family: Inter;
-  line-height: 1.8; /* Sets line height to 1.8 times the font size */
+  font-family: Montserrat;
+  line-height: 2.3; /* Sets line height to 1.8 times the font size */
 }
-
 
 .carousel {
   position: relative;
@@ -198,37 +198,33 @@ body {
   padding: 10px;
   cursor: pointer;
   font-size: 18px;
-  transition: background 0.2s;
+  /* transition: background 0.2s; */
 }
 
 .control-btn:hover {
   background: rgba(0, 0, 0, 0.5);
 }
 
-/* Cursor */
-.cursor{
-    position: relative;
-    width: 24em;
-    margin: 50px auto;
-    border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 30px;
-    font-weight: 600;
+/* Typewriter */
+.typed {
+    line-height: 35px;
+    padding: 5%;
+    width: 100%;
+    font-size: 150%;
+    font-weight: 600  ;
     text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
-    transform: translateY(-50%);    
+    font-family: "Monospace";
+    vertical-align: text-bottom;
 }
-/* Animation */
-.typewriter-animation {
-  animation: 
-    typewriter 3s steps(50) 1s 1 normal both, 
-    blinkingCursor 0.5s steps(50) 10 normal;
+
+.typed::after{
+    content: "|";
+    font-size: 150%;
+    line-height: 30px;
+    animation: blink .75s step-end infinite;
 }
-@keyframes typewriter {
-  from { width: 0; }
-  to { width: 79%; }
-}
-@keyframes blinkingCursor{
-  from { border-right-color: rgba(0,0,0,.75); }
-  to { border-right-color: transparent; }
+
+@keyframes blink {
+    from, to { color: transparent }
+    50% { color: rgba(0, 0, 0, 0.2) }
 }

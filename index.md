@@ -5,7 +5,7 @@ group: Home
 ---
 
 <div style="text-align: center;">
-  <p class="cursor typewriter-animation" >Welcome to the Integrative Structural Biology Lab!</p>
+  <div id = "typed" class = "typed" style="text-align: center"></div>
 </div>
 
 ![ISB lab logo](static/img/logos/isblabLogo.png){:style="display: block; margin-left: auto; margin-right: auto; max-height=20%; max-width=20%"}
