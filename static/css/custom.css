@@ -213,7 +213,7 @@ body {
     font-size: 150%;
     font-weight: 600  ;
     text-align: center;
-    font-family: "Monospace";
+    /* font-family: "Monospace"; */
     vertical-align: text-bottom;
 }
 
