@@ -4,6 +4,7 @@ layout: default
 group: Software
 ---
 <h2>ISB Lab Software and Resources</h2>
+<hr>
 <div class="container-fluid">
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
@@ -124,10 +125,10 @@ Check out software developed by our group and other open-source freebies at [ISB
     }
 </style>
 
-<br><br>
+<br>
 
-<h3>Courses and Workshops</h3><br>
-
+<h3>Courses and Workshops</h3>
+<hr>
 <h4>Integrative Modeling Tutorials and Workshops</h4>
 <ul>
     <li>
@@ -144,7 +145,7 @@ Check out software developed by our group and other open-source freebies at [ISB
         <a href="https://integrativemodeling.org/talks.html" class="link">IMP Workshops</a>
     </li>
 </ul>
-
+<hr>
 <h4>Graduate Courses at NCBS</h4>
 <ul>
     <li>
@@ -154,4 +155,4 @@ Check out software developed by our group and other open-source freebies at [ISB
         Crash course in <a href="https://github.com/isblab/pycrash" class="link">Python</a> taught during the Statistical Inference course.
     </li>
 </ul>
-
+<hr>

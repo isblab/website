@@ -20,28 +20,27 @@ Broadly, we seek to understand how proteins are organized in cells. We do this b
 
 <p class="text-justify">
 One focus of our group is to develop rigorous methods and software for computational modeling of protein organization. We’re inspired by algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory. We aim to produce algorithms and software that we and others can use.
-
 </p>
 
 <p class="text-justify">
 Another focus lies in characterizing the structures and functions of specific assemblies in close collaborations with (experimental) cell and structural biologists.
 </p>
 
-<br>
 
 <!-- ## Upcoming events -->
 ## News
+<hr>
 1. Shreyas will be presenting a flash talk on his new method for unsupervised particle identification in cryo-electron tomograms at the [EMBO in situ structural biology workshop 2025](https://www.embl.org/about/info/course-and-conference-office/events/iss25-01/). He also received a travel award from EMBO for the meeting!
 2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the [Annual Meeting 2025](https://www.biophysics.org/2025meeting/general-info)!
 3. Our desmosome study was featured in the cover of the Protein Science [Jan 2025 issue](https://onlinelibrary.wiley.com/toc/1469896x/current)!
-<br>
+
 
 ## Join us!
+<hr>
 Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.
-<br>
 
 ## Contact
-
+<hr>
 We are at Lab 15, ELC 1st floor in NCBS.
 
 **Address**: National Center for Biological Sciences (NCBS),<br>

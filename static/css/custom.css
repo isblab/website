@@ -48,6 +48,15 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+h2 {
+    margin-top: 30px; /* Space above H1 */
+    margin-bottom: 14px; /* Space below H1 */
+}
+
+h3 {
+    margin-top: 22px; /* Space above H1 */
+    margin-bottom: 14px; /* Space below H1 */
+}
 
 /*
 body {
@@ -136,7 +145,7 @@ body {
   width: 100%;
   height: 500px;
   border-radius: 5px;
-  /* box-shadow: 0 4px 12px rgba(0,0,0,0.2); */
+  /* box-shadow: 0 0px 4px rgba(0,0,0,0.1); */
 }
 
 .slides {
@@ -157,6 +166,7 @@ body {
   height: 100%;
   object-fit: contain;
   display: block;
+  padding: clamp(2px, 1vw, 10px);
 }
 
 /* Tooltip using ::after */
