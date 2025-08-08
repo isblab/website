@@ -8,5 +8,5 @@ doi: https://doi.org/10.1101/2024.12.19.629373
 pdf: https://www.biorxiv.org/content/10.1101/2024.12.19.629373v5.full.pdf
 supplementary: https://www.biorxiv.org/content/10.1101/2024.12.19.629373v2.supplementary-material
 website: https://github.com/isblab/disobind
-dataset: https://zenodo.org/records/14504763
+dataset: https://doi.org/10.5281/zenodo.14504762
 ---
