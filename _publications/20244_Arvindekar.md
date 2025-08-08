@@ -11,4 +11,6 @@ website: https://github.com/isblab/notch_ligand
 links:
   - name: Lipi's Lab
     url: https://www.csbiolab.com/
+  - name: Feature in Current science, Dec 2024
+    url: https://www.currentscience.ac.in/Volumes/128/03/0234.pdf
 ---
