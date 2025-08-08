@@ -48,8 +48,6 @@ We are at Lab 15, ELC 1st floor in NCBS.
 Tata Institute for Fundamental Research (TIFR),<br>
 GKVK, Bellary Road, Bangalore, India 560065 <br>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242.90293385914285!2d77.58031629545104!3d13.070836455355508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1816d24e2687%3A0x66138aa6960e06ad!2sNational%20Centre%20for%20Biological%20Sciences%20(NCBS)!5e0!3m2!1sen!2sin!4v1754581770223!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 **Phone**: +91-080-6717-6152 <br><br>
 **Email**: shruthiv AT ncbs DOT res DOT in <br><br>
 **Twitter**: @shruthiLab <br><br>
