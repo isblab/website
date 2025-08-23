@@ -15,7 +15,7 @@ group: Home
 We are an interdisciplinary computational structural biology group in [NCBS-TIFR](https://www.ncbs.res.in/), Bangalore.
 
 <p class="text-justify">
-Broadly, we seek to understand how proteins are organized in cells. We do this by characterizing structures of proteins at multiple scales, ranging from binary complexes to macromolecular assemblies and nanoscale architectures. These structures are key to understanding the mechanistic details of cellular processes in normal and disease states. They provide answers to questions such as: how do these molecular machines function? How did they evolve? How are they assembled and regulated in the cell? What do they tell us about basic architectural design principles in biology?
+Broadly, we seek to understand how proteins are organized in cells. We do this by characterizing structures of proteins at multiple scales, ranging from binary complexes to macromolecular assemblies and nanoscale architectures. These structures are key to understanding the mechanistic details of cellular processes in normal and disease states. They provide answers to questions such as: How do these molecular machines function? How did they evolve? How are they assembled and regulated in the cell? What do they tell us about basic architectural design principles in biology?
 </p>
 
 <p class="text-justify">
