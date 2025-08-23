@@ -23,6 +23,14 @@ Check out software developed by our group and other open-source freebies at [ISB
         <!-- <tr class="heading-row"> 
             <td colspan="4" style="text-align: center; font-weight: bold; background-color: #cbc3e3; padding: 15px;">Integrative modeling software</td>
         </tr> -->
+        <tr class="row-dark">
+            <td style="text-align: center;">PickET</td>
+            <td style="text-align: center;"><img src="/static/img/software/picket.png" class="logo"></td>
+            <td style="text-align: center;">An unsupervised method for localizing macromolecules in cryo-electron tomograms</td>
+            <td style="text-align: center;">
+            <a href="https://github.com/isblab/pickET" class="link">GitHub</a><br>
+            </td>
+        </tr>
         <tr class="row-light">
             <td style="text-align: center;">Disobind</td>
             <td style="text-align: center;"><img src="/static/img/software/disobind.png" class="logo"></td>
