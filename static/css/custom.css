@@ -246,8 +246,9 @@ body {
 }
 
 .col-container {
-  display: contents;
+  display: flex;
   align-items: center;
+  align-content: center;
 }
 
 .col-container:after {
@@ -259,13 +260,13 @@ body {
 .column-one {
   float: left;
   width: 55%;
-  padding: 25px;
+  padding: 2%;
 }
 
 .column-two {
   float: left;
   width: 45%;
-  padding: 25px;
+  padding: 2%;
 }
 
 .button {
@@ -293,20 +294,33 @@ img {
   object-fit: scale-down;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 767px) {
+  .col-container {
+    display: contents;
+    align-items: center;
+    align-content: center;
+  }
   .column-one {
+    float: left;
     display: block;
-    width: 100vw;
+    width: 100%;
     text-align: center;
   }
   .column-two {
+    float: left;
     display: block;
-    width: 100vw;
+    width: 100%;
     text-align: center;
+    align-content: center;
   }
   img {
     object-fit: scale-down;
     width: 90vw;
     margin: auto;
+    align-content: center;
+  }
+  hr {
+    margin: auto;
+    align-self: center;
   }
 }

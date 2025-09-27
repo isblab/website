@@ -24,7 +24,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%">
+<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -39,7 +39,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%">
+<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -47,7 +47,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>Wall-EASAL</h3>
 <p>A benchmark of hetero-dimeric complexes, with component atomic structures and chemical crosslinks used to compare integrative modeling methods: <a href="https:/bitbucket.org/geoplexity/easal-dev/src/Crosslink">Wall-EASAL</a> and <a href="https://integrativemodeling.org/">IMP</a>.</p>
 <a href="https://github.com/isblab/Integrative_docking_benchmark" class="button">GitHub</a>
-<a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="button">EASAL Software</a>
+<a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="button">Wall-EASAL</a>
 </div>
 <div class="column-two">
 <img src="/static/img/software/easal.png" width="450" height="471" >
@@ -55,7 +55,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%">
+<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -70,7 +70,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%">
+<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -86,7 +86,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%">
+<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -102,7 +102,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%">
+<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -117,7 +117,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<!-- <hr width="100%"> -->
+<!-- <hr width="100%" margin="auto"> -->
 
 <!-- <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
