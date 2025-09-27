@@ -246,7 +246,7 @@ body {
 }
 
 .col-container {
-  display: flex;
+  display: contents;
   align-items: center;
 }
 
@@ -290,17 +290,23 @@ img {
   height: auto;
   max-width: 100%;
   align-content: center;
-  object-fit: contain;
+  object-fit: scale-down;
 }
 
 @media screen and (max-width: 800px) {
-  .column-one,
+  .column-one {
+    display: block;
+    width: 100vw;
+    text-align: center;
+  }
   .column-two {
-    width: 100%;
+    display: block;
+    width: 100vw;
     text-align: center;
   }
   img {
+    object-fit: scale-down;
+    width: 90vw;
     margin: auto;
-    object-fit: contain;
   }
 }
