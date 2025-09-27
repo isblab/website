@@ -238,3 +238,77 @@ body {
     from, to { color: transparent }
     50% { color: rgba(0, 0, 0, 0.0) }
 }
+
+.content-container {
+  padding: 15px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.col-container {
+  display: flex;
+  align-items: center;
+}
+
+.col-container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column-one {
+  float: left;
+  width: 50%;
+  padding: 25px;
+}
+
+.column-two {
+  float: left;
+  width: 50%;
+  padding: 25px;
+}
+
+.l-font {
+  font-size: 45px;
+  color: #03071e;
+}
+
+.xl-font {
+  font-size: 30px;
+  color: #03071e;
+}
+
+.button {
+  border: 2px solid #03071e;
+  background-color: transparent;
+  color: white;
+  padding: 8px 14px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #03071e;
+  font-weight: bold;
+  transition: .2s;
+}
+
+.button:hover {
+  background-color: #03071e;
+  color: white;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  align-content: center;
+}
+
+@media screen and (max-width: 800px) {
+  .column-one,
+  .column-two {
+    width: 100%;
+    text-align: center;
+  }
+  img {
+    margin: auto;
+  }
+}
