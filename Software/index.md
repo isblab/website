@@ -19,7 +19,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <a href="https://github.com/isblab/pickET" class="button">GitHub</a>
 </div>
 <div class="column-two">
-<img src="/static/img/software/picket.png" width="500" height="500">
+<img src="/static/img/software/picket.png">
 </div>
 </div>
 </div>
@@ -29,7 +29,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-two">
-<img src="/static/img/software/disobind.png" alt="CSS" width="450" height="471">
+<img src="/static/img/software/disobind.png">
 </div>
 <div class="column-one">
 <h3>Disobind</h3>
@@ -60,7 +60,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-two">
-<img src="/static/img/software/nestor.png" alt="CSS" width="450" height="471">
+<img src="/static/img/software/nestor.png">
 </div>
 <div class="column-one">
 <h3>NestOR</h3>
@@ -91,7 +91,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-two">
-<img src="/static/img/software/stop.png" alt="CSS" width="450" height="471">
+<img src="/static/img/software/stop.png">
 </div>
 <div class="column-one">
 <h3>StOP</h3>
@@ -122,7 +122,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <!-- <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-two">
-<img src="/static/img/software/ppd.png" alt="CSS" width="450" height="471">
+<img src="/static/img/software/ppd.png">
 </div>
 <div class="column-one">
 <h3>Scoring functions for protein-protein docking and other utilities for parsing PDBs</h3>

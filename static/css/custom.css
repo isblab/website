@@ -290,6 +290,7 @@ img {
   height: auto;
   max-width: 100%;
   align-content: center;
+  object-fit: contain;
 }
 
 @media screen and (max-width: 800px) {
