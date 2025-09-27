@@ -4,12 +4,14 @@ layout: default
 group: Software
 ---
 <h2>ISB Lab Software and Resources</h2>
-<hr>
-
-<div class="container-fluid">
+<hr width="100%" margin="auto">
 
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
 
+<br>
+<h4><b>Cryo-electron tomography</b></h4>
+<hr width="100%" margin="auto" style="border-top: 2px solid grey;">
+<div class="container-fluid">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -24,7 +26,12 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 </div>
 
-<hr width="100%" margin="auto">
+</div>
+
+<br>
+<h4><b>IDRs in complexes</b></h4>
+<hr width="100%" margin="auto" style="border-top: 2px solid grey;">
+<div class="container-fluid">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -33,13 +40,18 @@ Check out software developed by our group and other open-source freebies at [ISB
 </div>
 <div class="column-one">
 <h3>Disobind</h3>
-<p>A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences</p>
+<p>A deep-learning method to predict inter-protein contact maps and interface residues for an intrinsically disordered region (IDR) and a partner protein from their sequences</p>
 <a href="https://github.com/isblab/Disobind" class="button">GitHub</a>
 </div>
 </div>
 </div>
 
-<hr width="100%" margin="auto">
+</div>
+
+<br>
+<h4><b>Integrative structural modeling</b></h4>
+<hr width="100%" margin="auto" style="border-top: 2px solid grey;">
+<div class="container-fluid">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
@@ -138,7 +150,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 <h2>Courses and Workshops</h2>
 <hr>
-<h3>Integrative Modeling Tutorials and Workshops</h3>
+<h4><b>Integrative Modeling Tutorials and Workshops</b></h4>
 <ul>
     <li>
         IMP Tutorial at <a href="https://meetings.embo.org/event/24-cryo-em" class="link">EMBOCEM3DIP</a> IISc Bangalore 2024. 
@@ -155,7 +167,8 @@ Check out software developed by our group and other open-source freebies at [ISB
     </li>
 </ul>
 <hr>
-<h3>Graduate Courses at NCBS</h3>
+<br>
+<h4><b>Graduate Courses at NCBS</b></h4>
 <ul>
     <li>
         <a href="https://moodle.ncbs.res.in/enrol/index.php?id=165" class="link">Statistical Inference in Biology</a> (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.

@@ -287,7 +287,7 @@ body {
 }
 
 img {
-  display: block;
+  display: inline-block;
   height: auto;
   max-width: 100%;
   align-content: center;
@@ -314,13 +314,18 @@ img {
     align-content: center;
   }
   img {
+    display: block;
     object-fit: scale-down;
     width: 90vw;
     margin: auto;
     align-content: center;
+    align-self: center;
   }
   hr {
     margin: auto;
     align-self: center;
+  }
+  h4 {
+    text-align: center;
   }
 }

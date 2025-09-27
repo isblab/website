@@ -1,5 +1,5 @@
 ---
-title: Research  
+title: Research
 layout: default
 group: Research
 ---
@@ -66,7 +66,7 @@ We noticed two recurrent modeling challenges across a range of studies. One was 
 ![Schematic](/static/img/researchpics/qrb.png){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 85%; text-align: center;"}
 <p class="text-center">*Schematic describing integrative structure determination for the nucleosome remodeling and deacetylase complex (orange box) and the desmosomal outer dense plaque (green box) combining data from multiple sources. Low-resolution cryo-EM and cryo-ET maps (green) and intrinsically disordered regions (yellow) in both complexes are highlighted as emerging areas for method development.*</p>
 
-#### Disobind
+### Disobind
 <hr>
 <p class="text-justify">
 We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373), a deep-learning method that <strong>predicts inter-protein contact maps and interface residues for an IDR and a partner protein</strong>, leveraging sequence embeddings from a protein language model. Several current methods, in contrast, provide partner-independent predictions, require the structure of either protein, and/or are limited by the MSA quality. Disobind performs better than AlphaFold-multimer and AlphaFold3. Combining the Disobind and AlphaFold-multimer predictions further improves the performance.
@@ -79,7 +79,13 @@ We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373),
 
 ###### We thank the following journals for highlighting our integrative modeling studies in their cover.
 
-<div style="text-align: center; " >
-  <img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 25%; margin-right: 100px;" alt="NuRD cover">
-  <img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 30%; max-width: 25%;" alt="Desmosome cover">
+<!-- <div style="align-items: center; align-content: center;" > -->
+
+<div style="display: flex; justify-content: center; align-items: center; align-content: center;">
+<p style="text-align: center;">
+<img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 25%;" alt="NuRD cover">
+<img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 30%; max-width: 25%;" alt="Desmosome cover">
+</p>
 </div>
+
+<!-- </div> -->
