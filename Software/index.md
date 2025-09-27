@@ -14,7 +14,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-one">
-<h2>PickET</h2>
+<h3>PickET</h3>
 <p>An unsupervised method for localizing macromolecules in cryo-electron tomograms.</p>
 <a href="https://github.com/isblab/pickET" class="button">GitHub</a>
 </div>
@@ -32,7 +32,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <img src="/static/img/software/disobind.png" alt="CSS" width="450" height="471">
 </div>
 <div class="column-one">
-<h2>Disobind</h2>
+<h3>Disobind</h3>
 <p>A deep-learning method to predict inter-protein contact maps and interface residues for an IDR and a partner protein from their sequences</p>
 <a href="https://github.com/isblab/Disobind" class="button">GitHub</a>
 </div>
@@ -44,7 +44,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-one">
-<h2>Wall-EASAL</h2>
+<h3>Wall-EASAL</h3>
 <p>A benchmark of hetero-dimeric complexes, with component atomic structures and chemical crosslinks used to compare integrative modeling methods: <a href="https:/bitbucket.org/geoplexity/easal-dev/src/Crosslink">Wall-EASAL</a> and <a href="https://integrativemodeling.org/">IMP</a>.</p>
 <a href="https://github.com/isblab/Integrative_docking_benchmark" class="button">GitHub</a>
 <a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="button">EASAL Software</a>
@@ -63,7 +63,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <img src="/static/img/software/nestor.png" alt="CSS" width="450" height="471">
 </div>
 <div class="column-one">
-<h2>NestOR</h2>
+<h3>NestOR</h3>
 <p>A Python module to perform Nested sampling-based optimization of representation for integrative structural modeling.</p>
 <a href="https://github.com/isblab/nestor" class="button">GitHub</a>
 </div>
@@ -75,7 +75,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-one">
-<h2>PrISM</h2>
+<h3>PrISM</h3>
 <p>A package for visualizing regions of high and low precision in ensembles of integrative models.</p>
 <p><b>Now used by <a href="https://www.rcsb.org/news/67c4575365ecc77724b625ed">wwPDB</a> to validate integrative models!</b></p>
 <a href="https://github.com/isblab/prism" class="button">GitHub</a>
@@ -94,7 +94,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <img src="/static/img/software/stop.png" alt="CSS" width="450" height="471">
 </div>
 <div class="column-one">
-<h2>StOP</h2>
+<h3>StOP</h3>
 <p>A gradient-free, parallel, global, stochastic, multi-objective optimization algorithm primarily written to optimize the Markov Chain Monte Carlo (MCMC) sampling parameters for the Integrative Modeling Platform (<a href="https://integrativemodeling.org/">IMP</a>).</p>
 <a href="https://github.com/isblab/stop" class="button">GitHub</a>
 <a href="https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md" class="button">Tutorial</a>
@@ -107,7 +107,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
 <div class="column-one">
-<h2>Sampcon</h2>
+<h3>Sampcon</h3>
 <p>Pipeline for analyzing integrative models after Markov Chain Monte Carlo (MCMC) sampling. Includes tests for assessing sampling exhaustiveness, clustering models, and calculating precision.</p>
 <a href="https://github.com/salilab/imp-sampcon" class="button">GitHub</a>
 </div>
@@ -125,7 +125,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <img src="/static/img/software/ppd.png" alt="CSS" width="450" height="471">
 </div>
 <div class="column-one">
-<h2>Scoring functions for protein-protein docking and other utilities for parsing PDBs</h2>
+<h3>Scoring functions for protein-protein docking and other utilities for parsing PDBs</h3>
 <p>PISA (atomic), PIE (residue), and C3 (combination) scoring functions for ranking models. Interface RMSD calculation, utilities for modifying PDBs, adding chain names, and running Modeller.</p>
 <button onclick="window.location.href='https://github.com/isblab/dockingScripts/tree/main/capriScripts/potentials'" class="button">GitHub</button>
 </div>
@@ -136,9 +136,9 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 <br>
 
-<h3>Courses and Workshops</h3>
+<h2>Courses and Workshops</h2>
 <hr>
-<h4>Integrative Modeling Tutorials and Workshops</h4>
+<h3>Integrative Modeling Tutorials and Workshops</h3>
 <ul>
     <li>
         IMP Tutorial at <a href="https://meetings.embo.org/event/24-cryo-em" class="link">EMBOCEM3DIP</a> IISc Bangalore 2024. 
@@ -155,7 +155,7 @@ Check out software developed by our group and other open-source freebies at [ISB
     </li>
 </ul>
 <hr>
-<h4>Graduate Courses at NCBS</h4>
+<h3>Graduate Courses at NCBS</h3>
 <ul>
     <li>
         <a href="https://moodle.ncbs.res.in/enrol/index.php?id=165" class="link">Statistical Inference in Biology</a> (internal link) co-taught with Dr Shaon Chakrabarti at NCBS.
