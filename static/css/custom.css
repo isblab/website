@@ -316,6 +316,7 @@ img {
   img {
     display: block;
     object-fit: scale-down;
+    padding: 10px;
     width: 90vw;
     margin: auto;
     align-content: center;

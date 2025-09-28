@@ -83,8 +83,8 @@ We recently developed [**Disobind**](https://doi.org/10.1101/2024.12.19.629373),
 
 <div style="display: flex; justify-content: center; align-items: center; align-content: center;">
 <p style="text-align: center;">
-<img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 25%;" alt="NuRD cover">
-<img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 30%; max-width: 25%;" alt="Desmosome cover">
+<img src="/static/img/researchpics/nurdCover.jpg" style="max-height: 30%; max-width: 45%;" alt="NuRD cover">
+<img src="/static/img/researchpics/desmosomeCover.jpg" style="max-height: 30%; max-width: 45%;" alt="Desmosome cover">
 </p>
 </div>
 
