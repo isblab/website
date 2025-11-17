@@ -3,6 +3,6 @@ title: "Analyzing milestoning networks for molecular kinetics: Definitions, algo
 authors: "**S. Viswanath**, S.M. Kreuzer, A.E. Cardenas, R. Elber"
 journal: The Journal of Chemical Physics
 pub_date: "2013-11-05"
-pdf: "/static/img/pdfs/2013_Viswanath.pdf" 
-website: https://github.com/clsb/miles/tree/v0.0.2/miles
+pdf: "/static/img/pdfs/2013_Viswanath.pdf"
+github: https://github.com/clsb/miles/tree/v0.0.2/miles
 ---

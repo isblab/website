@@ -9,8 +9,6 @@ pdb_structures:
   - https://pdb-dev.wwpdb.org/entry.html?9A16
   - https://pdb-dev.wwpdb.org/entry.html?9A17
 website: https://salilab.org/gtuscSpc110
+github: https://github.com/integrativemodeling/gtuscSpc110
 dataset: https://zenodo.org/record/4590125#.YoO9E_NBw-Q
-links:
-  - name: Github
-    url: https://github.com/integrativemodeling/gtuscSpc110
 ---

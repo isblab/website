@@ -3,6 +3,6 @@ title: "Prediction of homoprotein and heteroprotein complexes by protein docking
 authors: "M.F. Lensink, S. Velankar, ..., **S. Viswanath**, R. Elber, ..., (several authors), S.J. Wodak"
 journal: "Proteins"
 pub_date: "2016-04-28"
-image: 
-pdf: "/static/img/pdfs/2016_Lensink.pdf" 
+image:
+pdf: "/static/img/pdfs/2016_Lensink.pdf"
 ---

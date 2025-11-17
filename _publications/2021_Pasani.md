@@ -5,9 +5,9 @@ journal: "Life (Spl. Issue on Computational Modeling of Kinetics in Biological S
 pub_date: "2021-11-05"
 image: /static/img/pubpics/stop.png
 doi: https://doi.org/10.3390/life11111183
-pdf: "/static/img/pdfs/2021_Pasani.pdf" 
-supplementary: "/static/img/pdfs/2021_Pasani_SI.pdf" 
-website: https://github.com/isblab/stop
+pdf: "/static/img/pdfs/2021_Pasani.pdf"
+supplementary: "/static/img/pdfs/2021_Pasani_SI.pdf"
+github: https://github.com/isblab/stop
 dataset: https://zenodo.org/record/5521444#.YoO6RPNBw-Q
 links:
   - name: Tutorial (Basic)

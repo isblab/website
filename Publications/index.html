@@ -65,10 +65,17 @@ group: Publications
 					{% endfor %}
 					{% endif %}
 
-					<!--Github - optional-->
+					<!--Website - optional-->
 					{% if publication.website%}
 					<a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)"
 						target="_blank">Website </a>
+					&emsp;
+					{% endif %}
+
+					<!--Github - optional-->
+					{% if publication.github%}
+					<a href="{{publication.github}}" alt="Github: {{publication.github}} (opens in new tab)"
+						target="_blank">Github </a>
 					&emsp;
 					{% endif %}
 

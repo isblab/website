@@ -6,8 +6,8 @@ pub_date: "2024-08-08"
 image: /static/img/pubpics/wdr.png
 doi: https://doi.org/10.1073/pnas.2318601121
 pdf: "/static/img/pdfs/20243_Arvindekar.pdf"
-supplementary: "/static/img/pdfs/20243_Arvindekar_SI.pdf" 
-website: https://github.com/isblab/wdr76_spin1_nucleosome
+supplementary: "/static/img/pdfs/20243_Arvindekar_SI.pdf"
+github: https://github.com/isblab/wdr76_spin1_nucleosome
 dataset: https://zenodo.org/records/11044599
 pdb_structures:
   - https://pdb-dev.wwpdb.org/entry.html?9A8I
