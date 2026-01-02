@@ -45,6 +45,27 @@ group: Team
 Former members: What they did and where they are now.<br><br>
 
 
+<h5> PhD students </h5>
+
+{% for member in site.members reversed %}
+{% unless member.labposition contains "Phd" %}
+{% continue %}
+{% endunless %}
+
+<hr>
+
+<div id="{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+        <strong>{{member.name}}</strong> <br>
+        {{member.currposition | markdownify | remove: '<p>' | remove: '</p>' }} <br>
+
+    </div>
+    <div class="col-sm-8">
+        <p class="text-justify">{{member.description | markdownify}}</p>
+    </div>
+</div>
+{% endfor %}
+<hr>
 
 <h5> Trainees (6 months +) </h5>
 
