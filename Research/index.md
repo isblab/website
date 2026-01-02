@@ -24,7 +24,7 @@ One track involves determining integrative structures of specific biological sys
 Of late, AI-based methods have enabled amazing advances in structural biology and it is an exciting, fast-paced field! For us, simulation and analysis of large macromolecular assemblies leads us to interesting opportunities for developing new modeling methods. <strong> We develop rigorous methods and software to make integrative structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. </strong> We use algorithms from computational statistics, statistical physics, machine learning and optimization, computer vision, and graph theory.   -->
 </p>
 
-![modeled systems](/static/img/researchpics/research_pic_apps.png){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 90%; text-align: center;"}
+![modeled systems](/static/img/researchpics/research_pic_apps.jpeg){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 90%; text-align: center;"}
 <p class="text-center">***Integrative structures** characterized recently are shown, along with the information that was incorporated (<span style="background-color: #e7f9bdff">green</span> background), and the insights derived (<span style="background-color: #fee8b9ff">orange</span> background).*</p>
 
 <!-- ### Areas of integrative structure determination -->
@@ -35,17 +35,17 @@ Of late, AI-based methods have enabled amazing advances in structural biology an
 A second research track involves developing broadly applicable, cutting-edge modeling methods, using algorithms from statistical inference, machine learning, computer vision, and related fields.  We develop rigorous methods and software to make integrative structure determination more accurate and efficient by improving upon approaches that are ad hoc, semi-automated, based on trial-and-error, and/or require manual expert intervention. All our methods are available as open-source software. (See <a href="https://isblab.ncbs.res.in/Software/">Software & Resources</a>).
 </p>
 
-![isblab methods](/static/img/researchpics/research_pic_methods.png){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 75%; text-align: center;"}
+![isblab methods](/static/img/researchpics/research_pic_methods.jpeg){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 75%; text-align: center;"}
 <p class="text-center">***Integrative modeling methods** and software developed by our group are shown. The text color indicates the corresponding stage of integrative modeling (center).*</p>
 
 <p class="text-justify">
 Usually, these method development directions emerge from recurrent themes identified across multiple modeling studies. Recent examples include **Disobind**, a deep learning method for identifying binding sites of intrinsically disordered regions (IDRs), and **PickET**, an unsupervised method for localizing macromolecules in cryo-ET data.
 </p>
 
-![disobind](/static/img/researchpics/research_pic_disobind.png){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 93%; text-align: center;"}
+![disobind](/static/img/researchpics/research_pic_disobind.jpeg){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 93%; text-align: center;"}
 <p class="text-center">***Disobind**: a deep learning method for predicting interface residues and inter-protein contact maps for an IDR and its partner, given their sequences. Method architecture (top) and representative examples (bottom) are shown.*</p>
 <hr>
-![picket](/static/img/researchpics/research_pic_picket.png){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 90%; text-align: center;"}
+![picket](/static/img/researchpics/research_pic_picket.jpeg){:style="display: block; margin-left: auto; margin-right: auto; max-height: 50%; max-width: 90%; text-align: center;"}
 <p class="text-center">***PickET**: a workflow for unsupervised localization in tomograms (left) along with representative segmentations (right) for two real tomograms (CZI-DS-10001, gallium FIB milled S. pombe lamella: top row, CZI-DS-10301, plasma FIB milled C. reinhardtii lamella: bottom row). See <a href="https://doi.org/10.1101/2025.08.20.671250">PickET </a> for more details.*</p>
 
 <!-- ### Chromatin remodelers
