@@ -2,7 +2,7 @@
 title: "A deep learning method for predicting interactions for intrinsically disordered regions of proteins"
 authors: " **K. Majila, V. Ullanat, S. Viswanath** "
 journal: "Cell Systems (in press)"
-pub_date: "2025-11-17"
+pub_date: "2026-01-02"
 image: /static/img/pubpics/disobind.png
 doi: https://doi.org/10.1101/2024.12.19.629373
 pdf: https://www.biorxiv.org/content/10.1101/2024.12.19.629373v6.full.pdf
