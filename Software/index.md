@@ -9,26 +9,6 @@ group: Software
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
 
 <br>
-<h4><b>Cryo-electron tomography</b></h4>
-<hr width="100%" margin="auto" style="border-top: 2px solid grey;">
-<div class="container-fluid">
-
-<div class="content-container" style="background-color: #ffffff;">
-<div class="col-container">
-<div class="column-one">
-<h3>PickET</h3>
-<p>An unsupervised method for localizing macromolecules in cryo-electron tomograms.</p>
-<a href="https://github.com/isblab/pickET" class="button">GitHub</a>
-</div>
-<div class="column-two">
-<img src="/static/img/software/picket.png">
-</div>
-</div>
-</div>
-
-</div>
-
-<br>
 <h4><b>IDRs in complexes</b></h4>
 <hr width="100%" margin="auto" style="border-top: 2px solid grey;">
 <div class="container-fluid">
@@ -42,6 +22,26 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>Disobind</h3>
 <p>A deep-learning method to predict inter-protein contact maps and interface residues for an intrinsically disordered region (IDR) and a partner protein from their sequences</p>
 <a href="https://github.com/isblab/Disobind" class="button">GitHub</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<br>
+<h4><b>Cryo-electron tomography</b></h4>
+<hr width="100%" margin="auto" style="border-top: 2px solid grey;">
+<div class="container-fluid">
+
+<div class="content-container" style="background-color: #ffffff;">
+<div class="col-container">
+<div class="column-one">
+<h3>PickET</h3>
+<p>An unsupervised method for localizing macromolecules in cryo-electron tomograms.</p>
+<a href="https://github.com/isblab/pickET" class="button">GitHub</a>
+</div>
+<div class="column-two">
+<img src="/static/img/software/picket.png">
 </div>
 </div>
 </div>
@@ -109,7 +109,8 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>StOP</h3>
 <p>A gradient-free, parallel, global, stochastic, multi-objective optimization algorithm primarily written to optimize the Markov Chain Monte Carlo (MCMC) sampling parameters for the Integrative Modeling Platform (<a href="https://integrativemodeling.org/">IMP</a>).</p>
 <a href="https://github.com/isblab/stop" class="button">GitHub</a>
-<a href="https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md" class="button">Tutorial</a>
+<a href="https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md" class="button">Tutorial 1</a>
+<a href="https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md" class="button">Tutorial 2</a>
 </div>
 </div>
 </div>
