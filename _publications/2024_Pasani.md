@@ -3,7 +3,7 @@ title: "The molecular architecture of the desmosomal outer dense plaque by integ
 authors: " **S. Pasani, K. Menon, S. Viswanath**"
 journal: "Protein Science"
 pub_date: "2024-11-16"
-image: /static/img/pubpics/desmosome.png
+image: /static/img/pubpics/desmosome_lpd2.jpg
 doi: https://doi.org/10.1002/pro.5217
 pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pro.5217
 supplementary: "/static/img/pdfs/2024_Pasani_SI.pdf"
