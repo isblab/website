@@ -30,14 +30,16 @@ Another focus lies in characterizing the structures and functions of specific as
 <!-- ## Upcoming events -->
 ## News
 <hr>
-1. Shreyas will be presenting a flash talk on his new method for unsupervised particle identification in cryo-electron tomograms at the [EMBO in situ structural biology workshop 2025](https://www.embl.org/about/info/course-and-conference-office/events/iss25-01/). He also received a travel award from EMBO for the meeting!
-2. Kartik and Shruthi obtained travel awards from the Biophysical Society to attend the [Annual Meeting 2025](https://www.biophysics.org/2025meeting/general-info)!
-3. Our desmosome study was featured in the cover of the Protein Science [Jan 2025 issue](https://onlinelibrary.wiley.com/toc/1469896x/current)!
+- Join us for the 1-day symposium on AI in Biology at NCBS on Jan 16th, 2026 hosted as part of the Winter Dialogue on Responsible AI for Synergistic Excellence (RAISE) event, in cooperation with NIMS University, Rajasthan, and Koita Centre for Digital Health, Ashoka University. The symposium will include panel discussions with leading experts on AI in genomics and structural biology, AI in biological imaging, AI in ecology and biodiversity, and the Interplay of Neuroscience and AI.
+- We will be participating in the Nebius workshop for integrative modeling method developers and users at UCSF, Feb 20, 2026.
+- Shruthi will be giving a talk at the Biophysical Society Meeting, San Francisco, Feb 2026, on PickET: unsupervised learning for particle localization in cryo-electron tomograms.
 
 
 ## Join us!
 <hr>
-Interested in collaborating with us or joining us? Please get in touch. Also check out the [Opportunities](/Opportunities) page.
+- New graduate programs at NCBS: Check out the [Physics of Life](https://pol.ncbs.res.in/) program for students from Phy/Chem/Math/CS backgrounds.
+- New AI in biology postdoctoral program at NCBS!
+- Check out the [Opportunities](/Opportunities) page for more details.
 
 ## Contact
 <hr>

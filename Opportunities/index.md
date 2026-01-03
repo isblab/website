@@ -36,7 +36,7 @@ If you are interested in doing a PhD in the lab, please get in touch. There are 
 ### Postdoc positions
 <hr>
 <!-- We have one open position. To apply, please email your CV and a statement of interest on the projects you’d like to work on.<br><br> -->
-No open positions currently.
+We have a new postdoctoral position open for those looking for opportunities to develop and apply AI in structural biology. Those with previous machine learning experience will be preferred. To apply, please contact Shruthi with a cover letter and CV and names of 2-3 references.
 <br><br>
 
 ### Masters thesis, JRF, Project Assistant, Intern positions
