@@ -8,4 +8,7 @@ doi: https://doi.org/10.1016/j.jmb.2025.169598
 pdf: https://www.sciencedirect.com/science/article/pii/S0022283625006643/pdfft?md5=4fca2290942103b3c855e7be8e0a70a9&pid=1-s2.0-S0022283625006643-main.pdf
 website: https://validate.pdb-ihm.org/
 github: https://github.com/salilab/IHMValidation
+links:
+  - name: Sali Lab
+    url: https://salilab.org/
 ---
