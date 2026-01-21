@@ -9,4 +9,9 @@ pdf: https://www.sciencedirect.com/science/article/pii/S2405471225003199/pdfft?m
 supplementary: https://www.sciencedirect.com/science/article/pii/S2405471225003199#appsec2
 github: https://github.com/isblab/disobind
 dataset: https://doi.org/10.5281/zenodo.14504762
+links:
+  - name: Research Explained
+    url: https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do
+  - name: Press coverage
+    url: https://www.thehindu.com/news/cities/bangalore/researchers-develop-ai-tool-to-predict-how-shapeshifting-proteins-connect-inside-cells/article70509429.ece
 ---
