@@ -30,7 +30,7 @@ Another focus lies in characterizing the structures and functions of specific as
 <!-- ## Upcoming events -->
 ## News
 <hr>
-- Join us for the 1-day symposium on AI in Biology at NCBS on Jan 16th, 2026 hosted as part of the Winter Dialogue on Responsible AI for Synergistic Excellence (RAISE) event, in cooperation with NIMS University, Rajasthan, and Koita Centre for Digital Health, Ashoka University. The symposium will include panel discussions with leading experts on AI in genomics and structural biology, AI in biological imaging, AI in ecology and biodiversity, and the Interplay of Neuroscience and AI.
+- [Disobind](https://doi.org/10.1016/j.cels.2025.101486), our method for predicting IDR binding sites, is out! See here for the [Research Explained article](https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do).
 - We will be participating in the Nebius workshop for integrative modeling method developers and users at UCSF, Feb 20, 2026.
 - Shruthi will be giving a talk at the Biophysical Society Meeting, San Francisco, Feb 2026, on PickET: unsupervised learning for particle localization in cryo-electron tomograms.
 
