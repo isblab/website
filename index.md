@@ -38,7 +38,7 @@ Another focus lies in characterizing the structures and functions of specific as
 ## Join us!
 <hr>
 - New graduate programs at NCBS: Check out the [Physics of Life](https://pol.ncbs.res.in/) program for students from Phy/Chem/Math/CS backgrounds.
-- New AI in biology postdoctoral program at NCBS!
+- New [AI in biology postdoctoral fellowship program](https://www.ncbs.res.in/academic/postdoc-calibre-ai-in-biology-postdoctoral-fellowship-program) at NCBS!
 - Check out the [Opportunities](/Opportunities) page for more details.
 
 ## Contact
