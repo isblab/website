@@ -57,7 +57,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <div class="col-container">
 <div class="column-one">
 <h3>Wall-EASAL</h3>
-<p>A benchmark of hetero-dimeric complexes, with component atomic structures and chemical crosslinks used to compare integrative modeling methods: <a href="https:/bitbucket.org/geoplexity/easal-dev/src/Crosslink">Wall-EASAL</a> and <a href="https://integrativemodeling.org/">IMP</a>.</p>
+<p>A benchmark of hetero-dimeric complexes, with component atomic structures and chemical crosslinks used to compare integrative modeling methods: <a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink">Wall-EASAL</a> and <a href="https://integrativemodeling.org/">IMP</a>.</p>
 <a href="https://github.com/isblab/Integrative_docking_benchmark" class="button">GitHub</a>
 <a href="https://bitbucket.org/geoplexity/easal-dev/src/Crosslink" class="button">Wall-EASAL</a>
 </div>
