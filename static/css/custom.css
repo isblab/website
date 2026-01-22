@@ -279,6 +279,7 @@ body {
   color: #03071e;
   font-weight: bold;
   transition: .2s;
+  white-space: nowrap;
 }
 
 .button:hover {
