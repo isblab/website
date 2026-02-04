@@ -30,9 +30,9 @@ Another focus lies in characterizing the structures and functions of specific as
 <!-- ## Upcoming events -->
 ## News
 <hr>
-- [Disobind](https://doi.org/10.1016/j.cels.2025.101486), our method for predicting IDR binding sites, is out! See here for the [Research Explained article](https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do).
+- [Disobind](https://doi.org/10.1016/j.cels.2025.101486), our method for predicting IDR binding sites, is out! Check out the [Cell Systems preview](https://doi.org/10.1016/j.cels.2025.101508) and the [NCBS Research Explained article](https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do).
 - We will be participating in the Nebius workshop for integrative modeling method developers and users at UCSF, Feb 20, 2026.
-- Shruthi will be giving a talk at the Biophysical Society Meeting, San Francisco, Feb 2026, on PickET: unsupervised learning for particle localization in cryo-electron tomograms.
+- Shruthi will be giving a talk at the Biophysical Society Meeting, San Francisco, Feb 2026, on [PickET: unsupervised learning for particle localization in cryo-electron tomograms](https://doi.org/10.1101/2025.08.20.671250).
 
 
 ## Join us!
