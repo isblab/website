@@ -1,5 +1,5 @@
 ---
-title: "A deep learning method for predicting interactions for intrinsically disordered regions of proteins"
+title: "Disobind: A sequence-based, partner-dependent contact map and interface residue predictor for intrinsically disordered regions"
 authors: " **K. Majila, V. Ullanat, S. Viswanath** "
 journal: "Cell Systems"
 pub_date: "2026-01-13"
@@ -12,10 +12,10 @@ dataset: https://doi.org/10.5281/zenodo.14504762
 links:
   - name: NCBS Research Explained
     url: https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do
+  - name: Cell Systems preview
+    url: https://doi.org/10.1016/j.cels.2025.101508
   - name: Press
     url: https://www.thehindu.com/news/cities/bangalore/researchers-develop-ai-tool-to-predict-how-shapeshifting-proteins-connect-inside-cells/article70509429.ece
   - name: coverage
     url: https://www.newindianexpress.com/states/karnataka/2026/Jan/15/ncbs-researchers-find-shape-shifting-protein-inside-cells
-  - name: Cell Systems preview
-    url: https://doi.org/10.1016/j.cels.2025.101508
 ---
