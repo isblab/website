@@ -88,8 +88,12 @@ group: Publications
 					<!--additional links - optional-->
 					{% if publication.links %}
 					{% for link in publication.links %}
-					<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}} </a>
-					&emsp;
+						{% if link.additional %}
+						<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank" onclick="window.open('{{link.additional}}');window.open('{{link.url}}');">{{link.name}} </a>
+						{% else %}
+						<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}} </a>
+						{% endif %}
+						&emsp;
 					{% endfor %}
 					{% endif %}
 
