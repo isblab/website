@@ -43,6 +43,7 @@ We have a new postdoctoral position open for those looking for opportunities to 
 <hr>
 <!-- We have one <a href='https://www.ncbs.res.in/jobportal/email/22024/85496'> open position</a> for integrative modeling of the *Mycobacterium tuberculosis* interactome.
 Only candidates with prior programming experience are considered.  Must be willing to commit a minimum of eight months full-time in the lab. -->
-No open positions currently.
+<!-- No open positions currently.
 <br><br> 
-**Interns**: Positions are currently filled and we are unable to reply to individual emails.<br><br>
+**Interns**: Positions are currently filled and we are unable to reply to individual emails.<br><br> -->
+Email Shruthi with your CV, Github account, and a short statement expressing why you want to train with us.
