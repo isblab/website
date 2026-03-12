@@ -334,5 +334,5 @@ img {
 
 .links
 {
-  display: inline;   /* Ensures they stay on the same line */
+  display: inline-block;
 }
