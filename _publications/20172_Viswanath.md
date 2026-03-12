@@ -7,6 +7,6 @@ pdf: "/static/img/pdfs/20172_Viswanath.pdf"
 github: https://github.com/integrativemodeling/spb
 dataset: https://zenodo.org/record/1219204
 links:
-  - name: ScienceDaily
-    url: https://www.sciencedaily.com/releases/2018/02/180218135907.htm
+  - - name: ScienceDaily
+      url: https://www.sciencedaily.com/releases/2018/02/180218135907.htm
 ---

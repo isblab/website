@@ -35,66 +35,67 @@ group: Publications
 					<!--DOI -->
 					{% if publication.doi %}
 					<a href="{{publication.doi}}" title="DOI for {{publication.title}} (opens in new tab)"
-						target="_blank">DOI </a>&emsp;
+						target="_blank">DOI </a>
+						&emsp;
 					{% endif %}
 
 					<!--PDF -->
 					{% if publication.pdf %}
 					<a href="{{publication.pdf}}" title="PDF for {{publication.title}} (opens in new tab)"
-						target="_blank">PDF </a>&emsp;
+						target="_blank">PDF </a>
+						&emsp;
 					{% endif %}
 
 					<!--Supplementary -->
 					{% if publication.supplementary %}
 					<a href="{{publication.supplementary}}" title="PDF for {{publication.title}} (opens in new tab)"
-						target="_blank">Supplementary </a>&emsp;
+						target="_blank">Supplementary </a>
+						&emsp;
 					{% endif %}
+
 					<!--PDBs and EMDBs - optional-->
 					{% if publication.pdb_structures %}
-					{% for code in publication.pdb_structures %}
-					<a href="{{code}}" title="PDB structure" target="_blank">PDB {{ code | split: '?' | last }}
-					</a>&emsp;
-					&emsp;
-					{% endfor %}
+						{% for code in publication.pdb_structures %}
+						<a href="{{code}}" title="PDB structure" target="_blank">PDB {{ code | split: '?' | last }}  </a>
+						{% endfor %}
+						&emsp;
 					{% endif %}
 
 					{% if publication.emdb_structures %}
-					{% for code in publication.emdb_structures %}
-					<a href="{{code}}" title="EMDB" target="_blank"> {{ code | split: '/' | last }} </a>&emsp;
-					&emsp;
-					{% endfor %}
+						{% for code in publication.emdb_structures %}
+						<a href="{{code}}" title="EMDB" target="_blank"> {{ code | split: '/' | last }}  </a>
+						{% endfor %}
+						&emsp;
 					{% endif %}
 
 					<!--Website - optional-->
 					{% if publication.website%}
-					<a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)"
-						target="_blank">Website </a>
+					<a href="{{publication.website}}" alt="Website: {{publication.website}} (opens in new tab)" target="_blank">Website </a>
 					&emsp;
 					{% endif %}
 
 					<!--Github - optional-->
 					{% if publication.github%}
-					<a href="{{publication.github}}" alt="Github: {{publication.github}} (opens in new tab)"
-						target="_blank">Github </a>
+					<a href="{{publication.github}}" alt="Github: {{publication.github}} (opens in new tab)" target="_blank">Github </a>
 					&emsp;
 					{% endif %}
 
 					<!--dataset records - optional-->
 					{% if publication.dataset %}
-					<a href="{{publication.dataset}}" title="Zenodo " target="_blank">Dataset</a>
+					<a href="{{publication.dataset}}" title="Zenodo " target="_blank">Dataset </a>
 					&emsp;
 					{% endif %}
 
 					<!--additional links - optional-->
 					{% if publication.links %}
-					{% for link in publication.links %}
-						{% if link.additional %}
-						<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank" onclick="window.open('{{link.additional}}');window.open('{{link.url}}');">{{link.name}} </a>
-						{% else %}
-						<a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}} </a>
-						{% endif %}
-						&emsp;
-					{% endfor %}
+						{% for hyperlinks in publication.links %}
+							<div class="links">
+							{% for hyperlink in hyperlinks %}
+								<a href="{{hyperlink.url}}" alt="{{hyperlink.name}} (opens in new tab)" target="_blank">{{hyperlink.name}} </a>
+							{% endfor %}
+							</div>
+							&emsp;
+						{% endfor %}
 					{% endif %}
 
 				</div>

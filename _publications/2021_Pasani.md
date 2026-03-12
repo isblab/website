@@ -10,8 +10,8 @@ supplementary: "/static/img/pdfs/2021_Pasani_SI.pdf"
 github: https://github.com/isblab/stop
 dataset: https://zenodo.org/record/5521444#.YoO6RPNBw-Q
 links:
-  - name: Tutorial (Basic)
-    url: https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md
-  - name: Tutorial (Rex)
-    url: https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md
+  - - name: Tutorial (Basic)
+      url: https://github.com/isblab/stop/blob/main/docs/tutorial_basic.md
+  - - name: Tutorial (Rex)
+      url: https://github.com/isblab/stop/blob/main/docs/tutorial_replica.md
 ---

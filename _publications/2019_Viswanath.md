@@ -7,11 +7,11 @@ pdf: "/static/img/pdfs/2019_Viswanath.pdf"
 github: https://github.com/salilab/optimal_representation
 dataset: https://github.com/salilab/optimal_representation
 links:
-  - name: Wiki
-    url: https://github.com/salilab/optrep/wiki
-  - name: F1000prime
-    url: https://facultyopinions.com/article/734699510?bd=1
-  - name: Module
-    url: https://github.com/salilab/optrep
+  - - name: Wiki
+      url: https://github.com/salilab/optrep/wiki
+  - - name: F1000prime
+      url: https://facultyopinions.com/article/734699510?bd=1
+  - - name: Module
+      url: https://github.com/salilab/optrep
 
 ---

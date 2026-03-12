@@ -12,6 +12,6 @@ dataset: https://zenodo.org/records/11044599
 pdb_structures:
   - https://pdb-dev.wwpdb.org/entry.html?9A8I
 links:
-  - name: Washburn Lab
-    url: https://www.kumc.edu/mwashburn4.html
+  - - name: Washburn Lab
+      url: https://www.kumc.edu/mwashburn4.html
 ---

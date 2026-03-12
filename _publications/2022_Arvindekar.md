@@ -16,12 +16,12 @@ pdb_structures:
 emdb_structures:
   - https://www.ebi.ac.uk/emdb/EMD-27557
 links:
-  - name: Cover image on Protein Science!
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4444
-  - name: NCBS Blurb
-    url: https://twitter.com/NCBS_Bangalore/status/1575419699617153024?s=20&t=_1QiTq9OPfbPaxheR70FOw
-  - name: Mackay Lab
-    url: https://mackaymatthewslab.org/
-  - name: Landsberg Lab
-    url: https://mlandsber7.wixsite.com/mmd-lab
+  - - name: Cover image on Protein Science!
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4444
+  - - name: NCBS Blurb
+      url: https://twitter.com/NCBS_Bangalore/status/1575419699617153024?s=20&t=_1QiTq9OPfbPaxheR70FOw
+  - - name: Mackay Lab
+      url: https://mackaymatthewslab.org/
+  - - name: Landsberg Lab
+      url: https://mlandsber7.wixsite.com/mmd-lab
 ---

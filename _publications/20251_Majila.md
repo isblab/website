@@ -9,6 +9,6 @@ pdf: https://www.sciencedirect.com/science/article/pii/S0022283625006643/pdfft?m
 website: https://validate.pdb-ihm.org/
 github: https://github.com/salilab/IHMValidation
 links:
-  - name: Sali Lab
-    url: https://salilab.org/
+  - - name: Sali Lab
+      url: https://salilab.org/
 ---

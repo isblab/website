@@ -6,6 +6,6 @@ pub_date: "2017-10-02"
 pdf: "/static/img/pdfs/2017_Viswanath.pdf"
 github: https://github.com/salilab/imp-sampcon
 links:
-  - name: Benchmark
-    url: https://salilab.org/sampcon
+  - - name: Benchmark
+      url: https://salilab.org/sampcon
 ---

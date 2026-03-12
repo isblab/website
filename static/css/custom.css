@@ -331,3 +331,8 @@ img {
     text-align: center;
   }
 }
+
+.links
+{
+  display: inline;   /* Ensures they stay on the same line */
+}

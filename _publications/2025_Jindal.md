@@ -10,8 +10,8 @@ supplementary: https://pubs.acs.org/doi/suppl/10.1021/acs.jcim.4c02412/suppl_fil
 github: https://github.com/isblab/Integrative_docking_benchmark
 dataset: https://doi.org/10.5281/zenodo.13959114
 links:
-  - name: EASAL Software
-    url: https://bitbucket.org/geoplexity/easal-dev/src/Crosslink
-  - name: Sitharam Lab
-    url: https://www.cise.ufl.edu/~sitharam/group.html
+  - - name: EASAL Software
+      url: https://bitbucket.org/geoplexity/easal-dev/src/Crosslink
+  - - name: Sitharam Lab
+      url: https://www.cise.ufl.edu/~sitharam/group.html
 ---

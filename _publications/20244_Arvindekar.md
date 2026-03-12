@@ -9,8 +9,8 @@ pdf: "/static/img/pdfs/20244_Arvindekar.pdf"
 supplementary: "/static/img/pdfs/20244_Arvindekar_SI.pdf"
 github: https://github.com/isblab/notch_ligand
 links:
-  - name: Lipi's Lab
-    url: https://www.csbiolab.com/
-  - name: Feature in Current science, Feb 2025
-    url: https://www.currentscience.ac.in/Volumes/128/03/0234.pdf
+  - - name: Lipi's Lab
+      url: https://www.csbiolab.com/
+  - - name: Feature in Current science, Feb 2025
+      url: https://www.currentscience.ac.in/Volumes/128/03/0234.pdf
 ---
