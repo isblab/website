@@ -1,6 +1,6 @@
 ---
 title: "Cell-autonomous Wnt activity promotes transient re-programming and cell cycle re-entry of coronary artery endothelial cells"
-authors: " Bhavnesh Bishnoi, Alfia Nirguni Saini, Vinay Rao\\*, **Omkar Golatkar\\***, Ravindra Kailasrao Zirmire, **Shruthi Viswanath**, Perundurai Subramaniam Dhandapany, Soumyashree Das<sup>#</sup>"
+authors: " Bhavnesh Bishnoi, Alfia Nirguni Saini, Vinay Rao\\*, **Omkar Golatkar\\***, Ravindra Kailasrao Zirmire, **Shruthi Viswanath**, Perundurai Subramaniam Dhandapany, Soumyashree Das"
 journal: "bioRxiv"
 pub_date: "2026-02-23"
 image: /static/img/pubpics/wnt_signaling.png
