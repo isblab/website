@@ -34,22 +34,19 @@ group: Publications
 
 					<!--DOI -->
 					{% if publication.doi %}
-					<a href="{{publication.doi}}" title="DOI for {{publication.title}} (opens in new tab)"
-						target="_blank">DOI </a>
+					<a href="{{publication.doi}}" title="DOI for {{publication.title}} (opens in new tab)" target="_blank">DOI </a>
 						&emsp;
 					{% endif %}
 
 					<!--PDF -->
 					{% if publication.pdf %}
-					<a href="{{publication.pdf}}" title="PDF for {{publication.title}} (opens in new tab)"
-						target="_blank">PDF </a>
+					<a href="{{publication.pdf}}" title="PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF </a>
 						&emsp;
 					{% endif %}
 
 					<!--Supplementary -->
 					{% if publication.supplementary %}
-					<a href="{{publication.supplementary}}" title="PDF for {{publication.title}} (opens in new tab)"
-						target="_blank">Supplementary </a>
+					<a href="{{publication.supplementary}}" title="PDF for {{publication.title}} (opens in new tab)" target="_blank">Supplementary </a>
 						&emsp;
 					{% endif %}
 
@@ -57,6 +54,7 @@ group: Publications
 					{% if publication.pdb_structures %}
 						{% for code in publication.pdb_structures %}
 						<a href="{{code}}" title="PDB structure" target="_blank">PDB {{ code | split: '?' | last }}  </a>
+						&emsp;
 						{% endfor %}
 						&emsp;
 					{% endif %}
@@ -64,6 +62,7 @@ group: Publications
 					{% if publication.emdb_structures %}
 						{% for code in publication.emdb_structures %}
 						<a href="{{code}}" title="EMDB" target="_blank"> {{ code | split: '/' | last }}  </a>
+						&emsp;
 						{% endfor %}
 						&emsp;
 					{% endif %}
