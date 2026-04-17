@@ -9,19 +9,41 @@ group: Software
 Check out software developed by our group and other open-source freebies at [ISB Lab GitHub](https://github.com/isblab). <br>
 
 <br>
+<h4><b>AlphaFold-related</b></h4>
+<hr width="100%" margin="auto" style="border-top: 2px solid grey;">
+<div class="container-fluid">
+
+
+<div class="content-container" style="background-color: #ffffff;">
+<div class="col-container">
+<div class="column-two">
+<img src="/static/img/software/af_pipeline_logo.png" width="450" height="471" >
+</div>
+<div class="column-one">
+<h3>AF-Pipeline</h3>
+<p>A package for AlphaFold-related workflows.</p>
+<a href="https://github.com/isblab/af_pipeline" class="button">GitHub</a>
+<a href="https://isblab.github.io/af_pipeline/" class="button">AF-Pipeline</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<br>
 <h4><b>IDRs in complexes</b></h4>
 <hr width="100%" margin="auto" style="border-top: 2px solid grey;">
 <div class="container-fluid">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
-<div class="column-two">
-<img src="/static/img/software/disobind.png">
-</div>
 <div class="column-one">
 <h3>Disobind</h3>
 <p>A deep-learning method to predict inter-protein contact maps and interface residues for an intrinsically disordered region (IDR) and a partner protein from their sequences</p>
 <a href="https://github.com/isblab/Disobind" class="button">GitHub</a>
+</div>
+<div class="column-two">
+<img src="/static/img/software/disobind.png">
 </div>
 </div>
 </div>
@@ -35,13 +57,13 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
+<div class="column-two">
+<img src="/static/img/software/picket.png">
+</div>
 <div class="column-one">
 <h3>PickET</h3>
 <p>An unsupervised method for localizing macromolecules in cryo-electron tomograms.</p>
 <a href="https://github.com/isblab/pickET" class="button">GitHub</a>
-</div>
-<div class="column-two">
-<img src="/static/img/software/picket.png">
 </div>
 </div>
 </div>
@@ -52,22 +74,6 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h4><b>Integrative structural modeling</b></h4>
 <hr width="100%" margin="auto" style="border-top: 2px solid grey;">
 <div class="container-fluid">
-
-<div class="content-container" style="background-color: #ffffff;">
-<div class="col-container">
-<div class="column-two">
-<img src="/static/img/software/af_pipeline_logo.png" width="450" height="471" >
-</div>
-<div class="column-one">
-<h3>AF-Pipeline</h3>
-<p>A toolbox for AlphaFold-related workflows.</p>
-<a href="https://github.com/isblab/af_pipeline" class="button">GitHub</a>
-<a href="https://isblab.github.io/af_pipeline/" class="button">AF-Pipeline</a>
-</div>
-</div>
-</div>
-
-<hr width="100%" margin="auto">
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
