@@ -55,14 +55,14 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 <div class="content-container" style="background-color: #ffffff;">
 <div class="col-container">
+<div class="column-two">
+<img src="/static/img/software/af_pipeline_logo.png" width="450" height="471" >
+</div>
 <div class="column-one">
 <h3>AF-Pipeline</h3>
 <p>A toolbox for AlphaFold-related workflows.</p>
 <a href="https://github.com/isblab/af_pipeline" class="button">GitHub</a>
 <a href="https://isblab.github.io/af_pipeline/" class="button">AF-Pipeline</a>
-</div>
-<div class="column-two">
-<img src="/static/img/software/af_pipeline_logo.png" width="450" height="471" >
 </div>
 </div>
 </div>
