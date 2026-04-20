@@ -23,7 +23,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>AF-Pipeline</h3>
 <p>A package for AlphaFold-related workflows.</p>
 <a href="https://github.com/isblab/af_pipeline" class="button">GitHub</a>
-<a href="https://isblab.github.io/af_pipeline/" class="button">AF-Pipeline</a>
+<a href="https://isblab.github.io/af_pipeline/" class="button">Documentation</a>
 </div>
 </div>
 </div>
@@ -64,6 +64,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>PickET</h3>
 <p>An unsupervised method for localizing macromolecules in cryo-electron tomograms.</p>
 <a href="https://github.com/isblab/pickET" class="button">GitHub</a>
+<a href="https://isblab.github.io/pickET/" class="button">Documentation</a>
 </div>
 </div>
 </div>
