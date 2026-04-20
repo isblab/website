@@ -46,4 +46,6 @@ Only candidates with prior programming experience are considered.  Must be willi
 <!-- No open positions currently.
 <br><br> 
 **Interns**: Positions are currently filled and we are unable to reply to individual emails.<br><br> -->
+Email Shruthi with your CV, Github account, and a short statement expressing why you want to train with us.
+
 **Summer internships** : Positions for 2026 are filled.
