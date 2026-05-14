@@ -177,6 +177,11 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h4><b>Integrative Modeling Tutorials and Workshops</b></h4>
 <ul>
     <li>
+        "Understanding and applying protein language models" at <a href="https://meetings.embo.org/event/26-ai-structural-bio" class="link">AI-driven approaches in structural biology</a> IISc Bangalore 2026. 
+        <a href="https://github.com/isblab/dl_workshop" class="link">GitHub</a> | 
+        <a href="https://drive.google.com/file/d/1h1adjoNkD1o5dRlh5NQCFJjSjUEP_nwU/view?usp=sharing" class="link">Talks</a>
+    </li>
+    <li>
         IMP Tutorial at <a href="https://www.ncbs.res.in/events/cryo-em" class="link">Model building, Refinement and Validation of data derived from Cryo-EM</a> NCBS Bangalore 2026. 
         <a href="https://github.com/isblab/IMP_Tutorial/tree/ncbs_ccpem" class="link">GitHub</a> | 
         <a href="https://docs.google.com/presentation/d/1hnKXZMIRj-xJZWRoe0UKNYyMbZcDkbO8/edit?usp=sharing&ouid=107573675581756580599&rtpof=true&sd=true" class="link">Talks</a>
