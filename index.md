@@ -31,9 +31,6 @@ Another focus lies in characterizing the structures and functions of specific as
 ## News
 <hr>
 - [Disobind](https://doi.org/10.1016/j.cels.2025.101486), our method for predicting IDR binding sites, is out! Check out the [Cell Systems preview](https://doi.org/10.1016/j.cels.2025.101508) and the [NCBS Research Explained article](https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do).
-- Join us for the upcoming workshop on integrative modeling organized by ISB Lab at NCBS as part of the [Model building, Refinement and Validation workshop](https://www.ncbs.res.in/events/cryo-em) in March 2026!
-- We will also be organizing a tutorial and lecture on deep learning with protein language models as part of the [EMBO Workshop on AI-driven approaches in structural biology](https://sites.google.com/view/embo-workshop-iisc-2026/home) in April 2026.
-
 
 ## Join us!
 <hr>
