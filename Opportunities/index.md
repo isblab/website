@@ -16,11 +16,7 @@ Another focus is to combine protein structural modeling with data from cell biol
 </p>
 
 <p class="text-justify">
-The lab is an interdisciplinary environment and has had students from biology (biochemistry, biotech, microbiology), medicine, physics, chemistry, computer science, and engineering backgrounds. Folks who'd like to cross-train (e.g., biologists who are curious about programming, or computer scientists who'd like to develop tools for biology) are most welcome.  <br><br>
-
-</p>
-
-<p class="text-justify">
+The lab is an interdisciplinary environment and has had students from biology (biochemistry, biotech, microbiology), medicine, physics, chemistry, computer science, and engineering backgrounds.
 Students who join the lab must be interested to do computer programming. They usually develop novel computational methods in addition to modeling specific biological systems. Prior programming background is helpful, but an analytical bent of mind, curiosity, and initiative are more important.<br><br>
 
 </p>
