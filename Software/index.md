@@ -23,6 +23,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>AF-Pipeline</h3>
 <p>A package for AlphaFold-related workflows.</p>
 <a href="https://github.com/isblab/af_pipeline" class="button">GitHub</a>
+<a href="https://github.com/isblab/af_pipeline#tutorial" class="button">Tutorial</a>
 <a href="https://isblab.github.io/af_pipeline/" class="button">Documentation</a>
 </div>
 </div>
@@ -41,6 +42,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h3>Disobind</h3>
 <p>A deep-learning method to predict inter-protein contact maps and interface residues for an intrinsically disordered region (IDR) and a partner protein from their sequences</p>
 <a href="https://github.com/isblab/Disobind" class="button">GitHub</a>
+<a href="https://colab.research.google.com/drive/13EOqRV9sMwDLm0EEsFirFlXDHquSK4hF?usp=sharing" class="button">Colab Notebook</a>
 </div>
 <div class="column-two">
 <img src="/static/img/software/disobind.png">
@@ -177,6 +179,16 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h4><b>Integrative Modeling Tutorials and Workshops</b></h4>
 <ul>
     <li>
+        "Understanding and applying protein language models" at <a href="https://www.ncbs.res.in/events/ss-0" class="link">Computational Biology Summer School</a> NCBS Bangalore 2026. 
+        <a href="https://github.com/isblab/dl_workshop" class="link">GitHub</a> | 
+        <a href="https://drive.google.com/file/d/1SZbOg2n1lv-Xr1ssMlsfBM1h_h_txVnH/view?usp=drive_link" class="link">Talks</a>
+    </li>
+    <li>
+        IMP Tutorial at <a href="https://www.ncbs.res.in/events/ss-0" class="link">Computational Biology Summer School </a> NCBS Bangalore 2026. 
+        <a href="https://github.com/isblab/IMP_Tutorial/tree/ncbs_ccpem" class="link">GitHub</a> | 
+        <a href="https://docs.google.com/presentation/d/135a-xgvbluJLAo_l0FxQ27Hc1Ux-yHn3/edit?usp=sharing&ouid=107573675581756580599&rtpof=true&sd=true" class="link">Talks</a>
+    </li>
+    <li>
         "Understanding and applying protein language models" at <a href="https://meetings.embo.org/event/26-ai-structural-bio" class="link">AI-driven approaches in structural biology</a> IISc Bangalore 2026. 
         <a href="https://github.com/isblab/dl_workshop" class="link">GitHub</a> | 
         <a href="https://drive.google.com/file/d/1h1adjoNkD1o5dRlh5NQCFJjSjUEP_nwU/view?usp=sharing" class="link">Talks</a>
@@ -196,9 +208,9 @@ Check out software developed by our group and other open-source freebies at [ISB
         <a href="https://github.com/isblab/IMP_Tutorial/tree/masfe2023" class="link">GitHub</a> | 
         <a href="https://drive.google.com/drive/folders/188BHx67a8Wq53nDTanM-vWwX3X9F_OS5" class="link">Talks</a>
     </li>
-    <li>
+    <!-- <li>
         <a href="https://integrativemodeling.org/talks.html" class="link">IMP Workshops</a>
-    </li>
+    </li> -->
 </ul>
 <hr>
 <br>
