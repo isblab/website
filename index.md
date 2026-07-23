@@ -30,8 +30,8 @@ Another focus lies in characterizing the structures and functions of specific as
 <!-- ## Upcoming events -->
 ## News
 <hr>
-- [Disobind](https://doi.org/10.1016/j.cels.2025.101486), our method for predicting IDR binding sites, is out! Check out the [Cell Systems preview](https://doi.org/10.1016/j.cels.2025.101508) and the [NCBS Research Explained article](https://news.ncbs.res.in/research-explained/how-scientists-predict-what-shapeless-proteins-do).
-- Join us for the new NCBS [summer school in computational biology](https://www.ncbs.res.in/events/ss-0) during July 5-12!
+- Calling for short abstracts in the AI for Biology track for India KDD’s premier ML conference [CODS 2026](https://ikdd.acm.org/cods-2026/call-for-ai-for-biology-track-papers.php)
+- Join us for the [AI in Biology Mini symposium](https://www.ncbs.res.in/events/ai/biology) at NCBS on 14th August.
 
 ## Join us!
 <hr>
