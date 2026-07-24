@@ -31,7 +31,8 @@ Another focus lies in characterizing the structures and functions of specific as
 ## News
 <hr>
 - Calling for short abstracts in the AI for Biology track for India KDD’s premier ML conference [CODS 2026](https://ikdd.acm.org/cods-2026/call-for-ai-for-biology-track-papers.php)
-- Join us for the [AI in Biology Mini symposium](https://www.ncbs.res.in/events/ai/biology) at NCBS on 14th August.
+- Join us for the [AI in Biology Mini symposium](https://www.ncbs.res.in/events/ai/biology) at NCBS on 14<sup>th</sup> August.
+- Shruthi will be discussing the lab’s work in the [Biomolecular & Materials Modelling platform of India (BMMP-India) seminar](https://bm-mp.in/) on 7<sup>th</sup> August and the [DRIIMB seminar](https://driimb.org/welcome/events/) on 27<sup>th</sup> August.
 
 ## Join us!
 <hr>
