@@ -179,6 +179,11 @@ Check out software developed by our group and other open-source freebies at [ISB
 <h4><b>Integrative Modeling Tutorials and Workshops</b></h4>
 <ul>
     <li>
+        "AF-Pipeline workshop" at <a href="https://www.ncbs.res.in/events/ss-0" class="link">Computational Biology Summer School</a> NCBS Bangalore 2026.
+        <a href="https://github.com/isblab/af_pipeline" class="link">GitHub</a> | 
+        <a href="https://github.com/isblab/af_pipeline/blob/main/tutorials/AF_pipeline_NCBS_summer_school_2026.pdf" class="link">Talks</a>
+    </li>
+    <li>
         "Understanding and applying protein language models" at <a href="https://www.ncbs.res.in/events/ss-0" class="link">Computational Biology Summer School</a> NCBS Bangalore 2026. 
         <a href="https://github.com/isblab/dl_workshop" class="link">GitHub</a> | 
         <a href="https://drive.google.com/file/d/1SZbOg2n1lv-Xr1ssMlsfBM1h_h_txVnH/view?usp=drive_link" class="link">Talks</a>
