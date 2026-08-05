@@ -176,7 +176,7 @@ Check out software developed by our group and other open-source freebies at [ISB
 
 <h2>Courses and Workshops</h2>
 <hr>
-<h4><b>Integrative Modeling Tutorials and Workshops</b></h4>
+<h4><b>Tutorials and Workshops</b></h4>
 <ul>
     <li>
         "AF-Pipeline workshop" at <a href="https://www.ncbs.res.in/events/ss-0" class="link">Computational Biology Summer School</a> NCBS Bangalore 2026.
@@ -194,17 +194,17 @@ Check out software developed by our group and other open-source freebies at [ISB
         <a href="https://docs.google.com/presentation/d/135a-xgvbluJLAo_l0FxQ27Hc1Ux-yHn3/edit?usp=sharing&ouid=107573675581756580599&rtpof=true&sd=true" class="link">Talks</a>
     </li>
     <li>
-        "Understanding and applying protein language models" at <a href="https://meetings.embo.org/event/26-ai-structural-bio" class="link">AI-driven approaches in structural biology</a> IISc Bangalore 2026. 
+        "Understanding and applying protein language models" at <a href="https://meetings.embo.org/event/26-ai-structural-bio" class="link">EMBO AI-driven approaches in structural biology</a> IISc Bangalore 2026. 
         <a href="https://github.com/isblab/dl_workshop" class="link">GitHub</a> | 
         <a href="https://drive.google.com/file/d/1h1adjoNkD1o5dRlh5NQCFJjSjUEP_nwU/view?usp=sharing" class="link">Talks</a>
     </li>
     <li>
-        IMP Tutorial at <a href="https://www.ncbs.res.in/events/cryo-em" class="link">Model building, Refinement and Validation of data derived from Cryo-EM</a> NCBS Bangalore 2026. 
+        IMP Tutorial at <a href="https://www.ncbs.res.in/events/cryo-em" class="link">NCBS CCPEM Model building, Refinement and Validation of data derived from Cryo-EM</a> NCBS Bangalore 2026. 
         <a href="https://github.com/isblab/IMP_Tutorial/tree/ncbs_ccpem" class="link">GitHub</a> | 
         <a href="https://docs.google.com/presentation/d/1hnKXZMIRj-xJZWRoe0UKNYyMbZcDkbO8/edit?usp=sharing&ouid=107573675581756580599&rtpof=true&sd=true" class="link">Talks</a>
     </li>
     <li>
-        IMP Tutorial at <a href="https://meetings.embo.org/event/24-cryo-em" class="link">EMBOCEM3DIP</a> IISc Bangalore 2024. 
+        IMP Tutorial at <a href="https://meetings.embo.org/event/24-cryo-em" class="link">EMBO CEM3DIP</a> IISc Bangalore 2024. 
         <a href="https://github.com/isblab/IMP_Tutorial/tree/main" class="link">GitHub</a> | 
         <a href="https://drive.google.com/drive/folders/13dUNwgPMZE0mAeyGEdUwgnGz5ybfxs1Z" class="link">Talks</a>
     </li>
