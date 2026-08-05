@@ -23,6 +23,6 @@ links:
   - - name: Movie
       url: "/static/img/pubpics/DesmosomeMovie.mp4"
   - - name: Cover image on Protein Science!
-      url: https://onlinelibrary.wiley.com/toc/1469896x/current
+      url: https://onlinelibrary.wiley.com/doi/10.1002/pro.5040
 ---
 
