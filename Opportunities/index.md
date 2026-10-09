@@ -46,6 +46,6 @@ Only candidates with prior programming experience are considered.  Must be willi
 
 **Positions for 2026** :
 
-Note: All positions in this category are filled for now. Due to the volume of applicants, your email in this regard might regretfully not receive a response. 
+Note: All positions in this category are filled till **mid 2027**. Due to the volume of applicants, your email in this regard might regretfully not receive a response. 
 
 <!-- **Summer internships** : Positions for 2026 are filled. -->
