@@ -5,10 +5,14 @@ journal: "Molecular & Cell Proteomics"
 pub_date: "2026-09-01"
 image: /static/img/pubpics/hdac.jpg
 doi: https://doi.org/10.1016/j.mcpro.2026.101651
-pdf: https://www.sciencedirect.com/science/article/pii/S1535947626001477/pdfft?md5=6c02147246bb53078c947e6ad3445727&pid=1-s2.0-S1535947626001477-main.pdf
-supplementary: https://www.sciencedirect.com/science/article/pii/S1535947626001477#appsec1
+pdf: https://www.mcponline.org/action/showPdf?pii=S1535-9476%2826%2900147-7
+supplementary: https://ars.els-cdn.com/content/image/1-s2.0-S1535947626001477-mmc5.pdf
 github: https://github.com/isblab/hdac
 dataset: https://doi.org/10.5281/zenodo.11056108
+pdb_structures:
+  - https://www.wwpdb.org/pdb?id=pdb_00009a8o
+  - https://www.wwpdb.org/pdb?id=pdb_00009a8p
+  - https://www.wwpdb.org/pdb?id=pdb_00009a8q
 links:
   - - name: Washburn Lab
       url: https://www.kumc.edu/mwashburn4.html
