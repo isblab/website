@@ -10,9 +10,9 @@ supplementary: https://ars.els-cdn.com/content/image/1-s2.0-S1535947626001477-mm
 github: https://github.com/isblab/hdac
 dataset: https://doi.org/10.5281/zenodo.11056108
 pdb_structures:
-  - https://www.wwpdb.org/pdb?id=pdb_00009a8o
-  - https://www.wwpdb.org/pdb?id=pdb_00009a8p
-  - https://www.wwpdb.org/pdb?id=pdb_00009a8q
+  - https://pdb-ihm.org/entry.html?9A8O
+  - https://pdb-ihm.org/entry.html?9A8P
+  - https://pdb-ihm.org/entry.html?9A8Q
 links:
   - - name: Washburn Lab
       url: https://www.kumc.edu/mwashburn4.html
